@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "58194a2173c50ea83d61",
-  "publishedAt": "2026-06-10T16:57:59+00:00",
+  "version": "7c4dd5ec30d4a5c86fe0",
+  "publishedAt": "2026-06-10T17:13:37+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -17,13 +17,15 @@
             "id": "alimentation-rtt",
             "title": "Alimentation RTT",
             "category": "Compteurs RTT",
-            "body": "RTT : Les jours RTT sont des journées octroyées pour compenser une durée du travail qui serait supérieur à la durée légale, il est alimenté en fonction du nombre de jours entiers travaillés. \nLes JRTT se calculent du 1er Avril au 31 Mars de l’Année suivante (Ouvrier / Employé) et peuvent être pris que par journée ou demi-journée.\nLes JRTT se calculent en Année civile pour l’encadrement et peuvent être pris que par journée ou demi-journée.\nAinsi, leur nombre varie en fonction de l’horaire de travail des salariés :\n-\tPour une personne en équipe (avec un horaire de 37,5h hebdomadaires): 13 Jours de travail cumulés permettent d'acquérir 1 JRTT soit 15 jours de RTT pour une base horaire mensuelle de 152.25 h.\n-\tPour une personne en journée (avec un horaire de 36,5 h hebdomadaires): 23 jours de travail cumulés permettent d'acquérir 1 JRTT soit 9 jours de RTT pour une base horaire mensuelle de 152.25 h.\n-\tPour les TAM avec un horaire de 39,5 h : 15 Jours de travail cumulés permette d’acquérir 1 JRTT :\n-\t3 jours se substituant aux trois jours initialement prévus a l'article 12 de l'annexe 2 de la CCNIL, désormais généralisés et attribués sans condition d'ancienneté,\n-\t10 jours de repos complémentaires.\nSoit 13 jours de RTT pour une base horaire mensuelle de 160.95 h (ramenant le nombre annuel de jours travaillés à 214 jours en moyenne)."
+            "body": "RTT : Les jours RTT sont des journées octroyées pour compenser une durée du travail qui serait supérieur à la durée légale, il est alimenté en fonction du nombre de jours entiers travaillés. \nLes JRTT se calculent du 1er Avril au 31 Mars de l’Année suivante (Ouvrier / Employé) et peuvent être pris que par journée ou demi-journée.\nLes JRTT se calculent en Année civile pour l’encadrement et peuvent être pris que par journée ou demi-journée.\nAinsi, leur nombre varie en fonction de l’horaire de travail des salariés :\n-\tPour une personne en équipe (avec un horaire de 37,5h hebdomadaires): 13 Jours de travail cumulés permettent d'acquérir 1 JRTT soit 15 jours de RTT pour une base horaire mensuelle de 152.25 h.\n-\tPour une personne en journée (avec un horaire de 36,5 h hebdomadaires): 23 jours de travail cumulés permettent d'acquérir 1 JRTT soit 9 jours de RTT pour une base horaire mensuelle de 152.25 h.\n-\tPour les TAM avec un horaire de 39,5 h : 15 Jours de travail cumulés permette d’acquérir 1 JRTT :\n-\t3 jours se substituant aux trois jours initialement prévus a l'article 12 de l'annexe 2 de la CCNIL, désormais généralisés et attribués sans condition d'ancienneté,\n-\t10 jours de repos complémentaires.\nSoit 13 jours de RTT pour une base horaire mensuelle de 160.95 h (ramenant le nombre annuel de jours travaillés à 214 jours en moyenne).",
+            "image": ""
           },
           {
             "id": "conges-payes",
             "title": "Congés Payés",
             "category": "Compeurs Congés Payés",
-            "body": "Période de prise de congés payés : La période de prise des CP va du 1er Juin au 31 mai. \nLa période de prise des congés d'été commence le 1er juin et se termine le 31 octobre avec maximum de 4 semaines de congés sur cette période.\nPour des raisons d'organisation, pendant les mois de juin, juillet et août, les salariés doivent prendre au minimum 2 semaines de congés en continu et au maximum 3 semaines de congés.\nDes dérogations peuvent être demandées pour des motifs légitimes à exposer dans un courrier et après approbation du Responsable de Service concerné et du Responsable RH.\nLes manageurs établissent le planning en tenant compte des incompatibilités de prises de congés payés simultanés.\nLes congés payés doivent faire l'objet d'une demande préalable et sont soumis à l’accord du responsable hiérarchique.\nLes demandes de congés payés doivent contenir au moins 2 choix avec des dates de début espacées de 2 semaines.\nPour résoudre les problèmes de blocage, l'ordre des congés sera déterminé d'après les critères successifs suivants :\n-\tMaintient en poste des compétences minimum nécessaires pour le bon fonctionnement des ateliers de production.\n-\tLes salariés ayant remis leur demande de congés dans les délais.\n-\tLes salariés n’ayant pas eu leur 1er choix pour l'été précédent. \n-\tPossibilités du conjoint salarié Bel.\nAnticipation de prise de congés payés :\nLa prise anticipée de CP est possible sous deux conditions :\n-\tQue le salarié et hiérarchie soient tous les deux d'accord. \n-\tQue cela reste dans la limite des droits acquis par le salarié.\nDemande de jours ponctuels :\n-\tLes demandes doivent intervenir au plus tard le jeudi de la semaine précédente.\n-\tLes réponses doivent être données le lendemain.\nDemande de semaines de repos :\n-\tLes demandes doivent intervenir au plus tard 3 semaines à l'avance. \n-\tLes réponses doivent être données la semaine suivante."
+            "body": "Période de prise de congés payés : La période de prise des CP va du 1er Juin au 31 mai. \nLa période de prise des congés d'été commence le 1er juin et se termine le 31 octobre avec maximum de 4 semaines de congés sur cette période.\nPour des raisons d'organisation, pendant les mois de juin, juillet et août, les salariés doivent prendre au minimum 2 semaines de congés en continu et au maximum 3 semaines de congés.\nDes dérogations peuvent être demandées pour des motifs légitimes à exposer dans un courrier et après approbation du Responsable de Service concerné et du Responsable RH.\nLes manageurs établissent le planning en tenant compte des incompatibilités de prises de congés payés simultanés.\nLes congés payés doivent faire l'objet d'une demande préalable et sont soumis à l’accord du responsable hiérarchique.\nLes demandes de congés payés doivent contenir au moins 2 choix avec des dates de début espacées de 2 semaines.\nPour résoudre les problèmes de blocage, l'ordre des congés sera déterminé d'après les critères successifs suivants :\n-\tMaintient en poste des compétences minimum nécessaires pour le bon fonctionnement des ateliers de production.\n-\tLes salariés ayant remis leur demande de congés dans les délais.\n-\tLes salariés n’ayant pas eu leur 1er choix pour l'été précédent. \n-\tPossibilités du conjoint salarié Bel.\nAnticipation de prise de congés payés :\nLa prise anticipée de CP est possible sous deux conditions :\n-\tQue le salarié et hiérarchie soient tous les deux d'accord. \n-\tQue cela reste dans la limite des droits acquis par le salarié.\nDemande de jours ponctuels :\n-\tLes demandes doivent intervenir au plus tard le jeudi de la semaine précédente.\n-\tLes réponses doivent être données le lendemain.\nDemande de semaines de repos :\n-\tLes demandes doivent intervenir au plus tard 3 semaines à l'avance. \n-\tLes réponses doivent être données la semaine suivante.",
+            "image": ""
           }
         ],
         "categories": [
@@ -31,7 +33,8 @@
           "Compeurs RCL",
           "Compeurs RCR",
           "Compteurs RTT"
-        ]
+        ],
+        "image": ""
       },
       "news": {
         "title": "Actualités",
@@ -39,7 +42,8 @@
         "introduction": "Les informations importantes liées aux droits et accords de l’entreprise.",
         "icon": "news",
         "items": [],
-        "categories": []
+        "categories": [],
+        "image": ""
       },
       "faq": {
         "title": "Questions fréquentes",
@@ -47,7 +51,8 @@
         "introduction": "Des réponses rapides aux questions les plus courantes.",
         "icon": "help",
         "items": [],
-        "categories": []
+        "categories": [],
+        "image": ""
       },
       "contacts": {
         "title": "Contacts utiles",
@@ -59,17 +64,52 @@
             "id": "e-mail-syndicat-cgt-bel",
             "title": "E-mail syndicat CGT BEL",
             "category": "E-mail : syndicatscgtbel@gmail.com",
-            "body": "test"
+            "body": "test",
+            "image": ""
           }
         ],
         "categories": [
           "E-mail : syndicatscgtbel@gmail.com"
-        ]
+        ],
+        "image": ""
       }
     },
     "agreementCategories": [
       "Primes",
       "Santé"
-    ]
+    ],
+    "app": {
+      "welcome": {
+        "title": "Mes Droits",
+        "titleAccent": "BEL",
+        "subtitle": "Avantages, accords et droits des salariés",
+        "buttonLabel": "Entrer",
+        "logoImage": "",
+        "heroImage": ""
+      },
+      "home": {
+        "greeting": "Bonjour",
+        "title": "Mes Droits",
+        "titleAccent": "BEL",
+        "notificationTitle": "Bienvenue dans Mes Droits BEL",
+        "notificationText": "Les nouveaux accords apparaîtront ici dès leur publication.",
+        "searchPlaceholder": "Rechercher un accord, un droit...",
+        "constructionTitle": "Application en construction",
+        "constructionText": "Les accords seront ajoutés progressivement pour extraire vos droits au fil du temps."
+      },
+      "rights": {
+        "title": "Mes droits",
+        "introduction": "Les droits validés et publiés depuis l’outil de gestion.",
+        "emptyTitle": "Aucun droit publié",
+        "emptyText": "Aucune fiche de droit n’a encore été publiée."
+      },
+      "agreements": {
+        "title": "Accords BEL",
+        "searchPlaceholder": "Rechercher dans les accords",
+        "emptyText": "Aucun accord ne correspond à ces critères.",
+        "infoTitle": "Les droits extraits apparaîtront ici",
+        "infoText": "Une fois les accords analysés, les droits associés seront affichés dans cette zone."
+      }
+    }
   }
 }
