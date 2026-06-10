@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "7c4dd5ec30d4a5c86fe0",
-  "publishedAt": "2026-06-10T17:13:37+00:00",
+  "version": "36fe95f33c0336c4f022",
+  "publishedAt": "2026-06-10T18:08:26+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -84,8 +84,8 @@
         "titleAccent": "BEL",
         "subtitle": "Avantages, accords et droits des salariés",
         "buttonLabel": "Entrer",
-        "logoImage": "",
-        "heroImage": ""
+        "logoImage": "media/5a511ed05a8f19151c2c.png",
+        "heroImage": "media/32d4636bf6878d35798b.jpg"
       },
       "home": {
         "greeting": "Bonjour",
