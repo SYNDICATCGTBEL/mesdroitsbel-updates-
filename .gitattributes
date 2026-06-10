@@ -1,0 +1,2 @@
+Logiciel/Android/*.apk filter=lfs diff=lfs merge=lfs -text
+Logiciel/Windows/*.exe filter=lfs diff=lfs merge=lfs -text
