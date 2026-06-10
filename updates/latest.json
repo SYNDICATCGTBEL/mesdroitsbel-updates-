@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "c41d47e6f6d52cd72628",
-  "publishedAt": "2026-06-10T19:03:32+00:00",
+  "version": "8a1c61cece8afcf9b815",
+  "publishedAt": "2026-06-10T19:35:31+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -62,14 +62,14 @@
         "items": [
           {
             "id": "e-mail-syndicat-cgt-bel",
-            "title": "E-mail syndicat CGT BEL",
-            "category": "E-mail : syndicatscgtbel@gmail.com",
-            "body": "test",
-            "image": ""
+            "title": "E-Mail Syndicat CGT BEL",
+            "category": "E-Mail",
+            "body": "Contacter la CGT BEL\n\nTu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?\n\nUtilise cette adresse e-mail pour contacter le syndicat CGT BEL.\n\nLa CGT BEL est là pour t’écouter, t’informer et t’accompagner.\n\nTon message reste confidentiel.\n\nIndique dans ton e-mail :\nTon nom et prénom\nTon site\nTon service\nLe sujet de ta demande\nLes documents utiles si tu en as\n\nLa CGT BEL te répondra dès que possible.\n\nUn doute, une difficulté, une injustice au travail ?\nÉcris-nous.",
+            "image": "media/34de603668fb937d1385.jpg"
           }
         ],
         "categories": [
-          "E-mail : syndicatscgtbel@gmail.com"
+          "E-Mail"
         ],
         "image": ""
       }
