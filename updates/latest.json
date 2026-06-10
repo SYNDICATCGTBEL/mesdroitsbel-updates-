@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "14dfcda1d23ad2fabc6c",
-  "publishedAt": "2026-06-10T19:43:35+00:00",
+  "version": "39e46d663e4cfc2740e0",
+  "publishedAt": "2026-06-10T22:09:44+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -72,6 +72,72 @@
           "E-Mail"
         ],
         "image": ""
+      },
+      "preferences": {
+        "title": "Mes préférences",
+        "description": "Notifications et affichage",
+        "introduction": "Personnalisez la façon dont l’application vous informe.",
+        "icon": "settings",
+        "image": "",
+        "categories": [
+          "Informations"
+        ],
+        "items": [
+          {
+            "id": "notifications",
+            "title": "Notifications",
+            "category": "Informations",
+            "body": "Retrouvez ici les informations concernant les notifications de l’application.",
+            "image": ""
+          },
+          {
+            "id": "accords-suivis",
+            "title": "Accords suivis",
+            "category": "Informations",
+            "body": "Retrouvez ici les informations concernant le suivi des accords.",
+            "image": ""
+          },
+          {
+            "id": "affichage",
+            "title": "Affichage",
+            "category": "Informations",
+            "body": "Retrouvez ici les informations concernant l’affichage de l’application.",
+            "image": ""
+          }
+        ]
+      },
+      "privacy": {
+        "title": "Confidentialité",
+        "description": "Comprendre l’utilisation des données",
+        "introduction": "Les mises à jour contiennent uniquement les fiches validées.",
+        "icon": "privacy",
+        "image": "",
+        "categories": [
+          "Informations"
+        ],
+        "items": [
+          {
+            "id": "aucune-donnee-personnelle-collectee",
+            "title": "Aucune donnée personnelle collectée",
+            "category": "Informations",
+            "body": "L’application n’enregistre aucune donnée personnelle concernant les salariés.",
+            "image": ""
+          },
+          {
+            "id": "aucun-accord-source-telecharge",
+            "title": "Aucun accord source téléchargé",
+            "category": "Informations",
+            "body": "Seuls les contenus validés et publiés sont téléchargés par l’application.",
+            "image": ""
+          },
+          {
+            "id": "fiches-conservees-localement",
+            "title": "Fiches conservées localement après mise à jour",
+            "category": "Informations",
+            "body": "Les fiches téléchargées restent disponibles hors connexion sur l’appareil.",
+            "image": ""
+          }
+        ]
       }
     },
     "agreementCategories": [
