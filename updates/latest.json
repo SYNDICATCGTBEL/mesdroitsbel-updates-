@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "version": "0b31042c18438a74a01e",
+  "publishedAt": "2026-06-10T10:50:50+00:00",
+  "rights": [],
+  "content": {
+    "schemaVersion": 1,
+    "agreements": [
+      {
+        "id": "teletravail",
+        "title": "Accord télétravail",
+        "category": "Télétravail",
+        "description": "Organisation du télétravail au sein de BEL.",
+        "status": "À analyser",
+        "icon": "telework",
+        "summary": "Cet espace rassemblera les modalités d'accès, le nombre de jours possibles et les équipements pris en charge.",
+        "points": [
+          "Éligibilité selon le poste",
+          "Organisation avec le manager",
+          "Équipements et indemnités"
+        ]
+      },
+      {
+        "id": "frais-sante",
+        "title": "Frais de santé",
+        "category": "Santé",
+        "description": "Prise en charge des frais de santé des salariés.",
+        "status": "En cours d'ajout",
+        "icon": "health",
+        "summary": "Retrouvez les informations utiles sur la complémentaire santé et la participation de votre employeur.",
+        "points": [
+          "Garanties principales",
+          "Ayants droit",
+          "Démarches de remboursement"
+        ]
+      },
+      {
+        "id": "nao",
+        "title": "NAO",
+        "category": "Primes",
+        "description": "Négociations annuelles obligatoires.",
+        "status": "Disponible",
+        "icon": "chart",
+        "summary": "Les résultats des négociations annuelles seront synthétisés ici pour rendre les mesures plus lisibles.",
+        "points": [
+          "Évolution des salaires",
+          "Primes et enveloppes",
+          "Calendrier de mise en œuvre"
+        ]
+      }
+    ],
+    "pages": {
+      "benefits": {
+        "title": "Avantages",
+        "description": "Les avantages dont vous bénéficiez",
+        "introduction": "Les principaux dispositifs et avantages accessibles aux salariés BEL.",
+        "icon": "gift",
+        "items": [],
+        "categories": []
+      },
+      "news": {
+        "title": "Actualités",
+        "description": "Rester informé des nouveautés",
+        "introduction": "Les informations importantes liées aux droits et accords de l’entreprise.",
+        "icon": "news",
+        "items": [],
+        "categories": []
+      },
+      "faq": {
+        "title": "Questions fréquentes",
+        "description": "Trouvez des réponses à vos questions",
+        "introduction": "Des réponses rapides aux questions les plus courantes.",
+        "icon": "help",
+        "items": [],
+        "categories": []
+      },
+      "contacts": {
+        "title": "Contacts utiles",
+        "description": "Les bons contacts à portée de main",
+        "introduction": "Vos élus CGT BEL sont à votre service",
+        "icon": "phone",
+        "items": [
+          {
+            "id": "e-mail-syndicat-cgt-bel",
+            "title": "E-mail syndicat CGT BEL",
+            "category": "E-mail : syndicatscgtbel@gmail.com",
+            "body": "test"
+          }
+        ],
+        "categories": [
+          "E-mail : syndicatscgtbel@gmail.com"
+        ]
+      }
+    },
+    "agreementCategories": [
+      "Primes",
+      "Santé",
+      "Télétravail"
+    ]
+  }
+}
