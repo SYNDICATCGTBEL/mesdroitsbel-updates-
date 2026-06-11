@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "0fbff609b5e47c9d443f",
-  "publishedAt": "2026-06-10T23:18:26+00:00",
+  "version": "1216bced3a78c7998c2e",
+  "publishedAt": "2026-06-10T23:35:25+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -18,14 +18,20 @@
             "title": "Alimentation RTT",
             "category": "Compteurs RTT",
             "body": "RTT : Les jours RTT sont des journées octroyées pour compenser une durée du travail qui serait supérieur à la durée légale, il est alimenté en fonction du nombre de jours entiers travaillés. \nLes JRTT se calculent du 1er Avril au 31 Mars de l’Année suivante (Ouvrier / Employé) et peuvent être pris que par journée ou demi-journée.\nLes JRTT se calculent en Année civile pour l’encadrement et peuvent être pris que par journée ou demi-journée.\nAinsi, leur nombre varie en fonction de l’horaire de travail des salariés :\n-\tPour une personne en équipe (avec un horaire de 37,5h hebdomadaires): 13 Jours de travail cumulés permettent d'acquérir 1 JRTT soit 15 jours de RTT pour une base horaire mensuelle de 152.25 h.\n-\tPour une personne en journée (avec un horaire de 36,5 h hebdomadaires): 23 jours de travail cumulés permettent d'acquérir 1 JRTT soit 9 jours de RTT pour une base horaire mensuelle de 152.25 h.\n-\tPour les TAM avec un horaire de 39,5 h : 15 Jours de travail cumulés permette d’acquérir 1 JRTT :\n-\t3 jours se substituant aux trois jours initialement prévus a l'article 12 de l'annexe 2 de la CCNIL, désormais généralisés et attribués sans condition d'ancienneté,\n-\t10 jours de repos complémentaires.\nSoit 13 jours de RTT pour une base horaire mensuelle de 160.95 h (ramenant le nombre annuel de jours travaillés à 214 jours en moyenne).",
-            "image": ""
+            "image": "",
+            "images": [],
+            "attachments": [],
+            "richText": []
           },
           {
             "id": "conges-payes",
             "title": "Congés Payés",
             "category": "Compeurs Congés Payés",
             "body": "Période de prise de congés payés : La période de prise des CP va du 1er Juin au 31 mai. \nLa période de prise des congés d'été commence le 1er juin et se termine le 31 octobre avec maximum de 4 semaines de congés sur cette période.\nPour des raisons d'organisation, pendant les mois de juin, juillet et août, les salariés doivent prendre au minimum 2 semaines de congés en continu et au maximum 3 semaines de congés.\nDes dérogations peuvent être demandées pour des motifs légitimes à exposer dans un courrier et après approbation du Responsable de Service concerné et du Responsable RH.\nLes manageurs établissent le planning en tenant compte des incompatibilités de prises de congés payés simultanés.\nLes congés payés doivent faire l'objet d'une demande préalable et sont soumis à l’accord du responsable hiérarchique.\nLes demandes de congés payés doivent contenir au moins 2 choix avec des dates de début espacées de 2 semaines.\nPour résoudre les problèmes de blocage, l'ordre des congés sera déterminé d'après les critères successifs suivants :\n-\tMaintient en poste des compétences minimum nécessaires pour le bon fonctionnement des ateliers de production.\n-\tLes salariés ayant remis leur demande de congés dans les délais.\n-\tLes salariés n’ayant pas eu leur 1er choix pour l'été précédent. \n-\tPossibilités du conjoint salarié Bel.\nAnticipation de prise de congés payés :\nLa prise anticipée de CP est possible sous deux conditions :\n-\tQue le salarié et hiérarchie soient tous les deux d'accord. \n-\tQue cela reste dans la limite des droits acquis par le salarié.\nDemande de jours ponctuels :\n-\tLes demandes doivent intervenir au plus tard le jeudi de la semaine précédente.\n-\tLes réponses doivent être données le lendemain.\nDemande de semaines de repos :\n-\tLes demandes doivent intervenir au plus tard 3 semaines à l'avance. \n-\tLes réponses doivent être données la semaine suivante.",
-            "image": ""
+            "image": "",
+            "images": [],
+            "attachments": [],
+            "richText": []
           }
         ],
         "categories": [
@@ -47,7 +53,10 @@
             "title": "APPEL A LA GREVE",
             "category": "TRACTS CGT BEL",
             "body": "test",
-            "image": "media/85f281e6a6afa8931baf.png"
+            "image": "media/85f281e6a6afa8931baf.png",
+            "images": [],
+            "attachments": [],
+            "richText": []
           }
         ],
         "categories": [
@@ -75,7 +84,10 @@
             "title": "E-Mail Syndicat CGT BEL",
             "category": "E-Mail",
             "body": "Contacter la CGT BEL\n\nTu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?\n\nUtilise cette adresse e-mail pour contacter le syndicat CGT BEL : syndicatscgtbel@gmail.com\n\nLa CGT BEL est là pour t’écouter, t’informer et t’accompagner.\n\nTon message reste confidentiel.\n\nIndique dans ton e-mail :\nTon nom et prénom\nTon site\nTon service\nLe sujet de ta demande\nLes documents utiles si tu en as\n\nLa CGT BEL te répondra dès que possible.\n\nUn doute, une difficulté, une injustice au travail ?\nÉcris-nous.",
-            "image": "media/a058f086a564dc3a6e9d.jpeg"
+            "image": "media/a058f086a564dc3a6e9d.jpeg",
+            "images": [],
+            "attachments": [],
+            "richText": []
           }
         ],
         "categories": [
@@ -98,21 +110,30 @@
             "title": "Notifications",
             "category": "Informations",
             "body": "Retrouvez ici les informations concernant les notifications de l’application.",
-            "image": ""
+            "image": "",
+            "images": [],
+            "attachments": [],
+            "richText": []
           },
           {
             "id": "accords-suivis",
             "title": "Accords suivis",
             "category": "Informations",
             "body": "Retrouvez ici les informations concernant le suivi des accords.",
-            "image": ""
+            "image": "",
+            "images": [],
+            "attachments": [],
+            "richText": []
           },
           {
             "id": "affichage",
             "title": "Affichage",
             "category": "Informations",
             "body": "Retrouvez ici les informations concernant l’affichage de l’application.",
-            "image": ""
+            "image": "",
+            "images": [],
+            "attachments": [],
+            "richText": []
           }
         ]
       },
@@ -131,21 +152,30 @@
             "title": "Aucun accord source téléchargé",
             "category": "Informations",
             "body": "Seuls les contenus validés et publiés sont téléchargés par l’application.",
-            "image": ""
+            "image": "",
+            "images": [],
+            "attachments": [],
+            "richText": []
           },
           {
             "id": "aucune-donnee-personnelle-collectee",
             "title": "Confidentialité : Aucune donnée personnelle collectée",
             "category": "Informations",
             "body": "L'application Mes Droits BEL a pour objectif de mettre à disposition des salariés des informations relatives aux accords collectifs, aux droits sociaux, aux avantages et aux dispositifs applicables au sein de l'UES BEL.\n\n1. Respect de la confidentialité\n\nLa confidentialité des informations est un principe fondamental de l'application. Les données, documents et informations consultés ou déposés dans l'application sont traités avec le plus grand respect de la vie privée des utilisateurs.\n\nLes administrateurs s'engagent à :\n\n- Préserver la confidentialité des informations communiquées ;\n- Ne collecter que les données strictement nécessaires au fonctionnement de l'application ;\n- Ne jamais utiliser les informations à des fins commerciales ;\n- Ne jamais transmettre les données à des tiers non autorisés ;\n- Respecter les obligations légales relatives à la protection des données personnelles.\n\n2. Documents importés\n\nLes accords collectifs, avenants, notes de service ou tout autre document importé dans l'application sont utilisés uniquement pour :\n\n- L'analyse du contenu ;\n- L'extraction des droits applicables aux salariés ;\n- La création de fiches pratiques et d'informations synthétiques.\n\nLes documents ne sont pas diffusés publiquement sans autorisation lorsqu'ils contiennent des informations confidentielles ou soumises à des restrictions de diffusion.\n\n3. Données personnelles\n\nL'application est conçue pour limiter au maximum la collecte de données personnelles.\n\nLes informations éventuellement enregistrées peuvent inclure :\n\n- Nom ou pseudonyme utilisateur ;\n- Adresse électronique ;\n- Préférences de consultation ;\n- Favoris enregistrés dans l'application.\n\nAucune donnée sensible n'est collectée sans information préalable de l'utilisateur.\n\n4. Accès administrateur\n\nL'accès administrateur est strictement réservé aux personnes autorisées par l'équipe de gestion de l'application.\n\nLes administrateurs disposent d'un accès permettant :\n\n- L'importation d'accords ;\n- La modification des contenus ;\n- La validation des droits extraits ;\n- La publication des informations.\n\nIls sont soumis à une obligation de discrétion et de confidentialité concernant les informations auxquelles ils ont accès.\n\n5. Protection des données\n\nDes mesures techniques et organisationnelles sont mises en œuvre afin de :\n\n- Protéger les données contre tout accès non autorisé ;\n- Prévenir la perte, l'altération ou la divulgation des informations ;\n- Assurer la traçabilité des actions administrateur ;\n- Garantir l'intégrité des contenus publiés.\n\n6. Utilisation des informations publiées\n\nLes informations présentes dans l'application ont un objectif informatif et pédagogique.\n\nEn cas de différence entre une fiche synthétique et le texte officiel d'un accord collectif, seul le texte signé et en vigueur fait foi.\n\n7. Engagement des utilisateurs\n\nChaque utilisateur s'engage à :\n\n- Respecter la confidentialité des informations auxquelles il accède ;\n- Ne pas diffuser de documents internes sans autorisation ;\n- Utiliser l'application conformément à son objet ;\n- Signaler toute anomalie ou utilisation abusive.\n\n8. Contact\n\nPour toute question relative à la confidentialité, à la protection des données ou au contenu publié dans l'application, les utilisateurs peuvent contacter :\n\nAdministration Mes Droits BEL\nCGT BEL\nAdresse e-mail : syndicatscgtbel@gmail.com",
-            "image": ""
+            "image": "",
+            "images": [],
+            "attachments": [],
+            "richText": []
           },
           {
             "id": "fiches-conservees-localement",
             "title": "Fiches conservées localement après mise à jour",
             "category": "Informations",
             "body": "Les fiches téléchargées restent disponibles hors connexion sur l’appareil.",
-            "image": ""
+            "image": "",
+            "images": [],
+            "attachments": [],
+            "richText": []
           }
         ]
       }
