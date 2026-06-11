@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "1216bced3a78c7998c2e",
-  "publishedAt": "2026-06-10T23:35:25+00:00",
+  "version": "0d6940ec62c27e59add9",
+  "publishedAt": "2026-06-11T08:35:18+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -53,10 +53,26 @@
             "title": "APPEL A LA GREVE",
             "category": "TRACTS CGT BEL",
             "body": "test",
+            "richText": [
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "test"
+                  }
+                ]
+              }
+            ],
             "image": "media/85f281e6a6afa8931baf.png",
-            "images": [],
-            "attachments": [],
-            "richText": []
+            "images": [
+              "media/85f281e6a6afa8931baf.png"
+            ],
+            "attachments": [
+              {
+                "name": "Grève CGTBEL NAO 2026.pdf",
+                "file": "media/ac861a4d7732fda4769a.pdf"
+              }
+            ]
           }
         ],
         "categories": [
@@ -161,11 +177,428 @@
             "id": "aucune-donnee-personnelle-collectee",
             "title": "Confidentialité : Aucune donnée personnelle collectée",
             "category": "Informations",
-            "body": "L'application Mes Droits BEL a pour objectif de mettre à disposition des salariés des informations relatives aux accords collectifs, aux droits sociaux, aux avantages et aux dispositifs applicables au sein de l'UES BEL.\n\n1. Respect de la confidentialité\n\nLa confidentialité des informations est un principe fondamental de l'application. Les données, documents et informations consultés ou déposés dans l'application sont traités avec le plus grand respect de la vie privée des utilisateurs.\n\nLes administrateurs s'engagent à :\n\n- Préserver la confidentialité des informations communiquées ;\n- Ne collecter que les données strictement nécessaires au fonctionnement de l'application ;\n- Ne jamais utiliser les informations à des fins commerciales ;\n- Ne jamais transmettre les données à des tiers non autorisés ;\n- Respecter les obligations légales relatives à la protection des données personnelles.\n\n2. Documents importés\n\nLes accords collectifs, avenants, notes de service ou tout autre document importé dans l'application sont utilisés uniquement pour :\n\n- L'analyse du contenu ;\n- L'extraction des droits applicables aux salariés ;\n- La création de fiches pratiques et d'informations synthétiques.\n\nLes documents ne sont pas diffusés publiquement sans autorisation lorsqu'ils contiennent des informations confidentielles ou soumises à des restrictions de diffusion.\n\n3. Données personnelles\n\nL'application est conçue pour limiter au maximum la collecte de données personnelles.\n\nLes informations éventuellement enregistrées peuvent inclure :\n\n- Nom ou pseudonyme utilisateur ;\n- Adresse électronique ;\n- Préférences de consultation ;\n- Favoris enregistrés dans l'application.\n\nAucune donnée sensible n'est collectée sans information préalable de l'utilisateur.\n\n4. Accès administrateur\n\nL'accès administrateur est strictement réservé aux personnes autorisées par l'équipe de gestion de l'application.\n\nLes administrateurs disposent d'un accès permettant :\n\n- L'importation d'accords ;\n- La modification des contenus ;\n- La validation des droits extraits ;\n- La publication des informations.\n\nIls sont soumis à une obligation de discrétion et de confidentialité concernant les informations auxquelles ils ont accès.\n\n5. Protection des données\n\nDes mesures techniques et organisationnelles sont mises en œuvre afin de :\n\n- Protéger les données contre tout accès non autorisé ;\n- Prévenir la perte, l'altération ou la divulgation des informations ;\n- Assurer la traçabilité des actions administrateur ;\n- Garantir l'intégrité des contenus publiés.\n\n6. Utilisation des informations publiées\n\nLes informations présentes dans l'application ont un objectif informatif et pédagogique.\n\nEn cas de différence entre une fiche synthétique et le texte officiel d'un accord collectif, seul le texte signé et en vigueur fait foi.\n\n7. Engagement des utilisateurs\n\nChaque utilisateur s'engage à :\n\n- Respecter la confidentialité des informations auxquelles il accède ;\n- Ne pas diffuser de documents internes sans autorisation ;\n- Utiliser l'application conformément à son objet ;\n- Signaler toute anomalie ou utilisation abusive.\n\n8. Contact\n\nPour toute question relative à la confidentialité, à la protection des données ou au contenu publié dans l'application, les utilisateurs peuvent contacter :\n\nAdministration Mes Droits BEL\nCGT BEL\nAdresse e-mail : syndicatscgtbel@gmail.com",
+            "body": "L'application Mes Droits BEL a pour objectif de mettre à disposition des salariés des informations relatives aux accords collectifs, aux droits sociaux, aux avantages et aux dispositifs applicables au sein de l'UES BEL.\n1. Respect de la confidentialité\nLa confidentialité des informations est un principe fondamental de l'application. Les données, documents et informations consultés ou déposés dans l'application sont traités avec le plus grand respect de la vie privée des utilisateurs.\nLes administrateurs s'engagent à :\n- Préserver la confidentialité des informations communiquées ;\n- Ne collecter que les données strictement nécessaires au fonctionnement de l'application ;\n- Ne jamais utiliser les informations à des fins commerciales ;\n- Ne jamais transmettre les données à des tiers non autorisés ;\n- Respecter les obligations légales relatives à la protection des données personnelles.\n2. Documents importés\nLes accords collectifs, avenants, notes de service ou tout autre document importé dans l'application sont utilisés uniquement pour :\n- L'analyse du contenu ;\n- L'extraction des droits applicables aux salariés ;\n- La création de fiches pratiques et d'informations synthétiques.\nLes documents ne sont pas diffusés publiquement sans autorisation lorsqu'ils contiennent des informations confidentielles ou soumises à des restrictions de diffusion.\n3. Données personnelles\nL'application est conçue pour limiter au maximum la collecte de données personnelles.\nLes informations éventuellement enregistrées peuvent inclure :\n- Nom ou pseudonyme utilisateur ;\n- Adresse électronique ;\n- Préférences de consultation ;\n- Favoris enregistrés dans l'application.\nAucune donnée sensible n'est collectée sans information préalable de l'utilisateur.\n4. Accès administrateur\nL'accès administrateur est strictement réservé aux personnes autorisées par l'équipe de gestion de l'application.\nLes administrateurs disposent d'un accès permettant :\n- L'importation d'accords ;\n- La modification des contenus ;\n- La validation des droits extraits ;\n- La publication des informations.\nIls sont soumis à une obligation de discrétion et de confidentialité concernant les informations auxquelles ils ont accès.\n5. Protection des données\nDes mesures techniques et organisationnelles sont mises en œuvre afin de :\n- Protéger les données contre tout accès non autorisé ;\n- Prévenir la perte, l'altération ou la divulgation des informations ;\n- Assurer la traçabilité des actions administrateur ;\n- Garantir l'intégrité des contenus publiés.\n6. Utilisation des informations publiées\nLes informations présentes dans l'application ont un objectif informatif et pédagogique.\nEn cas de différence entre une fiche synthétique et le texte officiel d'un accord collectif, seul le texte signé et en vigueur fait foi.\n7. Engagement des utilisateurs\nChaque utilisateur s'engage à :\n- Respecter la confidentialité des informations auxquelles il accède ;\n- Ne pas diffuser de documents internes sans autorisation ;\n- Utiliser l'application conformément à son objet ;\n- Signaler toute anomalie ou utilisation abusive.\n8. Contact\nPour toute question relative à la confidentialité, à la protection des données ou au contenu publié dans l'application, les utilisateurs peuvent contacter :\nAdministration Mes Droits BEL\nCGT BEL\nAdresse e-mail : syndicatscgtbel@gmail.com",
+            "richText": [
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "L'application Mes Droits BEL a pour objectif de mettre à disposition des salariés des informations relatives aux accords collectifs, aux droits sociaux, aux avantages et aux dispositifs applicables au sein de l'UES BEL."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "1. Respect de la confidentialité",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "La confidentialité des informations est un principe fondamental de l'application. Les données, documents et informations consultés ou déposés dans l'application sont traités avec le plus grand respect de la vie privée des utilisateurs."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les administrateurs s'engagent à :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Préserver la confidentialité des informations communiquées ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Ne collecter que les données strictement nécessaires au fonctionnement de l'application ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Ne jamais utiliser les informations à des fins commerciales ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Ne jamais transmettre les données à des tiers non autorisés ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Respecter les obligations légales relatives à la protection des données personnelles."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "2. Documents importés",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les accords collectifs, avenants, notes de service ou tout autre document importé dans l'application sont utilisés uniquement pour :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- L'analyse du contenu ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- L'extraction des droits applicables aux salariés ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- La création de fiches pratiques et d'informations synthétiques."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les documents ne sont pas diffusés publiquement sans autorisation lorsqu'ils contiennent des informations confidentielles ou soumises à des restrictions de diffusion."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "3. Données personnelles",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "L'application est conçue pour limiter au maximum la collecte de données personnelles."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les informations éventuellement enregistrées peuvent inclure :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Nom ou pseudonyme utilisateur ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Adresse électronique ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Préférences de consultation ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Favoris enregistrés dans l'application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Aucune donnée sensible n'est collectée sans information préalable de l'utilisateur."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "4. Accès administrateur",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "L'accès administrateur est strictement réservé aux personnes autorisées par l'équipe de gestion de l'application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les administrateurs disposent d'un accès permettant :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- L'importation d'accords ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- La modification des contenus ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- La validation des droits extraits ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- La publication des informations."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ils sont soumis à une obligation de discrétion et de confidentialité concernant les informations auxquelles ils ont accès."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "5. Protection des données",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Des mesures techniques et organisationnelles sont mises en œuvre afin de :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Protéger les données contre tout accès non autorisé ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Prévenir la perte, l'altération ou la divulgation des informations ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Assurer la traçabilité des actions administrateur ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Garantir l'intégrité des contenus publiés."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "6. Utilisation des informations publiées",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les informations présentes dans l'application ont un objectif informatif et pédagogique."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "En cas de différence entre une fiche synthétique et le texte officiel d'un accord collectif, seul le texte signé et en vigueur fait foi."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "7. Engagement des utilisateurs",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Chaque utilisateur s'engage à :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Respecter la confidentialité des informations auxquelles il accède ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Ne pas diffuser de documents internes sans autorisation ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Utiliser l'application conformément à son objet ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Signaler toute anomalie ou utilisation abusive."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "8. Contact",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Pour toute question relative à la confidentialité, à la protection des données ou au contenu publié dans l'application, les utilisateurs peuvent contacter :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Administration Mes Droits BEL"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "CGT BEL"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Adresse e-mail : syndicatscgtbel@gmail.com"
+                  }
+                ]
+              }
+            ],
             "image": "",
             "images": [],
-            "attachments": [],
-            "richText": []
+            "attachments": []
           },
           {
             "id": "fiches-conservees-localement",
