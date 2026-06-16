@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "0d6940ec62c27e59add9",
-  "publishedAt": "2026-06-11T08:35:18+00:00",
+  "version": "fb9f45b2677e51e68f44",
+  "publishedAt": "2026-06-16T17:23:22+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -596,8 +596,10 @@
                 ]
               }
             ],
-            "image": "",
-            "images": [],
+            "image": "media/eaf44acda2954be4f72c.jpg",
+            "images": [
+              "media/eaf44acda2954be4f72c.jpg"
+            ],
             "attachments": []
           },
           {
