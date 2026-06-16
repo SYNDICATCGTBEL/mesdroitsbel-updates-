@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "fb9f45b2677e51e68f44",
-  "publishedAt": "2026-06-16T17:23:22+00:00",
+  "version": "02a29acf3eda6b0f999c",
+  "publishedAt": "2026-06-16T17:28:59+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -163,16 +163,6 @@
           "Informations"
         ],
         "items": [
-          {
-            "id": "aucun-accord-source-telecharge",
-            "title": "Aucun accord source téléchargé",
-            "category": "Informations",
-            "body": "Seuls les contenus validés et publiés sont téléchargés par l’application.",
-            "image": "",
-            "images": [],
-            "attachments": [],
-            "richText": []
-          },
           {
             "id": "aucune-donnee-personnelle-collectee",
             "title": "Confidentialité : Aucune donnée personnelle collectée",
@@ -601,16 +591,6 @@
               "media/eaf44acda2954be4f72c.jpg"
             ],
             "attachments": []
-          },
-          {
-            "id": "fiches-conservees-localement",
-            "title": "Fiches conservées localement après mise à jour",
-            "category": "Informations",
-            "body": "Les fiches téléchargées restent disponibles hors connexion sur l’appareil.",
-            "image": "",
-            "images": [],
-            "attachments": [],
-            "richText": []
           }
         ]
       }
