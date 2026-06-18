@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "86f44df70ff367a6a69e",
-  "publishedAt": "2026-06-18T17:04:53+00:00",
+  "version": "2b2cf74f0fc0db96ff51",
+  "publishedAt": "2026-06-18T17:15:45+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -746,7 +746,7 @@
         "subtitle": "Avantages, accords et droits des salariés",
         "buttonLabel": "Entrer",
         "logoImage": "media/5a511ed05a8f19151c2c.png",
-        "heroImage": "media/32d4636bf6878d35798b.jpg"
+        "heroImage": "media/deb3e4b64ac254988731.jpg"
       },
       "home": {
         "greeting": "Bonjour",
