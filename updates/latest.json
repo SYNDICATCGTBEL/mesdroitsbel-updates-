@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "02a29acf3eda6b0f999c",
-  "publishedAt": "2026-06-16T17:28:59+00:00",
+  "version": "e6775744780cfb7400fd",
+  "publishedAt": "2026-06-18T16:45:42+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -40,7 +40,8 @@
           "Compeurs RCR",
           "Compteurs RTT"
         ],
-        "image": ""
+        "image": "",
+        "introductionRichText": []
       },
       "news": {
         "title": "Actualités",
@@ -78,7 +79,17 @@
         "categories": [
           "TRACTS CGT BEL"
         ],
-        "image": ""
+        "image": "media/62f515926f3624457d64.jpg",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Les informations importantes liées aux droits et accords de l’entreprise."
+              }
+            ]
+          }
+        ]
       },
       "faq": {
         "title": "Questions fréquentes",
@@ -87,7 +98,8 @@
         "icon": "help",
         "items": [],
         "categories": [],
-        "image": ""
+        "image": "",
+        "introductionRichText": []
       },
       "contacts": {
         "title": "Contacts utiles",
@@ -109,7 +121,8 @@
         "categories": [
           "E-Mail"
         ],
-        "image": ""
+        "image": "",
+        "introductionRichText": []
       },
       "preferences": {
         "title": "Mes préférences",
@@ -151,14 +164,15 @@
             "attachments": [],
             "richText": []
           }
-        ]
+        ],
+        "introductionRichText": []
       },
       "privacy": {
         "title": "Confidentialité",
         "description": "Comprendre l’utilisation des données",
         "introduction": "Les mises à jour contiennent uniquement les fiches validées.",
         "icon": "privacy",
-        "image": "",
+        "image": "media/eaf44acda2954be4f72c.jpg",
         "categories": [
           "Informations"
         ],
@@ -591,6 +605,17 @@
               "media/eaf44acda2954be4f72c.jpg"
             ],
             "attachments": []
+          }
+        ],
+        "introductionRichText": [
+          {
+            "type": "heading",
+            "spans": [
+              {
+                "text": "Les mises à jour contiennent uniquement les fiches validées.",
+                "bold": true
+              }
+            ]
           }
         ]
       }
