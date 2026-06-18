@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "e6775744780cfb7400fd",
-  "publishedAt": "2026-06-18T16:45:42+00:00",
+  "version": "86f44df70ff367a6a69e",
+  "publishedAt": "2026-06-18T17:04:53+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -45,25 +45,16 @@
       },
       "news": {
         "title": "Actualités",
-        "description": "Rester informé des nouveautés",
-        "introduction": "Les informations importantes liées aux droits et accords de l’entreprise.",
+        "description": "Rester informé des nouveautés chez BEL",
+        "introduction": "Informations importantes",
         "icon": "news",
         "items": [
           {
             "id": "appel-a-la-greve",
             "title": "APPEL A LA GREVE",
             "category": "TRACTS CGT BEL",
-            "body": "test",
-            "richText": [
-              {
-                "type": "paragraph",
-                "spans": [
-                  {
-                    "text": "test"
-                  }
-                ]
-              }
-            ],
+            "body": "",
+            "richText": [],
             "image": "media/85f281e6a6afa8931baf.png",
             "images": [
               "media/85f281e6a6afa8931baf.png"
@@ -79,13 +70,13 @@
         "categories": [
           "TRACTS CGT BEL"
         ],
-        "image": "media/62f515926f3624457d64.jpg",
+        "image": "media/dba11403d1377a069204.jpg",
         "introductionRichText": [
           {
             "type": "paragraph",
             "spans": [
               {
-                "text": "Les informations importantes liées aux droits et accords de l’entreprise."
+                "text": "Informations importantes "
               }
             ]
           }
@@ -111,11 +102,135 @@
             "id": "e-mail-syndicat-cgt-bel",
             "title": "E-Mail Syndicat CGT BEL",
             "category": "E-Mail",
-            "body": "Contacter la CGT BEL\n\nTu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?\n\nUtilise cette adresse e-mail pour contacter le syndicat CGT BEL : syndicatscgtbel@gmail.com\n\nLa CGT BEL est là pour t’écouter, t’informer et t’accompagner.\n\nTon message reste confidentiel.\n\nIndique dans ton e-mail :\nTon nom et prénom\nTon site\nTon service\nLe sujet de ta demande\nLes documents utiles si tu en as\n\nLa CGT BEL te répondra dès que possible.\n\nUn doute, une difficulté, une injustice au travail ?\nÉcris-nous.",
-            "image": "media/a058f086a564dc3a6e9d.jpeg",
-            "images": [],
-            "attachments": [],
-            "richText": []
+            "body": "Contacter la CGT BEL\nTu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?\nUtilise cette adresse e-mail pour contacter le syndicat CGT BEL : syndicatscgtbel@gmail.com\nLa CGT BEL est là pour t’écouter, t’informer et t’accompagner.\nTon message reste confidentiel.\nIndique dans ton e-mail :\nTon nom et prénom\nTon site\nTon service\nLe sujet de ta demande\nLes documents utiles si tu en as\nLa CGT BEL te répondra dès que possible.\nUn doute, une difficulté, une injustice au travail ?\nÉcris-nous.",
+            "richText": [
+              {
+                "type": "heading",
+                "spans": [
+                  {
+                    "text": "Contacter la CGT BEL",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Tu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "spans": [
+                  {
+                    "text": "Utilise cette adresse e-mail pour contacter le syndicat CGT BEL : "
+                  },
+                  {
+                    "text": "syndicatscgtbel@gmail.com",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "La CGT BEL est là pour t’écouter, t’informer et t’accompagner."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ton message reste confidentiel."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Indique dans ton e-mail :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ton nom et prénom"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ton site"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ton service"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Le sujet de ta demande"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les documents utiles si tu en as"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "La CGT BEL te répondra dès que possible.",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Un doute, une difficulté, une injustice au travail ?",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Écris-nous.",
+                    "bold": true
+                  }
+                ]
+              }
+            ],
+            "image": "media/a5648ec037e736ea0598.jpg",
+            "images": [
+              "media/a5648ec037e736ea0598.jpg"
+            ],
+            "attachments": []
           }
         ],
         "categories": [
@@ -600,9 +715,9 @@
                 ]
               }
             ],
-            "image": "media/eaf44acda2954be4f72c.jpg",
+            "image": "media/1db27c0439a814b16fc0.jpg",
             "images": [
-              "media/eaf44acda2954be4f72c.jpg"
+              "media/1db27c0439a814b16fc0.jpg"
             ],
             "attachments": []
           }
