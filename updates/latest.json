@@ -1,11 +1,31 @@
 {
   "schemaVersion": 1,
-  "version": "cd3bedac1f2866053da6",
-  "publishedAt": "2026-06-20T13:17:34+00:00",
+  "version": "c006222e8821dfcf09f6",
+  "publishedAt": "2026-06-20T23:39:19+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
-    "agreements": [],
+    "agreements": [
+      {
+        "id": "application-cse",
+        "title": "APPLICATION CSE",
+        "category": "SWILE",
+        "description": "",
+        "descriptionRichText": [],
+        "status": "Disponible",
+        "icon": "chart",
+        "summary": "",
+        "summaryRichText": [],
+        "image": "media/b42fa90d95eaea4ae6d5.png",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "https://directory.swile.co/",
+        "pointsRichText": [],
+        "points": [],
+        "imageSize": "medium"
+      }
+    ],
     "pages": {
       "benefits": {
         "title": "Mes Compteurs BEL",
@@ -25,7 +45,8 @@
             "imageSize": "medium",
             "imageWidth": 190,
             "imageHeight": 125,
-            "imageAlign": "center"
+            "imageAlign": "center",
+            "imageLink": ""
           },
           {
             "id": "conges-payes",
@@ -39,7 +60,8 @@
             "imageSize": "medium",
             "imageWidth": 190,
             "imageHeight": 125,
-            "imageAlign": "center"
+            "imageAlign": "center",
+            "imageLink": ""
           }
         ],
         "categories": [
@@ -63,7 +85,8 @@
         "visible": "oui",
         "imageWidth": 190,
         "imageHeight": 125,
-        "imageAlign": "center"
+        "imageAlign": "center",
+        "imageLink": ""
       },
       "news": {
         "title": "Actualités",
@@ -90,7 +113,8 @@
             "imageSize": "medium",
             "imageWidth": 190,
             "imageHeight": 125,
-            "imageAlign": "center"
+            "imageAlign": "center",
+            "imageLink": ""
           }
         ],
         "categories": [
@@ -111,7 +135,8 @@
         "visible": "oui",
         "imageWidth": 190,
         "imageHeight": 125,
-        "imageAlign": "center"
+        "imageAlign": "center",
+        "imageLink": ""
       },
       "faq": {
         "title": "Questions fréquentes",
@@ -126,7 +151,8 @@
         "visible": "oui",
         "imageWidth": 190,
         "imageHeight": 125,
-        "imageAlign": "center"
+        "imageAlign": "center",
+        "imageLink": ""
       },
       "contacts": {
         "title": "Contacts utiles",
@@ -273,7 +299,8 @@
               "media/a5648ec037e736ea0598.jpg"
             ],
             "attachments": [],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "imageLink": ""
           }
         ],
         "categories": [
@@ -285,7 +312,8 @@
         "visible": "oui",
         "imageWidth": 190,
         "imageHeight": 125,
-        "imageAlign": "center"
+        "imageAlign": "center",
+        "imageLink": ""
       },
       "preferences": {
         "title": "Mes préférences",
@@ -309,7 +337,8 @@
             "imageSize": "medium",
             "imageWidth": 190,
             "imageHeight": 125,
-            "imageAlign": "center"
+            "imageAlign": "center",
+            "imageLink": ""
           },
           {
             "id": "affichage",
@@ -323,7 +352,8 @@
             "imageSize": "medium",
             "imageWidth": 190,
             "imageHeight": 125,
-            "imageAlign": "center"
+            "imageAlign": "center",
+            "imageLink": ""
           }
         ],
         "introductionRichText": [],
@@ -331,7 +361,8 @@
         "visible": "oui",
         "imageWidth": 190,
         "imageHeight": 125,
-        "imageAlign": "center"
+        "imageAlign": "center",
+        "imageLink": ""
       },
       "privacy": {
         "title": "Confidentialité",
@@ -774,7 +805,8 @@
             "imageSize": "medium",
             "imageWidth": 190,
             "imageHeight": 125,
-            "imageAlign": "center"
+            "imageAlign": "center",
+            "imageLink": ""
           }
         ],
         "introductionRichText": [
@@ -792,7 +824,8 @@
         "visible": "oui",
         "imageWidth": 190,
         "imageHeight": 125,
-        "imageAlign": "center"
+        "imageAlign": "center",
+        "imageLink": ""
       }
     },
     "agreementCategories": [
