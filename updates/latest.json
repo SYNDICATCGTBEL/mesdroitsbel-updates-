@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "16a0c21950d7353fe9e4",
-  "publishedAt": "2026-06-20T12:41:52+00:00",
+  "version": "60ee479d3a162db5ba3f",
+  "publishedAt": "2026-06-20T12:48:21+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -801,10 +801,10 @@
         "title": "Mes Droits",
         "titleAccent": "BEL",
         "notificationTitle": "Bienvenue dans Mes Droits BEL",
-        "notificationText": "Les nouveaux accords apparaîtront ici dès leur publication.",
-        "searchPlaceholder": "Rechercher un accord, un droit...",
+        "notificationText": "Les nouveaux fichiers apparaîtront ici dès leur publication.",
+        "searchPlaceholder": "Rechercher une application BEL, un droit...",
         "constructionTitle": "Application mise à jour automatiquement à l'ouverture de l'application CGT BEL",
-        "constructionText": "Les accords seront ajoutés progressivement pour extraire vos droits au fil du temps."
+        "constructionText": "Les fichiers seront ajoutés progressivement pour extraire vos droits au fil du temps."
       },
       "rights": {
         "title": "Mes droits",
@@ -813,15 +813,15 @@
         "emptyText": "Aucune fiche de droit n’a encore été publiée."
       },
       "agreements": {
-        "title": "Accords BEL",
-        "searchPlaceholder": "Rechercher dans les accords",
-        "emptyText": "Aucun accord ne correspond à ces critères.",
-        "infoTitle": "Les droits extraits apparaîtront ici",
-        "infoText": "Une fois les accords analysés, les droits associés seront affichés dans cette zone."
+        "title": "Applications BEL",
+        "searchPlaceholder": "Rechercher dans les applications BEL",
+        "emptyText": "Aucune application ne correspond à ces critères.",
+        "infoTitle": "Les application  apparaîtront ici",
+        "infoText": "les applications BEL seront affichés dans cette zone."
       },
       "modules": {
         "showRights": "oui",
-        "showAgreements": "non",
+        "showAgreements": "oui",
         "showFavorites": "non",
         "showProfile": "oui",
         "showContacts": "oui",
