@@ -1,4 +1,4 @@
 # Version Windows
 
-Téléchargez `MES_DROITS_BEL_SALARIE_INSTALLATEUR-1.27.1.exe`, puis ouvrez-le sur l'ordinateur
+Téléchargez `MES_DROITS_BEL_SALARIE_INSTALLATEUR-1.27.2.exe`, puis ouvrez-le sur l'ordinateur
 Windows pour installer ou mettre à jour l'application.
