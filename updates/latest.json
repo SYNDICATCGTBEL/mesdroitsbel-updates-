@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "c13bebba2a822f33588c",
-  "publishedAt": "2026-06-20T11:19:24+00:00",
+  "version": "c67ae2e44b8c2ed35c9d",
+  "publishedAt": "2026-06-20T11:23:49+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -119,7 +119,8 @@
                   {
                     "text": "Contacter la CGT BEL",
                     "bold": true,
-                    "underline": true
+                    "underline": true,
+                    "color": "#0000FF"
                   }
                 ]
               },
@@ -139,7 +140,9 @@
                   },
                   {
                     "text": "syndicatscgtbel@gmail.com",
-                    "bold": true
+                    "bold": true,
+                    "color": "#0000FF",
+                    "size": "large"
                   }
                 ]
               },
@@ -236,7 +239,7 @@
               }
             ],
             "image": "media/a5648ec037e736ea0598.jpg",
-            "imageSize": "full",
+            "imageSize": "large",
             "images": [
               "media/a5648ec037e736ea0598.jpg"
             ],
