@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "c67ae2e44b8c2ed35c9d",
-  "publishedAt": "2026-06-20T11:23:49+00:00",
+  "version": "16a0c21950d7353fe9e4",
+  "publishedAt": "2026-06-20T12:41:52+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -22,7 +22,10 @@
             "images": [],
             "attachments": [],
             "richText": [],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center"
           },
           {
             "id": "conges-payes",
@@ -33,7 +36,10 @@
             "images": [],
             "attachments": [],
             "richText": [],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center"
           }
         ],
         "categories": [
@@ -45,7 +51,10 @@
         "image": "",
         "introductionRichText": [],
         "imageSize": "medium",
-        "visible": "oui"
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center"
       },
       "news": {
         "title": "Actualités",
@@ -69,7 +78,10 @@
                 "file": "media/ac861a4d7732fda4769a.pdf"
               }
             ],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center"
           }
         ],
         "categories": [
@@ -87,7 +99,10 @@
           }
         ],
         "imageSize": "medium",
-        "visible": "oui"
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center"
       },
       "faq": {
         "title": "Questions fréquentes",
@@ -99,7 +114,10 @@
         "image": "",
         "introductionRichText": [],
         "imageSize": "medium",
-        "visible": "oui"
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center"
       },
       "contacts": {
         "title": "Contacts utiles",
@@ -243,7 +261,10 @@
             "images": [
               "media/a5648ec037e736ea0598.jpg"
             ],
-            "attachments": []
+            "attachments": [],
+            "imageWidth": 280,
+            "imageHeight": 180,
+            "imageAlign": "center"
           }
         ],
         "categories": [
@@ -252,7 +273,10 @@
         "image": "",
         "introductionRichText": [],
         "imageSize": "medium",
-        "visible": "oui"
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center"
       },
       "preferences": {
         "title": "Mes préférences",
@@ -273,7 +297,10 @@
             "images": [],
             "attachments": [],
             "richText": [],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center"
           },
           {
             "id": "affichage",
@@ -284,12 +311,18 @@
             "images": [],
             "attachments": [],
             "richText": [],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center"
           }
         ],
         "introductionRichText": [],
         "imageSize": "medium",
-        "visible": "oui"
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center"
       },
       "privacy": {
         "title": "Confidentialité",
@@ -729,7 +762,10 @@
               "media/1db27c0439a814b16fc0.jpg"
             ],
             "attachments": [],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center"
           }
         ],
         "introductionRichText": [
@@ -744,7 +780,10 @@
           }
         ],
         "imageSize": "medium",
-        "visible": "oui"
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center"
       }
     },
     "agreementCategories": [],
@@ -787,6 +826,14 @@
         "showProfile": "oui",
         "showContacts": "oui",
         "showConstruction": "oui"
+      },
+      "navigation": {
+        "homeLabel": "Accueil",
+        "rightsLabel": "Mes droits BEL",
+        "agreementsLabel": "Mes applications BEL",
+        "favoritesLabel": "Mes Favoris",
+        "profileLabel": "Mon Profil",
+        "contactsLabel": "Contacts CGT BEL"
       }
     }
   }
