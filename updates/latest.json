@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2b2cf74f0fc0db96ff51",
-  "publishedAt": "2026-06-18T17:15:45+00:00",
+  "version": "710b816d9d2c38ded020",
+  "publishedAt": "2026-06-20T11:10:41+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -21,7 +21,8 @@
             "image": "",
             "images": [],
             "attachments": [],
-            "richText": []
+            "richText": [],
+            "imageSize": "medium"
           },
           {
             "id": "conges-payes",
@@ -31,7 +32,8 @@
             "image": "",
             "images": [],
             "attachments": [],
-            "richText": []
+            "richText": [],
+            "imageSize": "medium"
           }
         ],
         "categories": [
@@ -41,7 +43,9 @@
           "Compteurs RTT"
         ],
         "image": "",
-        "introductionRichText": []
+        "introductionRichText": [],
+        "imageSize": "medium",
+        "visible": "oui"
       },
       "news": {
         "title": "Actualités",
@@ -64,7 +68,8 @@
                 "name": "Grève CGTBEL NAO 2026.pdf",
                 "file": "media/ac861a4d7732fda4769a.pdf"
               }
-            ]
+            ],
+            "imageSize": "medium"
           }
         ],
         "categories": [
@@ -80,7 +85,9 @@
               }
             ]
           }
-        ]
+        ],
+        "imageSize": "medium",
+        "visible": "oui"
       },
       "faq": {
         "title": "Questions fréquentes",
@@ -90,7 +97,9 @@
         "items": [],
         "categories": [],
         "image": "",
-        "introductionRichText": []
+        "introductionRichText": [],
+        "imageSize": "medium",
+        "visible": "oui"
       },
       "contacts": {
         "title": "Contacts utiles",
@@ -227,6 +236,7 @@
               }
             ],
             "image": "media/a5648ec037e736ea0598.jpg",
+            "imageSize": "medium",
             "images": [
               "media/a5648ec037e736ea0598.jpg"
             ],
@@ -237,7 +247,9 @@
           "E-Mail"
         ],
         "image": "",
-        "introductionRichText": []
+        "introductionRichText": [],
+        "imageSize": "medium",
+        "visible": "oui"
       },
       "preferences": {
         "title": "Mes préférences",
@@ -250,16 +262,6 @@
         ],
         "items": [
           {
-            "id": "notifications",
-            "title": "Notifications",
-            "category": "Informations",
-            "body": "Retrouvez ici les informations concernant les notifications de l’application.",
-            "image": "",
-            "images": [],
-            "attachments": [],
-            "richText": []
-          },
-          {
             "id": "accords-suivis",
             "title": "Accords suivis",
             "category": "Informations",
@@ -267,7 +269,8 @@
             "image": "",
             "images": [],
             "attachments": [],
-            "richText": []
+            "richText": [],
+            "imageSize": "medium"
           },
           {
             "id": "affichage",
@@ -277,10 +280,13 @@
             "image": "",
             "images": [],
             "attachments": [],
-            "richText": []
+            "richText": [],
+            "imageSize": "medium"
           }
         ],
-        "introductionRichText": []
+        "introductionRichText": [],
+        "imageSize": "medium",
+        "visible": "oui"
       },
       "privacy": {
         "title": "Confidentialité",
@@ -719,7 +725,8 @@
             "images": [
               "media/1db27c0439a814b16fc0.jpg"
             ],
-            "attachments": []
+            "attachments": [],
+            "imageSize": "medium"
           }
         ],
         "introductionRichText": [
@@ -732,13 +739,12 @@
               }
             ]
           }
-        ]
+        ],
+        "imageSize": "medium",
+        "visible": "oui"
       }
     },
-    "agreementCategories": [
-      "Primes",
-      "Santé"
-    ],
+    "agreementCategories": [],
     "app": {
       "welcome": {
         "title": "Mes Droits",
@@ -770,6 +776,14 @@
         "emptyText": "Aucun accord ne correspond à ces critères.",
         "infoTitle": "Les droits extraits apparaîtront ici",
         "infoText": "Une fois les accords analysés, les droits associés seront affichés dans cette zone."
+      },
+      "modules": {
+        "showRights": "oui",
+        "showAgreements": "non",
+        "showFavorites": "non",
+        "showProfile": "oui",
+        "showContacts": "oui",
+        "showConstruction": "oui"
       }
     }
   }
