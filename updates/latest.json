@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "60ee479d3a162db5ba3f",
-  "publishedAt": "2026-06-20T12:48:21+00:00",
+  "version": "4115e91c459c8c1b9c52",
+  "publishedAt": "2026-06-20T13:16:08+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
     "agreements": [],
     "pages": {
       "benefits": {
-        "title": "Avantages",
+        "title": "Mes Compteurs BEL",
         "description": "Les avantages dont vous bénéficiez",
         "introduction": "Les principaux dispositifs et avantages accessibles aux salariés BEL.",
         "icon": "gift",
@@ -49,7 +49,16 @@
           "Compteurs RTT"
         ],
         "image": "",
-        "introductionRichText": [],
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Les principaux dispositifs et avantages accessibles aux salariés BEL."
+              }
+            ]
+          }
+        ],
         "imageSize": "medium",
         "visible": "oui",
         "imageWidth": 190,
@@ -257,14 +266,14 @@
               }
             ],
             "image": "media/a5648ec037e736ea0598.jpg",
-            "imageSize": "large",
+            "imageWidth": 200,
+            "imageHeight": 453,
+            "imageAlign": "left",
             "images": [
               "media/a5648ec037e736ea0598.jpg"
             ],
             "attachments": [],
-            "imageWidth": 280,
-            "imageHeight": 180,
-            "imageAlign": "center"
+            "imageSize": "medium"
           }
         ],
         "categories": [
@@ -786,7 +795,11 @@
         "imageAlign": "center"
       }
     },
-    "agreementCategories": [],
+    "agreementCategories": [
+      "PeopleDoc",
+      "SWILE",
+      "WeHR"
+    ],
     "app": {
       "welcome": {
         "title": "Mes Droits",
