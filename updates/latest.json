@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4115e91c459c8c1b9c52",
-  "publishedAt": "2026-06-20T13:16:08+00:00",
+  "version": "cd3bedac1f2866053da6",
+  "publishedAt": "2026-06-20T13:17:34+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -30,7 +30,7 @@
           {
             "id": "conges-payes",
             "title": "Congés Payés",
-            "category": "Compeurs Congés Payés",
+            "category": "Compeurs CP",
             "body": "Période de prise de congés payés : La période de prise des CP va du 1er Juin au 31 mai. \nLa période de prise des congés d'été commence le 1er juin et se termine le 31 octobre avec maximum de 4 semaines de congés sur cette période.\nPour des raisons d'organisation, pendant les mois de juin, juillet et août, les salariés doivent prendre au minimum 2 semaines de congés en continu et au maximum 3 semaines de congés.\nDes dérogations peuvent être demandées pour des motifs légitimes à exposer dans un courrier et après approbation du Responsable de Service concerné et du Responsable RH.\nLes manageurs établissent le planning en tenant compte des incompatibilités de prises de congés payés simultanés.\nLes congés payés doivent faire l'objet d'une demande préalable et sont soumis à l’accord du responsable hiérarchique.\nLes demandes de congés payés doivent contenir au moins 2 choix avec des dates de début espacées de 2 semaines.\nPour résoudre les problèmes de blocage, l'ordre des congés sera déterminé d'après les critères successifs suivants :\n-\tMaintient en poste des compétences minimum nécessaires pour le bon fonctionnement des ateliers de production.\n-\tLes salariés ayant remis leur demande de congés dans les délais.\n-\tLes salariés n’ayant pas eu leur 1er choix pour l'été précédent. \n-\tPossibilités du conjoint salarié Bel.\nAnticipation de prise de congés payés :\nLa prise anticipée de CP est possible sous deux conditions :\n-\tQue le salarié et hiérarchie soient tous les deux d'accord. \n-\tQue cela reste dans la limite des droits acquis par le salarié.\nDemande de jours ponctuels :\n-\tLes demandes doivent intervenir au plus tard le jeudi de la semaine précédente.\n-\tLes réponses doivent être données le lendemain.\nDemande de semaines de repos :\n-\tLes demandes doivent intervenir au plus tard 3 semaines à l'avance. \n-\tLes réponses doivent être données la semaine suivante.",
             "image": "",
             "images": [],
@@ -43,7 +43,7 @@
           }
         ],
         "categories": [
-          "Compeurs Congés Payés",
+          "Compeurs CP",
           "Compeurs RCL",
           "Compeurs RCR",
           "Compteurs RTT"
