@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "c006222e8821dfcf09f6",
-  "publishedAt": "2026-06-20T23:39:19+00:00",
+  "version": "28fd1dfd0c8c07eaaf5b",
+  "publishedAt": "2026-06-20T23:44:13+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -164,7 +164,7 @@
             "id": "e-mail-syndicat-cgt-bel",
             "title": "E-Mail Syndicat CGT BEL",
             "category": "E-Mail",
-            "body": "Contacter la CGT BEL\nTu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?\nUtilise cette adresse e-mail pour contacter le syndicat CGT BEL : syndicatscgtbel@gmail.com\nLa CGT BEL est là pour t’écouter, t’informer et t’accompagner.\nTon message reste confidentiel.\nIndique dans ton e-mail :\nTon nom et prénom\nTon site\nTon service\nLe sujet de ta demande\nLes documents utiles si tu en as\nLa CGT BEL te répondra dès que possible.\nUn doute, une difficulté, une injustice au travail ?\nÉcris-nous.",
+            "body": "Contacter la CGT BEL\nTu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?\nUtilise cette adresse e-mail pour contacter le syndicat CGT BEL : mailto: syndicatscgtbel@gmail.com\nLa CGT BEL est là pour t’écouter, t’informer et t’accompagner.\nTon message reste confidentiel.\nIndique dans ton e-mail :\nTon nom et prénom\nTon site\nTon service\nLe sujet de ta demande\nLes documents utiles si tu en as\nLa CGT BEL te répondra dès que possible.\nUn doute, une difficulté, une injustice au travail ?\nÉcris-nous.",
             "richText": [
               {
                 "type": "heading",
@@ -189,7 +189,7 @@
                 "type": "heading",
                 "spans": [
                   {
-                    "text": "Utilise cette adresse e-mail pour contacter le syndicat CGT BEL : "
+                    "text": "Utilise cette adresse e-mail pour contacter le syndicat CGT BEL : mailto: "
                   },
                   {
                     "text": "syndicatscgtbel@gmail.com",
@@ -295,12 +295,12 @@
             "imageWidth": 200,
             "imageHeight": 453,
             "imageAlign": "left",
+            "imageLink": "",
             "images": [
               "media/a5648ec037e736ea0598.jpg"
             ],
             "attachments": [],
-            "imageSize": "medium",
-            "imageLink": ""
+            "imageSize": "medium"
           }
         ],
         "categories": [
