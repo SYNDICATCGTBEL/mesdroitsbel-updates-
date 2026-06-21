@@ -124,15 +124,36 @@
             <td>Aucune action nécessaire.</td>
           </tr>
           <tr>
-            <td><code>2</code></td>
+            <td><code>1602</code></td>
+            <td>Installation annulée par l’utilisateur.</td>
             <td>
-              Échec générique de l’installation, installation annulée ou erreur non gérée
-              par l’installateur NSIS.
+              Relancer l’installation si l’annulation n’était pas volontaire.
             </td>
-            <td>
-              Relancer l’installation après fermeture de l’application, vérifier les droits
-              Windows de l’utilisateur et l’espace disque disponible.
-            </td>
+          </tr>
+          <tr>
+            <td><code>1618</code></td>
+            <td>Une autre installation est déjà en cours.</td>
+            <td>Terminer l’autre installation Windows, puis relancer.</td>
+          </tr>
+          <tr>
+            <td><code>1638</code></td>
+            <td>Une version de l’application existe déjà sur l’appareil.</td>
+            <td>Désinstaller l’ancienne version ou lancer la mise à jour.</td>
+          </tr>
+          <tr>
+            <td><code>112</code></td>
+            <td>Espace disque insuffisant.</td>
+            <td>Libérer de l’espace disque, puis relancer l’installation.</td>
+          </tr>
+          <tr>
+            <td><code>12029</code></td>
+            <td>Échec réseau pendant une opération de téléchargement ou de connexion.</td>
+            <td>Vérifier la connexion réseau et réessayer.</td>
+          </tr>
+          <tr>
+            <td><code>1625</code></td>
+            <td>Installation refusée par une stratégie de sécurité Windows.</td>
+            <td>Vérifier la stratégie de sécurité ou les restrictions administrateur.</td>
           </tr>
           <tr>
             <td><code>3010</code></td>
@@ -143,6 +164,14 @@
             <td>
               Redémarrer Windows. Le programme d’installation actuel ne devrait normalement
               pas produire ce code, car l’application ne nécessite pas de redémarrage.
+            </td>
+          </tr>
+          <tr>
+            <td><code>1603</code></td>
+            <td>Échec fatal ou erreur d’installation non classée.</td>
+            <td>
+              Relancer l’installation après fermeture de l’application, vérifier les droits
+              Windows de l’utilisateur et l’espace disque disponible.
             </td>
           </tr>
         </tbody>
@@ -160,26 +189,25 @@
         <tbody>
           <tr>
             <td>Installation annulée par l’utilisateur</td>
-            <td><code>2</code></td>
-            <td>Échec ou abandon générique NSIS.</td>
+            <td><code>1602</code></td>
+            <td>Code standard pour une installation annulée par l’utilisateur.</td>
           </tr>
           <tr>
             <td>L’application existe déjà sur l’appareil</td>
-            <td><code>0</code></td>
+            <td><code>1638</code></td>
             <td>
-              Le programme d’installation met à jour ou réinstalle l’application existante.
-              Ce cas est donc traité comme une réussite.
+              Code standard indiquant qu’une autre version est déjà installée.
             </td>
           </tr>
           <tr>
             <td>Installation déjà en cours</td>
-            <td><code>2</code></td>
-            <td>Échec générique si une autre instance empêche l’installation.</td>
+            <td><code>1618</code></td>
+            <td>Code standard indiquant qu’une autre installation est en cours.</td>
           </tr>
           <tr>
             <td>Espace disque plein</td>
-            <td><code>2</code></td>
-            <td>Échec générique NSIS pendant l’extraction ou la copie des fichiers.</td>
+            <td><code>112</code></td>
+            <td>Code Windows standard pour espace disque insuffisant.</td>
           </tr>
           <tr>
             <td>Redémarrage requis</td>
@@ -191,30 +219,30 @@
           </tr>
           <tr>
             <td>Échec du réseau</td>
-            <td><code>2</code></td>
+            <td><code>12029</code></td>
             <td>
               L’installateur est autonome et ne télécharge rien pendant l’installation.
-              Tout échec réseau éventuel doit être traité comme un échec générique.
+              Ce code est fourni pour classification Microsoft Store si un échec réseau est détecté.
             </td>
           </tr>
           <tr>
             <td>Package rejeté par une stratégie de sécurité de l’appareil</td>
-            <td><code>2</code></td>
-            <td>Échec générique si la stratégie empêche l’installation.</td>
+            <td><code>1625</code></td>
+            <td>Code standard pour installation interdite par stratégie système.</td>
           </tr>
           <tr>
             <td>Divers scénarios d’échec d’installation</td>
-            <td><code>2</code></td>
-            <td>Échec générique non détaillé par le programme d’installation.</td>
+            <td><code>1603</code></td>
+            <td>Échec fatal ou erreur d’installation non classée.</td>
           </tr>
         </tbody>
       </table>
 
       <h2>Codes non personnalisés</h2>
       <p>
-        L’installateur MES DROITS BEL ne définit pas de codes retour personnalisés
-        détaillés pour chaque cause d’échec. Tout code retour non nul non listé ci-dessus doit
-        être traité comme un échec d’installation.
+        Cette table utilise des codes retour Windows standards distincts pour permettre la
+        classification demandée par Microsoft Store. Tout code retour non nul non listé ci-dessus
+        doit être traité comme un échec d’installation.
       </p>
 
       <h2>Documentation technique</h2>
