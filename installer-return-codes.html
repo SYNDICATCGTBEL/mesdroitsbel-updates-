@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Codes retour installateur - MES DROITS BEL</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --navy: #102a43;
+      --blue: #1769aa;
+      --muted: #627d98;
+      --line: #d8e2ed;
+      --background: #f4f7fb;
+      --card: #ffffff;
+    }
+
+    body {
+      margin: 0;
+      background: var(--background);
+      color: var(--navy);
+      font-family: "Segoe UI", Arial, sans-serif;
+      line-height: 1.6;
+    }
+
+    main {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 32px 18px 48px;
+    }
+
+    article {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      padding: 28px;
+      box-shadow: 0 8px 30px rgba(16, 42, 67, 0.08);
+    }
+
+    h1,
+    h2 {
+      line-height: 1.2;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: 30px;
+    }
+
+    h2 {
+      margin-top: 30px;
+      font-size: 20px;
+      color: var(--blue);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 14px;
+      overflow: hidden;
+      border-radius: 12px;
+    }
+
+    th,
+    td {
+      border: 1px solid var(--line);
+      padding: 10px 12px;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background: #eef6ff;
+      color: var(--navy);
+    }
+
+    code {
+      background: #eef3f8;
+      border-radius: 6px;
+      padding: 2px 6px;
+      font-family: Consolas, "Courier New", monospace;
+    }
+
+    .meta,
+    .footer {
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    a {
+      color: var(--blue);
+      font-weight: 700;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <article>
+      <h1>Codes retour de l’installateur Windows</h1>
+      <p class="meta">Application : <strong>MES DROITS BEL</strong><br>
+      Installateur : <strong>MES_DROITS_BEL_SALARIE_INSTALLATEUR</strong><br>
+      Type d’installateur : <strong>NSIS / Electron Builder</strong><br>
+      Dernière mise à jour : 21 juin 2026</p>
+
+      <h2>Commande d’installation silencieuse</h2>
+      <p>
+        L’installation silencieuse utilise le commutateur NSIS standard :
+        <code>/S</code>
+      </p>
+
+      <h2>Codes retour documentés</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Code retour</th>
+            <th>Signification</th>
+            <th>Action recommandée</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>0</code></td>
+            <td>Installation terminée avec succès.</td>
+            <td>Aucune action nécessaire.</td>
+          </tr>
+          <tr>
+            <td><code>1</code></td>
+            <td>
+              Échec générique de l’installation, installation annulée ou erreur non gérée
+              par l’installateur NSIS.
+            </td>
+            <td>
+              Relancer l’installation après fermeture de l’application, vérifier les droits
+              Windows de l’utilisateur et l’espace disque disponible.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h2>Codes non personnalisés</h2>
+      <p>
+        L’installateur MES DROITS BEL ne définit pas de codes retour personnalisés
+        supplémentaires. Tout code retour non nul non listé ci-dessus doit être traité comme un
+        échec d’installation.
+      </p>
+
+      <h2>Documentation technique</h2>
+      <p>
+        L’installateur est basé sur NSIS. La documentation NSIS indique que le commutateur
+        <code>/S</code> exécute l’installateur ou le désinstallateur en mode silencieux :
+        <a href="https://nsis.sourceforge.io/Docs/Chapter3.html">documentation NSIS - Command Line Usage</a>.
+      </p>
+      <p>
+        NSIS permet à un installateur de définir son code retour via <code>SetErrorLevel</code> :
+        <a href="https://nsis.sourceforge.io/Reference/SetErrorLevel">documentation NSIS - SetErrorLevel</a>.
+      </p>
+
+      <p class="footer">© 2026 Mevlut YESIL. Tous droits réservés.</p>
+    </article>
+  </main>
+</body>
+</html>
