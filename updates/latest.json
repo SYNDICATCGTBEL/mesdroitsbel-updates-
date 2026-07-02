@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "fe07912dc25eef38aa89",
-  "publishedAt": "2026-07-02T18:13:59+00:00",
+  "version": "4820dbba4da49dd734b0",
+  "publishedAt": "2026-07-02T20:18:53+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -61,13 +61,22 @@
         "id": "kelio",
         "title": "KELIO",
         "category": "KELIO",
-        "description": "",
-        "descriptionRichText": [],
+        "description": "Logiciel de gestion des congés et absences",
+        "descriptionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Logiciel de gestion des congés et absences"
+              }
+            ]
+          }
+        ],
         "status": "Disponible",
         "icon": "chart",
         "summary": "",
         "summaryRichText": [],
-        "image": "",
+        "image": "media/63d493821e4d9fbe1255.png",
         "imageWidth": 190,
         "imageHeight": 125,
         "imageAlign": "center",
@@ -86,13 +95,22 @@
         "id": "wehr",
         "title": "WeHR",
         "category": "WeHR",
-        "description": "",
-        "descriptionRichText": [],
+        "description": "Articles et formulaires de demande au service RH",
+        "descriptionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Articles et formulaires de demande au service RH"
+              }
+            ]
+          }
+        ],
         "status": "Disponible",
         "icon": "chart",
         "summary": "",
         "summaryRichText": [],
-        "image": "",
+        "image": "media/f8feeac9ccecfad5b2ea.png",
         "imageWidth": 190,
         "imageHeight": 125,
         "imageAlign": "center",
