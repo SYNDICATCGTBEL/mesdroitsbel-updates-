@@ -1,8 +1,71 @@
 {
   "schemaVersion": 1,
-  "version": "4820dbba4da49dd734b0",
-  "publishedAt": "2026-07-02T20:18:53+00:00",
-  "rights": [],
+  "version": "401211771f7ec6cd1378",
+  "publishedAt": "2026-07-02T21:31:01+00:00",
+  "rights": [
+    {
+      "id": "6cba49ce1a2c3b1c",
+      "relatedGroupId": "a654ef6b048aa0f5",
+      "theme": "Temps de travail",
+      "subtheme": "",
+      "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
+      "summary": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
+      "benefit": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
+      "richText": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "media/aa18b470bc3a94b5268b.png"
+      ],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [
+        {
+          "name": "Durée du travail et temps de repos.pdf",
+          "file": "media/0be5e87b64e0ff87b06b.pdf"
+        }
+      ],
+      "beneficiaries": [],
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ],
+      "conditions": [],
+      "procedure": [],
+      "deadlines": [],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "Document Syndical CGT BEL",
+          "page": "",
+          "section": "",
+          "quote": "Document Syndical CGT BEL",
+          "agreementStatus": "actif",
+          "scope": "TOUS LES ÉTABLISSEMENTS - TOUTES CATÉGORIES",
+          "establishments": [
+            "TOUS LES ÉTABLISSEMENTS"
+          ],
+          "beneficiaryCategories": [
+            "TOUTES CATÉGORIES"
+          ],
+          "effectiveDate": "",
+          "endDate": ""
+        }
+      ]
+    }
+  ],
   "content": {
     "schemaVersion": 1,
     "agreements": [
@@ -963,7 +1026,7 @@
         "title": "Applications BEL",
         "searchPlaceholder": "Rechercher dans les applications BEL",
         "emptyText": "Aucune application ne correspond à ces critères.",
-        "infoTitle": "Les application  apparaîtront ici",
+        "infoTitle": "Les applications ou les sites Bel apparaîtront ici",
         "infoText": "les applications BEL seront affichés dans cette zone."
       },
       "modules": {
@@ -972,7 +1035,7 @@
         "showFavorites": "non",
         "showProfile": "oui",
         "showContacts": "oui",
-        "showConstruction": "oui"
+        "showConstruction": "non"
       },
       "navigation": {
         "homeLabel": "Accueil",
