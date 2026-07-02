@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "31744a26d6f7aa44547f",
-  "publishedAt": "2026-07-02T21:35:50+00:00",
+  "version": "1f22f44141a2d61db11a",
+  "publishedAt": "2026-07-02T21:37:46+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -299,15 +299,194 @@
             "title": "Congés Payés",
             "category": "Compeurs CP",
             "body": "Période de prise de congés payés : La période de prise des CP va du 1er Juin au 31 mai. \nLa période de prise des congés d'été commence le 1er juin et se termine le 31 octobre avec maximum de 4 semaines de congés sur cette période.\nPour des raisons d'organisation, pendant les mois de juin, juillet et août, les salariés doivent prendre au minimum 2 semaines de congés en continu et au maximum 3 semaines de congés.\nDes dérogations peuvent être demandées pour des motifs légitimes à exposer dans un courrier et après approbation du Responsable de Service concerné et du Responsable RH.\nLes manageurs établissent le planning en tenant compte des incompatibilités de prises de congés payés simultanés.\nLes congés payés doivent faire l'objet d'une demande préalable et sont soumis à l’accord du responsable hiérarchique.\nLes demandes de congés payés doivent contenir au moins 2 choix avec des dates de début espacées de 2 semaines.\nPour résoudre les problèmes de blocage, l'ordre des congés sera déterminé d'après les critères successifs suivants :\n-\tMaintient en poste des compétences minimum nécessaires pour le bon fonctionnement des ateliers de production.\n-\tLes salariés ayant remis leur demande de congés dans les délais.\n-\tLes salariés n’ayant pas eu leur 1er choix pour l'été précédent. \n-\tPossibilités du conjoint salarié Bel.\nAnticipation de prise de congés payés :\nLa prise anticipée de CP est possible sous deux conditions :\n-\tQue le salarié et hiérarchie soient tous les deux d'accord. \n-\tQue cela reste dans la limite des droits acquis par le salarié.\nDemande de jours ponctuels :\n-\tLes demandes doivent intervenir au plus tard le jeudi de la semaine précédente.\n-\tLes réponses doivent être données le lendemain.\nDemande de semaines de repos :\n-\tLes demandes doivent intervenir au plus tard 3 semaines à l'avance. \n-\tLes réponses doivent être données la semaine suivante.",
-            "image": "",
-            "images": [],
-            "attachments": [],
-            "richText": [],
-            "imageSize": "medium",
+            "richText": [
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Période de prise de congés payés : La période de prise des CP va du 1er Juin au 31 mai. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "La période de prise des congés d'été commence le 1er juin et se termine le 31 octobre avec maximum de 4 semaines de congés sur cette période."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Pour des raisons d'organisation, pendant les mois de juin, juillet et août, les salariés doivent prendre au minimum 2 semaines de congés en continu et au maximum 3 semaines de congés."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Des dérogations peuvent être demandées pour des motifs légitimes à exposer dans un courrier et après approbation du Responsable de Service concerné et du Responsable RH."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les manageurs établissent le planning en tenant compte des incompatibilités de prises de congés payés simultanés."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les congés payés doivent faire l'objet d'une demande préalable et sont soumis à l’accord du responsable hiérarchique."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les demandes de congés payés doivent contenir au moins 2 choix avec des dates de début espacées de 2 semaines."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Pour résoudre les problèmes de blocage, l'ordre des congés sera déterminé d'après les critères successifs suivants :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tMaintient en poste des compétences minimum nécessaires pour le bon fonctionnement des ateliers de production."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes salariés ayant remis leur demande de congés dans les délais."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes salariés n’ayant pas eu leur 1er choix pour l'été précédent. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tPossibilités du conjoint salarié Bel."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Anticipation de prise de congés payés :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "La prise anticipée de CP est possible sous deux conditions :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tQue le salarié et hiérarchie soient tous les deux d'accord. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tQue cela reste dans la limite des droits acquis par le salarié."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Demande de jours ponctuels :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes demandes doivent intervenir au plus tard le jeudi de la semaine précédente."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes réponses doivent être données le lendemain."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Demande de semaines de repos :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes demandes doivent intervenir au plus tard 3 semaines à l'avance. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes réponses doivent être données la semaine suivante."
+                  }
+                ]
+              }
+            ],
+            "image": "media/aa18b470bc3a94b5268b.png",
             "imageWidth": 190,
             "imageHeight": 125,
             "imageAlign": "center",
-            "imageLink": ""
+            "imageLink": "",
+            "images": [
+              "media/aa18b470bc3a94b5268b.png"
+            ],
+            "attachments": [],
+            "imageSize": "medium"
           }
         ],
         "categories": [
