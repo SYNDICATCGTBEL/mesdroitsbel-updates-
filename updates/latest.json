@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "28fd1dfd0c8c07eaaf5b",
-  "publishedAt": "2026-06-20T23:44:13+00:00",
+  "version": "fe07912dc25eef38aa89",
+  "publishedAt": "2026-07-02T18:13:59+00:00",
   "rights": [],
   "content": {
     "schemaVersion": 1,
@@ -10,17 +10,99 @@
         "id": "application-cse",
         "title": "APPLICATION CSE",
         "category": "SWILE",
+        "description": "Vous pouvez vous connecter en vous rendant directement sur la page Swile en suivant directement ce lien. \nNous vous invitons à réaliser ces opérations avec un ordinateur en utilisant les navigateurs Google Chrome ou Mozilla Firefox.",
+        "descriptionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Vous pouvez vous connecter en vous rendant directement sur la page Swile en suivant directement ce lien. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Nous vous invitons à réaliser ces opérations avec un ordinateur en utilisant les navigateurs Google Chrome ou Mozilla Firefox."
+              }
+            ]
+          }
+        ],
+        "status": "Disponible",
+        "icon": "telework",
+        "summary": "Swile c'est la solution tout-en-un pour les titres cadeaux pour faire plaisir aux salariés en leur laissant le choix de les dépenser comme ils le souhaitent.",
+        "summaryRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Swile c'est la solution tout-en-un pour les titres cadeaux pour faire plaisir aux salariés en leur laissant le choix de les dépenser comme ils le souhaitent."
+              }
+            ]
+          }
+        ],
+        "image": "media/b42fa90d95eaea4ae6d5.png",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "https://directory.swile.co/",
+        "establishments": [
+          "LONS-LE-SAUNIER"
+        ],
+        "beneficiaryCategories": [
+          "TOUTES CATÉGORIES"
+        ],
+        "pointsRichText": [],
+        "points": [],
+        "imageSize": "medium"
+      },
+      {
+        "id": "kelio",
+        "title": "KELIO",
+        "category": "KELIO",
         "description": "",
         "descriptionRichText": [],
         "status": "Disponible",
         "icon": "chart",
         "summary": "",
         "summaryRichText": [],
-        "image": "media/b42fa90d95eaea4ae6d5.png",
+        "image": "",
         "imageWidth": 190,
         "imageHeight": 125,
         "imageAlign": "center",
-        "imageLink": "https://directory.swile.co/",
+        "imageLink": "https://groupebel.kelio.io/",
+        "establishments": [
+          "TOUS LES ÉTABLISSEMENTS"
+        ],
+        "beneficiaryCategories": [
+          "TOUTES CATÉGORIES"
+        ],
+        "pointsRichText": [],
+        "points": [],
+        "imageSize": "medium"
+      },
+      {
+        "id": "wehr",
+        "title": "WeHR",
+        "category": "WeHR",
+        "description": "",
+        "descriptionRichText": [],
+        "status": "Disponible",
+        "icon": "chart",
+        "summary": "",
+        "summaryRichText": [],
+        "image": "",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "https://groupebel.employee.eu.people-doc.com/home",
+        "establishments": [
+          "TOUS LES ÉTABLISSEMENTS"
+        ],
+        "beneficiaryCategories": [
+          "TOUTES CATÉGORIES"
+        ],
         "pointsRichText": [],
         "points": [],
         "imageSize": "medium"
@@ -829,6 +911,7 @@
       }
     },
     "agreementCategories": [
+      "KELIO",
       "PeopleDoc",
       "SWILE",
       "WeHR"
