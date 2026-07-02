@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "401211771f7ec6cd1378",
-  "publishedAt": "2026-07-02T21:31:01+00:00",
+  "version": "31744a26d6f7aa44547f",
+  "publishedAt": "2026-07-02T21:35:50+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -201,15 +201,98 @@
             "title": "Alimentation RTT",
             "category": "Compteurs RTT",
             "body": "RTT : Les jours RTT sont des journées octroyées pour compenser une durée du travail qui serait supérieur à la durée légale, il est alimenté en fonction du nombre de jours entiers travaillés. \nLes JRTT se calculent du 1er Avril au 31 Mars de l’Année suivante (Ouvrier / Employé) et peuvent être pris que par journée ou demi-journée.\nLes JRTT se calculent en Année civile pour l’encadrement et peuvent être pris que par journée ou demi-journée.\nAinsi, leur nombre varie en fonction de l’horaire de travail des salariés :\n-\tPour une personne en équipe (avec un horaire de 37,5h hebdomadaires): 13 Jours de travail cumulés permettent d'acquérir 1 JRTT soit 15 jours de RTT pour une base horaire mensuelle de 152.25 h.\n-\tPour une personne en journée (avec un horaire de 36,5 h hebdomadaires): 23 jours de travail cumulés permettent d'acquérir 1 JRTT soit 9 jours de RTT pour une base horaire mensuelle de 152.25 h.\n-\tPour les TAM avec un horaire de 39,5 h : 15 Jours de travail cumulés permette d’acquérir 1 JRTT :\n-\t3 jours se substituant aux trois jours initialement prévus a l'article 12 de l'annexe 2 de la CCNIL, désormais généralisés et attribués sans condition d'ancienneté,\n-\t10 jours de repos complémentaires.\nSoit 13 jours de RTT pour une base horaire mensuelle de 160.95 h (ramenant le nombre annuel de jours travaillés à 214 jours en moyenne).",
-            "image": "",
-            "images": [],
-            "attachments": [],
-            "richText": [],
-            "imageSize": "medium",
+            "richText": [
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "RTT : Les jours RTT sont des journées octroyées pour compenser une durée du travail qui serait supérieur à la durée légale, il est alimenté en fonction du nombre de jours entiers travaillés. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les JRTT se calculent du 1er Avril au 31 Mars de l’Année suivante (Ouvrier / Employé) et peuvent être pris que par journée ou demi-journée."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les JRTT se calculent en Année civile pour l’encadrement et peuvent être pris que par journée ou demi-journée."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ainsi, leur nombre varie en fonction de l’horaire de travail des salariés :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tPour une personne en équipe (avec un horaire de 37,5h hebdomadaires): 13 Jours de travail cumulés permettent d'acquérir 1 JRTT soit 15 jours de RTT pour une base horaire mensuelle de 152.25 h."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tPour une personne en journée (avec un horaire de 36,5 h hebdomadaires): 23 jours de travail cumulés permettent d'acquérir 1 JRTT soit 9 jours de RTT pour une base horaire mensuelle de 152.25 h."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tPour les TAM avec un horaire de 39,5 h : 15 Jours de travail cumulés permette d’acquérir 1 JRTT :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\t3 jours se substituant aux trois jours initialement prévus a l'article 12 de l'annexe 2 de la CCNIL, désormais généralisés et attribués sans condition d'ancienneté,"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\t10 jours de repos complémentaires."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Soit 13 jours de RTT pour une base horaire mensuelle de 160.95 h (ramenant le nombre annuel de jours travaillés à 214 jours en moyenne)."
+                  }
+                ]
+              }
+            ],
+            "image": "media/aa18b470bc3a94b5268b.png",
             "imageWidth": 190,
             "imageHeight": 125,
             "imageAlign": "center",
-            "imageLink": ""
+            "imageLink": "",
+            "images": [
+              "media/aa18b470bc3a94b5268b.png"
+            ],
+            "attachments": [],
+            "imageSize": "medium"
           },
           {
             "id": "conges-payes",
