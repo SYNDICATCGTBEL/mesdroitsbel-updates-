@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "1f22f44141a2d61db11a",
-  "publishedAt": "2026-07-02T21:37:46+00:00",
+  "version": "74084c31d7313a40fbe0",
+  "publishedAt": "2026-07-03T19:20:46+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -589,7 +589,7 @@
             "id": "e-mail-syndicat-cgt-bel",
             "title": "E-Mail Syndicat CGT BEL",
             "category": "E-Mail",
-            "body": "Contacter la CGT BEL\nTu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?\nUtilise cette adresse e-mail pour contacter le syndicat CGT BEL : mailto: syndicatscgtbel@gmail.com\nLa CGT BEL est là pour t’écouter, t’informer et t’accompagner.\nTon message reste confidentiel.\nIndique dans ton e-mail :\nTon nom et prénom\nTon site\nTon service\nLe sujet de ta demande\nLes documents utiles si tu en as\nLa CGT BEL te répondra dès que possible.\nUn doute, une difficulté, une injustice au travail ?\nÉcris-nous.",
+            "body": "Contacter la CGT BEL\nTu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?\nUtilise cette adresse e-mail pour contacter le syndicat CGT BEL :  syndicatscgtbel@gmail.com\nLa CGT BEL est là pour t’écouter, t’informer et t’accompagner.\nTon message reste confidentiel.\nIndique dans ton e-mail :\nTon nom et prénom\nTon site\nTon service\nLe sujet de ta demande\nLes documents utiles si tu en as\nLa CGT BEL te répondra dès que possible.\nUn doute, une difficulté, une injustice au travail ?\nÉcris-nous.",
             "richText": [
               {
                 "type": "heading",
@@ -614,7 +614,7 @@
                 "type": "heading",
                 "spans": [
                   {
-                    "text": "Utilise cette adresse e-mail pour contacter le syndicat CGT BEL : mailto: "
+                    "text": "Utilise cette adresse e-mail pour contacter le syndicat CGT BEL :  "
                   },
                   {
                     "text": "syndicatscgtbel@gmail.com",
