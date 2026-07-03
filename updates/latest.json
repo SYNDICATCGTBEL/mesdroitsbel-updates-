@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2147d60ac924ca725c27",
-  "publishedAt": "2026-07-03T19:23:05+00:00",
+  "version": "cb57cfbc7eaf5300b1f6",
+  "publishedAt": "2026-07-03T19:27:01+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -291,7 +291,12 @@
             "images": [
               "media/aa18b470bc3a94b5268b.png"
             ],
-            "attachments": [],
+            "attachments": [
+              {
+                "name": "ALIMENTATION DU JRTT.pdf",
+                "file": "media/b698bbb1b172cbae6160.pdf"
+              }
+            ],
             "imageSize": "medium"
           },
           {
