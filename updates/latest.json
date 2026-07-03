@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "cb57cfbc7eaf5300b1f6",
-  "publishedAt": "2026-07-03T19:27:01+00:00",
+  "version": "61963722dbdbd1a6a98c",
+  "publishedAt": "2026-07-03T20:59:25+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -300,6 +300,80 @@
             "imageSize": "medium"
           },
           {
+            "id": "cet",
+            "title": "CET",
+            "category": "Compteur CET",
+            "body": "Les droits acquis dans le cadre du CET sont garantis par l’Association pour la garantie des salaires (AGS) dans les conditions et limites de l’article L. 3253-8 du Code du travail. Cette disposition est d’ordre public.\nTout salarié de statut ouvrier ou employé titulaire d'un contrat à durée indéterminée (à l'issue de sa période d'essai) bénéficie du CET.\nIl permet à chaque salarié qui le désire, d'épargner en fin de période de RTT, soit le 31 décembre d'une année, des jours de repos non pris sur la période de référence.\nLe congé ainsi épargné doit être pris dans une période de 5 ans.",
+            "richText": [
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les droits acquis dans le cadre du CET sont garantis par l’Association pour la garantie des salaires (AGS) dans les conditions et limites de l’article L. 3253-8 du Code du travail.",
+                    "fontSize": 10
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "Cette disposition est d’ordre public",
+                    "color": "#FF0000",
+                    "fontSize": 10
+                  },
+                  {
+                    "text": ".",
+                    "fontSize": 10
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Tout salarié de statut ouvrier ou employé titulaire d'un contrat à durée indéterminée (à l'issue de sa période d'essai) bénéficie du CET.",
+                    "bold": true,
+                    "fontSize": 10
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Il permet à chaque salarié qui le désire, d'épargner en fin de période de RTT, soit le 31 décembre d'une année, des jours de repos non pris sur la période de référence.",
+                    "bold": true,
+                    "fontSize": 10
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Le congé ainsi épargné doit être pris dans une période de 5 ans.",
+                    "bold": true,
+                    "fontSize": 10
+                  }
+                ]
+              }
+            ],
+            "image": "media/606f488958982536d7c2.jpg",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "images": [
+              "media/606f488958982536d7c2.jpg"
+            ],
+            "attachments": [
+              {
+                "name": "ALIMENTATION DU CET.pdf",
+                "file": "media/ed7efb2845afdd81cb57.pdf"
+              }
+            ],
+            "imageSize": "medium"
+          },
+          {
             "id": "conges-payes",
             "title": "Congés Payés",
             "category": "Compeurs CP",
@@ -498,6 +572,7 @@
           "Compeurs CP",
           "Compeurs RCL",
           "Compeurs RCR",
+          "Compteur CET",
           "Compteurs RTT"
         ],
         "image": "",
