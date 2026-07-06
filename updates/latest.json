@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "81794ac44f6bd7df7baa",
-  "publishedAt": "2026-07-06T21:42:32+00:00",
+  "version": "70ebb9fce8a394b945e5",
+  "publishedAt": "2026-07-06T21:49:18+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -670,7 +670,7 @@
         "imageLink": ""
       },
       "contacts": {
-        "title": "Contacts utiles",
+        "title": "Contacts CGT BEL",
         "description": "Les bons contacts à portée de main",
         "introduction": "Vos élus CGT BEL sont à votre service",
         "icon": "phone",
@@ -823,7 +823,16 @@
           "E-Mail"
         ],
         "image": "",
-        "introductionRichText": [],
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Vos élus CGT BEL sont à votre service"
+              }
+            ]
+          }
+        ],
         "imageSize": "medium",
         "visible": "oui",
         "imageWidth": 190,
@@ -1507,13 +1516,13 @@
   },
   "changes": [
     {
-      "id": "28c78b0082319408",
+      "id": "84c88678023457a0",
       "type": "page",
-      "action": "added",
-      "title": "GRILLE D'ANCIENNETE",
-      "publishedAt": "2026-07-06T21:42:32+00:00",
+      "action": "updated",
+      "title": "Contacts CGT BEL",
+      "publishedAt": "2026-07-06T21:49:18+00:00",
       "section": "Rubriques",
-      "description": "La prime d'ancienneté est un complément de salaire versé par l'employeur en fonction de l'ancienneté des salariés."
+      "description": "Les bons contacts à portée de main"
     }
   ]
 }
