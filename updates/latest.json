@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "48128455edfbde062b5d",
-  "publishedAt": "2026-07-06T21:34:01+00:00",
+  "version": "d58b8dbcaafe7c1c0f94",
+  "publishedAt": "2026-07-06T21:39:00+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1417,7 +1417,10 @@
         "imageAlign": "center",
         "imageLink": "",
         "visible": "oui",
-        "categories": [],
+        "categories": [
+          "SMIC 2026",
+          "TAUX HORAIRES 2026"
+        ],
         "items": []
       }
     },
@@ -1479,13 +1482,12 @@
   },
   "changes": [
     {
-      "id": "ef2a4b9f63b5556f",
-      "type": "page",
+      "id": "d66ef5f16bc3d61f",
+      "type": "category",
       "action": "added",
-      "title": "TAUX HORAIRES",
-      "publishedAt": "2026-07-06T21:34:01+00:00",
-      "section": "Rubriques",
-      "description": "Le taux horaire correspond au montant de rémunération versé pour une heure de travail"
+      "title": "TAUX HORAIRES 2026",
+      "publishedAt": "2026-07-06T21:39:00+00:00",
+      "section": "TAUX HORAIRES"
     }
   ]
 }
