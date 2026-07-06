@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "61963722dbdbd1a6a98c",
-  "publishedAt": "2026-07-03T20:59:25+00:00",
+  "version": "a00c98861583a5b077ec",
+  "publishedAt": "2026-07-06T17:21:24+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -594,9 +594,9 @@
         "imageLink": ""
       },
       "news": {
-        "title": "Actualités",
+        "title": "Mouvement et Grève",
         "description": "Rester informé des nouveautés chez BEL",
-        "introduction": "Informations importantes",
+        "introduction": "La grève est une cessation collective et concertée d'activité en vue d'appuyer des revendications professionnelles. C'est un droit d'arrêter son travail pour faire pression afin d'obtenir des droits ou de les faire respecter : \nC'est un droit de désobéir, un droit à la révolte, un droit à la résistance reconnu par la Constitution. La grève est un droit constitutionnel (garantie par la constitution), c'est un droit individuel qui s'exerce collectivement.",
         "icon": "news",
         "items": [
           {
@@ -631,15 +631,25 @@
             "type": "paragraph",
             "spans": [
               {
-                "text": "Informations importantes "
+                "text": "La grève est une cessation collective et concertée d'activité en vue d'appuyer des revendications professionnelles. C'est un droit d'arrêter son travail pour faire pression afin d'obtenir des droits ou de les faire respecter : ",
+                "fontSize": 12
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "C'est un droit de désobéir, un droit à la révolte, un droit à la résistance reconnu par la Constitution. La grève est un droit constitutionnel (garantie par la constitution), c'est un droit individuel qui s'exerce collectivement.",
+                "fontSize": 12
               }
             ]
           }
         ],
         "imageSize": "medium",
         "visible": "oui",
-        "imageWidth": 190,
-        "imageHeight": 125,
+        "imageWidth": 485,
+        "imageHeight": 194,
         "imageAlign": "center",
         "imageLink": ""
       },
@@ -1375,7 +1385,7 @@
       "modules": {
         "showRights": "oui",
         "showAgreements": "oui",
-        "showFavorites": "non",
+        "showFavorites": "oui",
         "showProfile": "oui",
         "showContacts": "oui",
         "showConstruction": "non"
@@ -1389,5 +1399,16 @@
         "contactsLabel": "Contacts CGT BEL"
       }
     }
-  }
+  },
+  "changes": [
+    {
+      "id": "3143f064e7913acd",
+      "type": "page",
+      "action": "updated",
+      "title": "Mouvement et Grève",
+      "publishedAt": "2026-07-06T17:21:24+00:00",
+      "section": "Rubriques",
+      "description": "Rester informé des nouveautés chez BEL"
+    }
+  ]
 }
