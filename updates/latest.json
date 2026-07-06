@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "b84d97c41fa23fbc0ee3",
-  "publishedAt": "2026-07-06T20:13:31+00:00",
+  "version": "bfafe7941a57101e1f9d",
+  "publishedAt": "2026-07-06T21:15:36+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1342,6 +1342,54 @@
         "imageHeight": 125,
         "imageAlign": "center",
         "imageLink": ""
+      },
+      "nao": {
+        "title": "NAO",
+        "description": "La Négociation Annuelle Obligatoire (NAO) est inscrite dans le Code du travail pour favoriser, chaque année, le dialogue entre les salariés et l'employeur dans les entreprises",
+        "introduction": "Les Négociations Obligatoires (NAO)\nLes Négociations Annuelles Obligatoires (NAO) sont régies par l’article L2242-1 du code du travail\nDans les entreprises où sont constituées une ou plusieurs sections syndicales d’organisations représentatives, l’employeur engage : Chaque année, une négociation sur la rémunération, le temps de travail et le partage de la valeur ajoutée dans l’entreprise.",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Les Négociations Obligatoires (NAO)",
+                "bold": true,
+                "fontSize": 12
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Les Négociations Annuelles Obligatoires (NAO) sont régies par l’article L2242-1 du code du travail",
+                "fontSize": 12
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Dans les entreprises où sont constituées une ou plusieurs sections syndicales d’organisations représentatives, l’employeur engage : Chaque année, une négociation sur la rémunération, le temps de travail et le partage de la valeur ajoutée dans l’entreprise",
+                "fontSize": 12
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "icon": "news",
+        "image": "",
+        "imageSize": "medium",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "",
+        "visible": "oui",
+        "categories": [],
+        "items": []
       }
     },
     "agreementCategories": [
@@ -1402,13 +1450,13 @@
   },
   "changes": [
     {
-      "id": "ae61336e88775191",
-      "type": "right",
-      "action": "updated",
-      "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
-      "publishedAt": "2026-07-06T20:13:31+00:00",
-      "section": "Temps de travail",
-      "description": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos"
+      "id": "c6fc252b15f77000",
+      "type": "page",
+      "action": "added",
+      "title": "NAO",
+      "publishedAt": "2026-07-06T21:15:36+00:00",
+      "section": "Rubriques",
+      "description": "La Négociation Annuelle Obligatoire (NAO) est inscrite dans le Code du travail pour favoriser, chaque année, le dialogue entre les salari..."
     }
   ]
 }
