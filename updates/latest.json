@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "d58b8dbcaafe7c1c0f94",
-  "publishedAt": "2026-07-06T21:39:00+00:00",
+  "version": "81794ac44f6bd7df7baa",
+  "publishedAt": "2026-07-06T21:42:32+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1422,6 +1422,31 @@
           "TAUX HORAIRES 2026"
         ],
         "items": []
+      },
+      "grille-d-anciennete": {
+        "title": "GRILLE D'ANCIENNETE",
+        "description": "La prime d'ancienneté est un complément de salaire versé par l'employeur en fonction de l'ancienneté des salariés.",
+        "introduction": "La prime d’ancienneté est versée au bout de 3 ans de présence dans l’entreprise. Elle représente un pourcentage du salaire minima conventionnel suivant son échelon et son ancienneté. Elle varie de 2% ( 3ans d’ancienneté) à 15% (15 ans et plus d’ancienneté) du minima conventionnel.",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "La prime d’ancienneté est versée au bout de 3 ans de présence dans l’entreprise. Elle représente un pourcentage du salaire minima conventionnel suivant son échelon et son ancienneté. Elle varie de 2% ( 3ans d’ancienneté) à 15% (15 ans et plus d’ancienneté) du minima conventionnel."
+              }
+            ]
+          }
+        ],
+        "icon": "info",
+        "image": "",
+        "imageSize": "medium",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "",
+        "visible": "oui",
+        "categories": [],
+        "items": []
       }
     },
     "agreementCategories": [
@@ -1482,12 +1507,13 @@
   },
   "changes": [
     {
-      "id": "d66ef5f16bc3d61f",
-      "type": "category",
+      "id": "28c78b0082319408",
+      "type": "page",
       "action": "added",
-      "title": "TAUX HORAIRES 2026",
-      "publishedAt": "2026-07-06T21:39:00+00:00",
-      "section": "TAUX HORAIRES"
+      "title": "GRILLE D'ANCIENNETE",
+      "publishedAt": "2026-07-06T21:42:32+00:00",
+      "section": "Rubriques",
+      "description": "La prime d'ancienneté est un complément de salaire versé par l'employeur en fonction de l'ancienneté des salariés."
     }
   ]
 }
