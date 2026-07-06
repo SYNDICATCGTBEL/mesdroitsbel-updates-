@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "bfafe7941a57101e1f9d",
-  "publishedAt": "2026-07-06T21:15:36+00:00",
+  "version": "11097fab21222af81488",
+  "publishedAt": "2026-07-06T21:30:26+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1388,7 +1388,11 @@
         "imageAlign": "center",
         "imageLink": "",
         "visible": "oui",
-        "categories": [],
+        "categories": [
+          "NAO 2025",
+          "NAO 2026",
+          "NAO 2027"
+        ],
         "items": []
       }
     },
@@ -1450,13 +1454,12 @@
   },
   "changes": [
     {
-      "id": "c6fc252b15f77000",
-      "type": "page",
+      "id": "231e8889e797e4ec",
+      "type": "category",
       "action": "added",
-      "title": "NAO",
-      "publishedAt": "2026-07-06T21:15:36+00:00",
-      "section": "Rubriques",
-      "description": "La Négociation Annuelle Obligatoire (NAO) est inscrite dans le Code du travail pour favoriser, chaque année, le dialogue entre les salari..."
+      "title": "NAO 2027",
+      "publishedAt": "2026-07-06T21:30:26+00:00",
+      "section": "NAO"
     }
   ]
 }
