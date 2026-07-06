@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "f0d9a806186826eb1e5b",
-  "publishedAt": "2026-07-06T21:54:18+00:00",
+  "version": "573e4d3bf71377f8095d",
+  "publishedAt": "2026-07-06T21:56:35+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1479,7 +1479,11 @@
         "imageAlign": "center",
         "imageLink": "",
         "visible": "oui",
-        "categories": [],
+        "categories": [
+          "Intéressement",
+          "Participation",
+          "Plan Epargne"
+        ],
         "items": []
       }
     },
@@ -1541,13 +1545,12 @@
   },
   "changes": [
     {
-      "id": "7600881a726b20b2",
-      "type": "page",
+      "id": "85ea14aab9e37423",
+      "type": "category",
       "action": "added",
-      "title": "EPARGNE SALARIALE",
-      "publishedAt": "2026-07-06T21:54:18+00:00",
-      "section": "Rubriques",
-      "description": "Ensemble de dispositifs permettant d'associer les salariés aux résultats et/ou aux performances de leur entreprise."
+      "title": "Plan Epargne",
+      "publishedAt": "2026-07-06T21:56:35+00:00",
+      "section": "EPARGNE SALARIALE"
     }
   ]
 }
