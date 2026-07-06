@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "11097fab21222af81488",
-  "publishedAt": "2026-07-06T21:30:26+00:00",
+  "version": "48128455edfbde062b5d",
+  "publishedAt": "2026-07-06T21:34:01+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1394,6 +1394,31 @@
           "NAO 2027"
         ],
         "items": []
+      },
+      "taux-horaires": {
+        "title": "TAUX HORAIRES",
+        "description": "Le taux horaire correspond au montant de rémunération versé pour une heure de travail",
+        "introduction": "Votre taux horaire correspond au montant que vous percevez pour une heure de travail effectuée. Ceci étant, il est important de souligner que le taux horaire ne prend pas en compte: Les primes perçues.",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Votre taux horaire correspond au montant que vous percevez pour une heure de travail effectuée. Ceci étant, il est important de souligner que le taux horaire ne prend pas en compte: Les primes perçues."
+              }
+            ]
+          }
+        ],
+        "icon": "info",
+        "image": "",
+        "imageSize": "medium",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "",
+        "visible": "oui",
+        "categories": [],
+        "items": []
       }
     },
     "agreementCategories": [
@@ -1454,12 +1479,13 @@
   },
   "changes": [
     {
-      "id": "231e8889e797e4ec",
-      "type": "category",
+      "id": "ef2a4b9f63b5556f",
+      "type": "page",
       "action": "added",
-      "title": "NAO 2027",
-      "publishedAt": "2026-07-06T21:30:26+00:00",
-      "section": "NAO"
+      "title": "TAUX HORAIRES",
+      "publishedAt": "2026-07-06T21:34:01+00:00",
+      "section": "Rubriques",
+      "description": "Le taux horaire correspond au montant de rémunération versé pour une heure de travail"
     }
   ]
 }
