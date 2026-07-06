@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "70ebb9fce8a394b945e5",
-  "publishedAt": "2026-07-06T21:49:18+00:00",
+  "version": "f0d9a806186826eb1e5b",
+  "publishedAt": "2026-07-06T21:54:18+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1456,6 +1456,31 @@
         "visible": "oui",
         "categories": [],
         "items": []
+      },
+      "epargne-salariale": {
+        "title": "EPARGNE SALARIALE",
+        "description": "Ensemble de dispositifs permettant d'associer les salariés aux résultats et/ou aux performances de leur entreprise.",
+        "introduction": "L'épargne salariale consiste en un ensemble de dispositifs (la participation, l'intéressement, les plans d'épargne salariale) dont l'objectif est d'associer les salariés aux résultats et aux performances de leur entreprise et de favoriser l'épargne collective et le développement des investissements des entreprises.",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "L'épargne salariale consiste en un ensemble de dispositifs (la participation, l'intéressement, les plans d'épargne salariale) dont l'objectif est d'associer les salariés aux résultats et aux performances de leur entreprise et de favoriser l'épargne collective et le développement des investissements des entreprises."
+              }
+            ]
+          }
+        ],
+        "icon": "info",
+        "image": "",
+        "imageSize": "medium",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "",
+        "visible": "oui",
+        "categories": [],
+        "items": []
       }
     },
     "agreementCategories": [
@@ -1516,13 +1541,13 @@
   },
   "changes": [
     {
-      "id": "84c88678023457a0",
+      "id": "7600881a726b20b2",
       "type": "page",
-      "action": "updated",
-      "title": "Contacts CGT BEL",
-      "publishedAt": "2026-07-06T21:49:18+00:00",
+      "action": "added",
+      "title": "EPARGNE SALARIALE",
+      "publishedAt": "2026-07-06T21:54:18+00:00",
       "section": "Rubriques",
-      "description": "Les bons contacts à portée de main"
+      "description": "Ensemble de dispositifs permettant d'associer les salariés aux résultats et/ou aux performances de leur entreprise."
     }
   ]
 }
