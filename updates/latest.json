@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "a00c98861583a5b077ec",
-  "publishedAt": "2026-07-06T17:21:24+00:00",
+  "version": "b84d97c41fa23fbc0ee3",
+  "publishedAt": "2026-07-06T20:13:31+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -25,8 +25,8 @@
         "media/aa18b470bc3a94b5268b.png"
       ],
       "imageSize": "medium",
-      "imageWidth": 190,
-      "imageHeight": 125,
+      "imageWidth": 512,
+      "imageHeight": 512,
       "imageAlign": "center",
       "imageLink": "",
       "attachments": [
@@ -1402,13 +1402,13 @@
   },
   "changes": [
     {
-      "id": "3143f064e7913acd",
-      "type": "page",
+      "id": "ae61336e88775191",
+      "type": "right",
       "action": "updated",
-      "title": "Mouvement et Grève",
-      "publishedAt": "2026-07-06T17:21:24+00:00",
-      "section": "Rubriques",
-      "description": "Rester informé des nouveautés chez BEL"
+      "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
+      "publishedAt": "2026-07-06T20:13:31+00:00",
+      "section": "Temps de travail",
+      "description": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos"
     }
   ]
 }
