@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "0570070f22d4a329b29e",
-  "publishedAt": "2026-07-08T12:32:34+00:00",
+  "version": "c9861a32eaba6e482ce1",
+  "publishedAt": "2026-07-08T12:34:18+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1486,6 +1486,26 @@
         ],
         "items": [
           {
+            "id": "compte-rendu-accord-2026-2028",
+            "title": "Compte-Rendu Accord 2026-2028",
+            "category": "Participation",
+            "body": "",
+            "richText": [],
+            "image": "",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "images": [],
+            "attachments": [
+              {
+                "name": "Information_CGT_Participation_ BEL_Final.pdf",
+                "file": "media/286187f9687ca384b3ce.pdf"
+              }
+            ],
+            "imageSize": "medium"
+          },
+          {
             "id": "compte-rendu-reunion-accord-2026-2028",
             "title": "Compte-rendu Réunion Accord 2026-2028",
             "category": "Intéressement",
@@ -1566,98 +1586,12 @@
   },
   "changes": [
     {
-      "id": "4f4184028bf3cd2a",
-      "type": "page",
-      "action": "updated",
-      "title": "Mes préférences",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Rubriques",
-      "description": "Notifications et affichage"
-    },
-    {
-      "id": "2738c1ecb66d8094",
-      "type": "category",
-      "action": "added",
-      "title": "Informations",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Mes préférences"
-    },
-    {
-      "id": "80808a5f551cbad4",
-      "type": "category",
-      "action": "deleted",
-      "title": "Mises à jour",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Mes préférences"
-    },
-    {
-      "id": "72c860ed03588454",
-      "type": "category",
-      "action": "deleted",
-      "title": "Profil salarié",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Mes préférences"
-    },
-    {
-      "id": "a2b6a0aa66f2004d",
-      "type": "category",
-      "action": "deleted",
-      "title": "Protection locale",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Mes préférences"
-    },
-    {
-      "id": "d33e6991219fee54",
+      "id": "4e236aede3b8f3b6",
       "type": "content",
       "action": "added",
-      "title": "Accords suivis",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Informations",
-      "description": "Retrouvez ici les informations concernant le suivi des accords."
-    },
-    {
-      "id": "31d78127fb02c1a0",
-      "type": "content",
-      "action": "added",
-      "title": "Affichage",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Informations",
-      "description": "Retrouvez ici les informations concernant l’affichage de l’application."
-    },
-    {
-      "id": "bf2ee98aa4d25b10",
-      "type": "content",
-      "action": "deleted",
-      "title": "Profil salarié",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Profil salarié",
-      "description": "Cette rubrique affiche le nom, l’e-mail, le site, la catégorie salarié et le statut de validation du compte."
-    },
-    {
-      "id": "bc3031c2ae2fabed",
-      "type": "content",
-      "action": "deleted",
-      "title": "Mises à jour",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Mises à jour",
-      "description": "Cette rubrique permet de vérifier la version du contenu, la source de mise à jour et les nouveautés non lues."
-    },
-    {
-      "id": "bc76de1895ec25cb",
-      "type": "content",
-      "action": "deleted",
-      "title": "Protection locale",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Protection locale",
-      "description": "Cette rubrique permet d’activer ou désactiver la protection locale disponible sur l’appareil."
-    },
-    {
-      "id": "ec8f3d115d2427ad",
-      "type": "content",
-      "action": "added",
-      "title": "Compte-rendu Réunion Accord 2026-2028",
-      "publishedAt": "2026-07-08T12:32:34+00:00",
-      "section": "Intéressement"
+      "title": "Compte-Rendu Accord 2026-2028",
+      "publishedAt": "2026-07-08T12:34:18+00:00",
+      "section": "Participation"
     }
   ]
 }
