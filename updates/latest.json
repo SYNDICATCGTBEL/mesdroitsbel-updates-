@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "5602909470cdf0d81941",
-  "publishedAt": "2026-07-09T08:55:48+00:00",
+  "version": "751d82097b9e8a696e0b",
+  "publishedAt": "2026-07-09T09:14:11+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -92,8 +92,8 @@
             ]
           }
         ],
-        "status": "Disponible",
-        "icon": "telework",
+        "status": "En cours d'ajout",
+        "icon": "chart",
         "summary": "Swile c'est la solution tout-en-un pour les titres cadeaux pour faire plaisir aux salariés en leur laissant le choix de les dépenser comme ils le souhaitent.",
         "summaryRichText": [
           {
@@ -106,8 +106,8 @@
           }
         ],
         "image": "media/b42fa90d95eaea4ae6d5.png",
-        "imageWidth": 190,
-        "imageHeight": 125,
+        "imageWidth": 260,
+        "imageHeight": 260,
         "imageAlign": "center",
         "imageLink": "https://directory.swile.co/",
         "establishments": [
@@ -1586,13 +1586,13 @@
   },
   "changes": [
     {
-      "id": "57b56f0e216a8183",
-      "type": "app",
+      "id": "5419d111a25a2f5e",
+      "type": "agreement",
       "action": "updated",
-      "title": "Paramètres de l'application",
-      "publishedAt": "2026-07-09T08:55:48+00:00",
-      "section": "Accueil et navigation",
-      "description": "Les textes, modules ou intitulés de l'application ont été modifiés."
+      "title": "APPLICATION CSE",
+      "publishedAt": "2026-07-09T09:14:11+00:00",
+      "section": "SWILE",
+      "description": "Swile c'est la solution tout-en-un pour les titres cadeaux pour faire plaisir aux salariés en leur laissant le choix de les dépenser comm..."
     }
   ]
 }
