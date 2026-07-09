@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "751d82097b9e8a696e0b",
-  "publishedAt": "2026-07-09T09:14:11+00:00",
+  "version": "f3a4f8d3a4fa599d7b21",
+  "publishedAt": "2026-07-09T10:31:28+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -92,8 +92,8 @@
             ]
           }
         ],
-        "status": "En cours d'ajout",
-        "icon": "chart",
+        "status": "Disponible",
+        "icon": "search",
         "summary": "Swile c'est la solution tout-en-un pour les titres cadeaux pour faire plaisir aux salariés en leur laissant le choix de les dépenser comme ils le souhaitent.",
         "summaryRichText": [
           {
@@ -1581,18 +1581,39 @@
         "favoritesLabel": "Mes Favoris",
         "profileLabel": "Mon Profil",
         "contactsLabel": "Contacts CGT BEL"
+      },
+      "icons": {
+        "homeIcon": "home",
+        "rightsIcon": "shield",
+        "agreementsIcon": "agreements",
+        "favoritesIcon": "star",
+        "profileIcon": "profile",
+        "contactsIcon": "phone",
+        "notificationIcon": "notification",
+        "searchIcon": "search",
+        "informationIcon": "info",
+        "constructionIcon": "construction"
       }
     }
   },
   "changes": [
     {
-      "id": "5419d111a25a2f5e",
+      "id": "49ab3d8cdc13fd94",
       "type": "agreement",
       "action": "updated",
       "title": "APPLICATION CSE",
-      "publishedAt": "2026-07-09T09:14:11+00:00",
+      "publishedAt": "2026-07-09T10:31:28+00:00",
       "section": "SWILE",
       "description": "Swile c'est la solution tout-en-un pour les titres cadeaux pour faire plaisir aux salariés en leur laissant le choix de les dépenser comm..."
+    },
+    {
+      "id": "9bec26888202328a",
+      "type": "app",
+      "action": "updated",
+      "title": "Paramètres de l'application",
+      "publishedAt": "2026-07-09T10:31:28+00:00",
+      "section": "Accueil et navigation",
+      "description": "Les textes, modules ou intitulés de l'application ont été modifiés."
     }
   ]
 }
