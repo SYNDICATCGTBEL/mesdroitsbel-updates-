@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "c9861a32eaba6e482ce1",
-  "publishedAt": "2026-07-08T12:34:18+00:00",
+  "version": "5602909470cdf0d81941",
+  "publishedAt": "2026-07-09T08:55:48+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1541,7 +1541,7 @@
         "subtitle": "Avantages, accords et droits des salariés",
         "buttonLabel": "Entrer",
         "logoImage": "media/5a511ed05a8f19151c2c.png",
-        "heroImage": "media/deb3e4b64ac254988731.jpg"
+        "heroImage": "media/7c8b314e5407ce0bce59.jpg"
       },
       "home": {
         "greeting": "Bonjour",
@@ -1586,12 +1586,13 @@
   },
   "changes": [
     {
-      "id": "4e236aede3b8f3b6",
-      "type": "content",
-      "action": "added",
-      "title": "Compte-Rendu Accord 2026-2028",
-      "publishedAt": "2026-07-08T12:34:18+00:00",
-      "section": "Participation"
+      "id": "57b56f0e216a8183",
+      "type": "app",
+      "action": "updated",
+      "title": "Paramètres de l'application",
+      "publishedAt": "2026-07-09T08:55:48+00:00",
+      "section": "Accueil et navigation",
+      "description": "Les textes, modules ou intitulés de l'application ont été modifiés."
     }
   ]
 }
