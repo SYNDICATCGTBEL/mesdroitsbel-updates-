@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "f3a4f8d3a4fa599d7b21",
-  "publishedAt": "2026-07-09T10:31:28+00:00",
+  "version": "7b471720329a085d606b",
+  "publishedAt": "2026-07-09T10:35:18+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -194,7 +194,7 @@
         "title": "Mes Compteurs BEL",
         "description": "Les avantages dont vous bénéficiez",
         "introduction": "Les principaux dispositifs et avantages accessibles aux salariés BEL.",
-        "icon": "gift",
+        "icon": "chart",
         "items": [
           {
             "id": "alimentation-rtt",
@@ -1598,22 +1598,13 @@
   },
   "changes": [
     {
-      "id": "49ab3d8cdc13fd94",
-      "type": "agreement",
+      "id": "6f1971327cb340c0",
+      "type": "page",
       "action": "updated",
-      "title": "APPLICATION CSE",
-      "publishedAt": "2026-07-09T10:31:28+00:00",
-      "section": "SWILE",
-      "description": "Swile c'est la solution tout-en-un pour les titres cadeaux pour faire plaisir aux salariés en leur laissant le choix de les dépenser comm..."
-    },
-    {
-      "id": "9bec26888202328a",
-      "type": "app",
-      "action": "updated",
-      "title": "Paramètres de l'application",
-      "publishedAt": "2026-07-09T10:31:28+00:00",
-      "section": "Accueil et navigation",
-      "description": "Les textes, modules ou intitulés de l'application ont été modifiés."
+      "title": "Mes Compteurs BEL",
+      "publishedAt": "2026-07-09T10:35:18+00:00",
+      "section": "Rubriques",
+      "description": "Les avantages dont vous bénéficiez"
     }
   ]
 }
