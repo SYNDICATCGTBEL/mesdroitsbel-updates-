@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Adresse e-mail confirmée - MES DROITS BEL</title>
+    <title>MES DROITS BEL</title>
     <style>
       :root {
         color-scheme: light;
@@ -55,19 +55,118 @@
         font-weight: 800;
         letter-spacing: 0.02em;
       }
+
+      .hidden { display: none; }
+
+      input {
+        width: 100%;
+        box-sizing: border-box;
+        min-height: 48px;
+        border-radius: 14px;
+        border: 1px solid #e3e8f1;
+        background: #f8fafc;
+        padding: 0 14px;
+        font-size: 15px;
+        margin-bottom: 12px;
+        outline: none;
+      }
+
+      input:focus { border-color: #d71920; }
+
+      button {
+        width: 100%;
+        min-height: 50px;
+        border: none;
+        border-radius: 25px;
+        background: #d71920;
+        color: #fff;
+        font-size: 15px;
+        font-weight: 800;
+        cursor: pointer;
+        margin-top: 4px;
+      }
+
+      button:disabled { opacity: 0.55; cursor: default; }
+
+      .error { color: #d71920; font-size: 14px; margin-top: 8px; }
+      .success { color: #1a7a3a; font-size: 14px; margin-top: 8px; }
     </style>
   </head>
   <body>
     <main>
       <div class="badge">MES DROITS BEL</div>
-      <h1>Adresse e-mail confirmée</h1>
-      <p>
-        Votre adresse e-mail est maintenant confirmée. Vous pouvez fermer cette page et revenir
-        dans l'application MES DROITS BEL pour vous connecter.
-      </p>
-      <p>
-        L'accès complet reste soumis à la validation de votre compte par l'administrateur CGT BEL.
-      </p>
+
+      <!-- Cas 1 : confirmation email classique -->
+      <div id="confirm-view">
+        <h1>Adresse e-mail confirmée</h1>
+        <p>
+          Votre adresse e-mail est maintenant confirmée. Vous pouvez fermer cette page et revenir
+          dans l'application MES DROITS BEL pour vous connecter.
+        </p>
+        <p>
+          L'accès complet reste soumis à la validation de votre compte par l'administrateur CGT BEL.
+        </p>
+      </div>
+
+      <!-- Cas 2 : réinitialisation mot de passe -->
+      <div id="reset-view" class="hidden">
+        <h1>Réinitialiser le mot de passe</h1>
+        <p>Choisissez un nouveau mot de passe pour votre compte.</p>
+        <input id="pwd1" type="password" placeholder="Nouveau mot de passe (8 caractères min.)" autocomplete="new-password" />
+        <input id="pwd2" type="password" placeholder="Confirmer le mot de passe" autocomplete="new-password" />
+        <button id="submit-btn" onclick="submitReset()">Enregistrer le mot de passe</button>
+        <div id="msg" class="error"></div>
+      </div>
     </main>
+
+    <script>
+      (function () {
+        var hash = window.location.hash || '';
+        if (hash.indexOf('type=recovery') === -1) return;
+
+        document.getElementById('confirm-view').className = 'hidden';
+        document.getElementById('reset-view').className = '';
+
+        window._resetToken = '';
+        hash.substring(1).split('&').forEach(function (pair) {
+          var parts = pair.split('=');
+          if (parts[0] === 'access_token') window._resetToken = decodeURIComponent(parts[1]);
+        });
+      })();
+
+      function submitReset() {
+        var p1 = document.getElementById('pwd1').value;
+        var p2 = document.getElementById('pwd2').value;
+        var msg = document.getElementById('msg');
+        var btn = document.getElementById('submit-btn');
+
+        msg.className = 'error';
+        if (p1.length < 8) { msg.textContent = 'Le mot de passe doit contenir au moins 8 caractères.'; return; }
+        if (p1 !== p2) { msg.textContent = 'Les deux mots de passe ne correspondent pas.'; return; }
+        if (!window._resetToken) { msg.textContent = 'Lien de réinitialisation invalide. Demandez un nouveau lien.'; return; }
+
+        btn.disabled = true;
+        btn.textContent = 'Enregistrement…';
+        msg.textContent = '';
+
+        fetch('https://fqpjifhxmlyoiejzjoxo.supabase.co/auth/v1/user', {
+          method: 'PUT',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': 'Bearer ' + window._resetToken
+          },
+          body: JSON.stringify({ password: p1 })
+        }).then(function (res) {
+          if (!res.ok) throw res;
+          msg.className = 'success';
+          msg.textContent = 'Mot de passe enregistré. Vous pouvez fermer cette page et vous connecter dans l\'application.';
+          btn.textContent = 'Terminé';
+        }).catch(function (err) {
+          btn.disabled = false;
+          btn.textContent = 'Enregistrer le mot de passe';
+          msg.textContent = 'Erreur lors de l\'enregistrement. Le lien a peut-être expiré — demandez un nouveau lien.';
+        });
+      }
+    </script>
   </body>
 </html>
