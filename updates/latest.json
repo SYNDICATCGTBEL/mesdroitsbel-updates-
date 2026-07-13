@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "7b471720329a085d606b",
-  "publishedAt": "2026-07-09T10:35:18+00:00",
+  "version": "7d161286804f35d5ceec",
+  "publishedAt": "2026-07-13T13:40:06+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -297,7 +297,13 @@
                 "file": "media/b698bbb1b172cbae6160.pdf"
               }
             ],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
           },
           {
             "id": "cet",
@@ -371,7 +377,13 @@
                 "file": "media/ed7efb2845afdd81cb57.pdf"
               }
             ],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
           },
           {
             "id": "conges-payes",
@@ -565,7 +577,13 @@
               "media/aa18b470bc3a94b5268b.png"
             ],
             "attachments": [],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
           }
         ],
         "categories": [
@@ -619,7 +637,13 @@
             "imageWidth": 190,
             "imageHeight": 125,
             "imageAlign": "center",
-            "imageLink": ""
+            "imageLink": "",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
           }
         ],
         "categories": [
@@ -816,7 +840,13 @@
               "media/a5648ec037e736ea0598.jpg"
             ],
             "attachments": [],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
           }
         ],
         "categories": [
@@ -863,7 +893,13 @@
             "imageWidth": 190,
             "imageHeight": 125,
             "imageAlign": "center",
-            "imageLink": ""
+            "imageLink": "",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
           },
           {
             "id": "affichage",
@@ -878,7 +914,13 @@
             "imageWidth": 190,
             "imageHeight": 125,
             "imageAlign": "center",
-            "imageLink": ""
+            "imageLink": "",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
           }
         ],
         "introductionRichText": [],
@@ -1331,7 +1373,13 @@
             "imageWidth": 190,
             "imageHeight": 125,
             "imageAlign": "center",
-            "imageLink": ""
+            "imageLink": "",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
           }
         ],
         "introductionRichText": [
@@ -1430,7 +1478,35 @@
           "SMIC 2026",
           "TAUX HORAIRES 2026"
         ],
-        "items": []
+        "items": [
+          {
+            "id": "taux-horaires-2026",
+            "title": "TAUX HORAIRES 2026",
+            "category": "TAUX HORAIRES 2026",
+            "body": "",
+            "richText": [],
+            "image": "",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS",
+              "LONS-LE-SAUNIER"
+            ],
+            "beneficiaryCategories": [
+              "OUVRIER/EMPLOYÉ"
+            ],
+            "images": [],
+            "attachments": [
+              {
+                "name": "Taux horaires Bel Lons 2026.pdf",
+                "file": "media/0a75f76f019001b9b8c9.pdf"
+              }
+            ],
+            "imageSize": "medium"
+          }
+        ]
       },
       "grille-d-anciennete": {
         "title": "GRILLE D'ANCIENNETE",
@@ -1503,7 +1579,13 @@
                 "file": "media/286187f9687ca384b3ce.pdf"
               }
             ],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
           },
           {
             "id": "compte-rendu-reunion-accord-2026-2028",
@@ -1523,7 +1605,13 @@
                 "file": "media/ddad2209e7f0b74ea5c3.pdf"
               }
             ],
-            "imageSize": "medium"
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
           }
         ]
       }
@@ -1598,13 +1686,166 @@
   },
   "changes": [
     {
-      "id": "6f1971327cb340c0",
-      "type": "page",
+      "id": "e9d46e9b7f295193",
+      "type": "content",
       "action": "updated",
-      "title": "Mes Compteurs BEL",
-      "publishedAt": "2026-07-09T10:35:18+00:00",
-      "section": "Rubriques",
-      "description": "Les avantages dont vous bénéficiez"
+      "title": "Alimentation RTT",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "Compteurs RTT",
+      "description": "RTT : Les jours RTT sont des journées octroyées pour compenser une durée du travail qui serait supérieur à la durée légale, il est alimen...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "e3f1edcb4d9f1082",
+      "type": "content",
+      "action": "updated",
+      "title": "CET",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "Compteur CET",
+      "description": "Les droits acquis dans le cadre du CET sont garantis par l’Association pour la garantie des salaires (AGS) dans les conditions et limites...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "d7a21509b87819e7",
+      "type": "content",
+      "action": "updated",
+      "title": "Congés Payés",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "Compeurs CP",
+      "description": "Période de prise de congés payés : La période de prise des CP va du 1er Juin au 31 mai. La période de prise des congés d'été commence le ...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "41b12f33039fc2ec",
+      "type": "content",
+      "action": "updated",
+      "title": "APPEL A LA GREVE",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "TRACTS CGT BEL",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "e12dc34e24ee341f",
+      "type": "content",
+      "action": "updated",
+      "title": "E-Mail Syndicat CGT BEL",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "E-Mail",
+      "description": "Contacter la CGT BEL Tu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de t...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "c45ca3928e62629f",
+      "type": "content",
+      "action": "updated",
+      "title": "Accords suivis",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "Informations",
+      "description": "Retrouvez ici les informations concernant le suivi des accords.",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "82a2a7b43c9bd98a",
+      "type": "content",
+      "action": "updated",
+      "title": "Affichage",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "Informations",
+      "description": "Retrouvez ici les informations concernant l’affichage de l’application.",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "3fed2e1e7034c4d9",
+      "type": "content",
+      "action": "updated",
+      "title": "Confidentialité : Aucune donnée personnelle collectée",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "Informations",
+      "description": "L'application Mes Droits BEL a pour objectif de mettre à disposition des salariés des informations relatives aux accords collectifs, aux ...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "261922a670db4a87",
+      "type": "content",
+      "action": "updated",
+      "title": "TAUX HORAIRES 2026",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "TAUX HORAIRES 2026",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS",
+        "LONS-LE-SAUNIER"
+      ],
+      "beneficiaryCategories": [
+        "OUVRIER/EMPLOYÉ"
+      ]
+    },
+    {
+      "id": "845a444cb1d83f18",
+      "type": "content",
+      "action": "updated",
+      "title": "Compte-Rendu Accord 2026-2028",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "Participation",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "bf5f76bcf89edba2",
+      "type": "content",
+      "action": "updated",
+      "title": "Compte-rendu Réunion Accord 2026-2028",
+      "publishedAt": "2026-07-13T13:40:06+00:00",
+      "section": "Intéressement",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
     }
   ]
 }
