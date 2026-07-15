@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "436202eb2218889177d1",
-  "publishedAt": "2026-07-13T14:15:52+00:00",
+  "version": "2f121cbc51a3247633c1",
+  "publishedAt": "2026-07-15T22:22:28+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1461,7 +1461,9 @@
             "type": "paragraph",
             "spans": [
               {
-                "text": "Votre taux horaire correspond au montant que vous percevez pour une heure de travail effectuée. Ceci étant, il est important de souligner que le taux horaire ne prend pas en compte: Les primes perçues."
+                "text": "Votre taux horaire correspond au montant que vous percevez pour une heure de travail effectuée. Ceci étant, il est important de souligner que le taux horaire ne prend pas en compte: Les primes perçues.",
+                "bold": true,
+                "fontSize": 11
               }
             ]
           }
@@ -1686,19 +1688,13 @@
   },
   "changes": [
     {
-      "id": "426190548511c76c",
-      "type": "right",
+      "id": "b1ceff4b1ec92151",
+      "type": "page",
       "action": "updated",
-      "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
-      "publishedAt": "2026-07-13T14:15:52+00:00",
-      "section": "Temps de travail",
-      "description": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
-      "establishments": [
-        "TOUS LES ÉTABLISSEMENTS"
-      ],
-      "beneficiaryCategories": [
-        "TOUTES CATÉGORIES"
-      ]
+      "title": "TAUX HORAIRES",
+      "publishedAt": "2026-07-15T22:22:28+00:00",
+      "section": "Rubriques",
+      "description": "Le taux horaire correspond au montant de rémunération versé pour une heure de travail"
     }
   ],
   "appVersions": {
