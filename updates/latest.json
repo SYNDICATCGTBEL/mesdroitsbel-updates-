@@ -1700,5 +1700,16 @@
         "TOUTES CATÉGORIES"
       ]
     }
-  ]
+  ],
+  "appVersions": {
+    "android": {
+      "versionCode": 161,
+      "versionName": "1.27.26",
+      "storeUrl": "https://play.google.com/store/apps/details?id=fr.syndicatcgtbel.mesdroitsbel.salarie"
+    },
+    "windows": {
+      "version": "1.27.26",
+      "storeUrl": "https://apps.microsoft.com/detail/9MXDG9JXJ9NH"
+    }
+  }
 }
