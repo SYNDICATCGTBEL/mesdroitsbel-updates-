@@ -89,7 +89,6 @@
       button:disabled { opacity: 0.55; cursor: default; }
 
       .error { color: #d71920; font-size: 14px; margin-top: 8px; }
-      .success { color: #1a7a3a; font-size: 14px; margin-top: 8px; }
     </style>
   </head>
   <body>
@@ -97,7 +96,7 @@
       <div class="badge">MES DROITS BEL</div>
 
       <!-- Cas 1 : confirmation email classique -->
-      <div id="confirm-view">
+      <div id="confirm-view" class="hidden">
         <h1>Adresse e-mail confirmée</h1>
         <p>
           Votre adresse e-mail est maintenant confirmée. Vous pouvez fermer cette page et revenir
@@ -108,66 +107,37 @@
         </p>
       </div>
 
-      <!-- Cas 2 : réinitialisation mot de passe -->
-      <div id="reset-view" class="hidden">
-        <h1>Réinitialiser le mot de passe</h1>
-        <p>Choisissez un nouveau mot de passe pour votre compte.</p>
-        <input id="pwd1" type="password" placeholder="Nouveau mot de passe (8 caractères min.)" autocomplete="new-password" />
-        <input id="pwd2" type="password" placeholder="Confirmer le mot de passe" autocomplete="new-password" />
-        <button id="submit-btn" onclick="submitReset()">Enregistrer le mot de passe</button>
-        <div id="msg" class="error"></div>
+      <div id="error-view" class="hidden">
+        <h1>Lien invalide ou expiré</h1>
+        <p id="error-message">
+          Demandez un nouveau lien depuis la page « Mot de passe oublié » de l'application.
+        </p>
       </div>
     </main>
 
     <script>
       (function () {
-        var hash = window.location.hash || '';
-        if (hash.indexOf('type=recovery') === -1) return;
+        var query = new URLSearchParams(window.location.search);
+        var hash = new URLSearchParams(window.location.hash.substring(1));
+        var type = hash.get('type') || query.get('type') || '';
+        var error = hash.get('error_description') || query.get('error_description') ||
+          hash.get('error') || query.get('error') || '';
 
-        document.getElementById('confirm-view').className = 'hidden';
-        document.getElementById('reset-view').className = '';
+        if (type === 'recovery' || hash.has('access_token') || query.has('token_hash')) {
+          var resetUrl = new URL('./reset-password.html', window.location.href);
+          resetUrl.search = window.location.search;
+          resetUrl.hash = window.location.hash;
+          window.location.replace(resetUrl.toString());
+          return;
+        }
 
-        window._resetToken = '';
-        hash.substring(1).split('&').forEach(function (pair) {
-          var parts = pair.split('=');
-          if (parts[0] === 'access_token') window._resetToken = decodeURIComponent(parts[1]);
-        });
+        if (error) {
+          document.getElementById('error-view').className = '';
+          return;
+        }
+
+        document.getElementById('confirm-view').className = '';
       })();
-
-      function submitReset() {
-        var p1 = document.getElementById('pwd1').value;
-        var p2 = document.getElementById('pwd2').value;
-        var msg = document.getElementById('msg');
-        var btn = document.getElementById('submit-btn');
-
-        msg.className = 'error';
-        if (p1.length < 8) { msg.textContent = 'Le mot de passe doit contenir au moins 8 caractères.'; return; }
-        if (p1 !== p2) { msg.textContent = 'Les deux mots de passe ne correspondent pas.'; return; }
-        if (!window._resetToken) { msg.textContent = 'Lien de réinitialisation invalide. Demandez un nouveau lien.'; return; }
-
-        btn.disabled = true;
-        btn.textContent = 'Enregistrement…';
-        msg.textContent = '';
-
-        fetch('https://fqpjifhxmlyoiejzjoxo.supabase.co/auth/v1/user', {
-          method: 'PUT',
-          headers: {
-            'Content-Type': 'application/json',
-            'apikey': 'sb_publishable_EWQfulLHZCZBSJBKXVwXUw_WPwxRFNx',
-            'Authorization': 'Bearer ' + window._resetToken
-          },
-          body: JSON.stringify({ password: p1 })
-        }).then(function (res) {
-          if (!res.ok) throw res;
-          msg.className = 'success';
-          msg.textContent = 'Mot de passe enregistré. Vous pouvez fermer cette page et vous connecter dans l\'application.';
-          btn.textContent = 'Terminé';
-        }).catch(function (err) {
-          btn.disabled = false;
-          btn.textContent = 'Enregistrer le mot de passe';
-          msg.textContent = 'Erreur lors de l\'enregistrement. Le lien a peut-être expiré — demandez un nouveau lien.';
-        });
-      }
     </script>
   </body>
 </html>
