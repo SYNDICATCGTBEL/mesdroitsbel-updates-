@@ -1,0 +1,1712 @@
+{
+  "schemaVersion": 1,
+  "version": "2f121cbc51a3247633c1",
+  "publishedAt": "2026-07-15T22:22:28+00:00",
+  "rights": [
+    {
+      "id": "6cba49ce1a2c3b1c",
+      "relatedGroupId": "a654ef6b048aa0f5",
+      "theme": "Temps de travail",
+      "subtheme": "",
+      "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
+      "summary": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
+      "benefit": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
+      "richText": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos"
+            }
+          ]
+        }
+      ],
+      "images": [
+        "media/aa18b470bc3a94b5268b.png"
+      ],
+      "imageSize": "medium",
+      "imageWidth": 312,
+      "imageHeight": 312,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [
+        {
+          "name": "Durée du travail et temps de repos.pdf",
+          "file": "media/0be5e87b64e0ff87b06b.pdf"
+        }
+      ],
+      "beneficiaries": [],
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ],
+      "conditions": [],
+      "procedure": [],
+      "deadlines": [],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "Document Syndical CGT BEL",
+          "page": "",
+          "section": "",
+          "quote": "Document Syndical CGT BEL",
+          "agreementStatus": "actif",
+          "scope": "TOUS LES ÉTABLISSEMENTS - TOUTES CATÉGORIES",
+          "establishments": [
+            "TOUS LES ÉTABLISSEMENTS"
+          ],
+          "beneficiaryCategories": [
+            "TOUTES CATÉGORIES"
+          ],
+          "effectiveDate": "",
+          "endDate": ""
+        }
+      ]
+    }
+  ],
+  "content": {
+    "schemaVersion": 1,
+    "agreements": [
+      {
+        "id": "application-cse",
+        "title": "APPLICATION CSE",
+        "category": "SWILE",
+        "description": "Vous pouvez vous connecter en vous rendant directement sur la page Swile en suivant directement ce lien. \nNous vous invitons à réaliser ces opérations avec un ordinateur en utilisant les navigateurs Google Chrome ou Mozilla Firefox.",
+        "descriptionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Vous pouvez vous connecter en vous rendant directement sur la page Swile en suivant directement ce lien. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Nous vous invitons à réaliser ces opérations avec un ordinateur en utilisant les navigateurs Google Chrome ou Mozilla Firefox."
+              }
+            ]
+          }
+        ],
+        "status": "Disponible",
+        "icon": "search",
+        "summary": "Swile c'est la solution tout-en-un pour les titres cadeaux pour faire plaisir aux salariés en leur laissant le choix de les dépenser comme ils le souhaitent.",
+        "summaryRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Swile c'est la solution tout-en-un pour les titres cadeaux pour faire plaisir aux salariés en leur laissant le choix de les dépenser comme ils le souhaitent."
+              }
+            ]
+          }
+        ],
+        "image": "media/b42fa90d95eaea4ae6d5.png",
+        "imageWidth": 260,
+        "imageHeight": 260,
+        "imageAlign": "center",
+        "imageLink": "https://directory.swile.co/",
+        "establishments": [
+          "LONS-LE-SAUNIER"
+        ],
+        "beneficiaryCategories": [
+          "TOUTES CATÉGORIES"
+        ],
+        "pointsRichText": [],
+        "points": [],
+        "imageSize": "medium"
+      },
+      {
+        "id": "kelio",
+        "title": "KELIO",
+        "category": "KELIO",
+        "description": "Logiciel de gestion des congés et absences",
+        "descriptionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Logiciel de gestion des congés et absences"
+              }
+            ]
+          }
+        ],
+        "status": "Disponible",
+        "icon": "chart",
+        "summary": "",
+        "summaryRichText": [],
+        "image": "media/63d493821e4d9fbe1255.png",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "https://groupebel.kelio.io/",
+        "establishments": [
+          "TOUS LES ÉTABLISSEMENTS"
+        ],
+        "beneficiaryCategories": [
+          "TOUTES CATÉGORIES"
+        ],
+        "pointsRichText": [],
+        "points": [],
+        "imageSize": "medium"
+      },
+      {
+        "id": "wehr",
+        "title": "WeHR",
+        "category": "WeHR",
+        "description": "Articles et formulaires de demande au service RH",
+        "descriptionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Articles et formulaires de demande au service RH"
+              }
+            ]
+          }
+        ],
+        "status": "Disponible",
+        "icon": "chart",
+        "summary": "",
+        "summaryRichText": [],
+        "image": "media/f8feeac9ccecfad5b2ea.png",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "https://groupebel.employee.eu.people-doc.com/home",
+        "establishments": [
+          "TOUS LES ÉTABLISSEMENTS"
+        ],
+        "beneficiaryCategories": [
+          "TOUTES CATÉGORIES"
+        ],
+        "pointsRichText": [],
+        "points": [],
+        "imageSize": "medium"
+      }
+    ],
+    "pages": {
+      "benefits": {
+        "title": "Mes Compteurs BEL",
+        "description": "Les avantages dont vous bénéficiez",
+        "introduction": "Les principaux dispositifs et avantages accessibles aux salariés BEL.",
+        "icon": "chart",
+        "items": [
+          {
+            "id": "alimentation-rtt",
+            "title": "Alimentation RTT",
+            "category": "Compteurs RTT",
+            "body": "RTT : Les jours RTT sont des journées octroyées pour compenser une durée du travail qui serait supérieur à la durée légale, il est alimenté en fonction du nombre de jours entiers travaillés. \nLes JRTT se calculent du 1er Avril au 31 Mars de l’Année suivante (Ouvrier / Employé) et peuvent être pris que par journée ou demi-journée.\nLes JRTT se calculent en Année civile pour l’encadrement et peuvent être pris que par journée ou demi-journée.\nAinsi, leur nombre varie en fonction de l’horaire de travail des salariés :\n-\tPour une personne en équipe (avec un horaire de 37,5h hebdomadaires): 13 Jours de travail cumulés permettent d'acquérir 1 JRTT soit 15 jours de RTT pour une base horaire mensuelle de 152.25 h.\n-\tPour une personne en journée (avec un horaire de 36,5 h hebdomadaires): 23 jours de travail cumulés permettent d'acquérir 1 JRTT soit 9 jours de RTT pour une base horaire mensuelle de 152.25 h.\n-\tPour les TAM avec un horaire de 39,5 h : 15 Jours de travail cumulés permette d’acquérir 1 JRTT :\n-\t3 jours se substituant aux trois jours initialement prévus a l'article 12 de l'annexe 2 de la CCNIL, désormais généralisés et attribués sans condition d'ancienneté,\n-\t10 jours de repos complémentaires.\nSoit 13 jours de RTT pour une base horaire mensuelle de 160.95 h (ramenant le nombre annuel de jours travaillés à 214 jours en moyenne).",
+            "richText": [
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "RTT : Les jours RTT sont des journées octroyées pour compenser une durée du travail qui serait supérieur à la durée légale, il est alimenté en fonction du nombre de jours entiers travaillés. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les JRTT se calculent du 1er Avril au 31 Mars de l’Année suivante (Ouvrier / Employé) et peuvent être pris que par journée ou demi-journée."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les JRTT se calculent en Année civile pour l’encadrement et peuvent être pris que par journée ou demi-journée."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ainsi, leur nombre varie en fonction de l’horaire de travail des salariés :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tPour une personne en équipe (avec un horaire de 37,5h hebdomadaires): 13 Jours de travail cumulés permettent d'acquérir 1 JRTT soit 15 jours de RTT pour une base horaire mensuelle de 152.25 h."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tPour une personne en journée (avec un horaire de 36,5 h hebdomadaires): 23 jours de travail cumulés permettent d'acquérir 1 JRTT soit 9 jours de RTT pour une base horaire mensuelle de 152.25 h."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tPour les TAM avec un horaire de 39,5 h : 15 Jours de travail cumulés permette d’acquérir 1 JRTT :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\t3 jours se substituant aux trois jours initialement prévus a l'article 12 de l'annexe 2 de la CCNIL, désormais généralisés et attribués sans condition d'ancienneté,"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\t10 jours de repos complémentaires."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Soit 13 jours de RTT pour une base horaire mensuelle de 160.95 h (ramenant le nombre annuel de jours travaillés à 214 jours en moyenne)."
+                  }
+                ]
+              }
+            ],
+            "image": "media/aa18b470bc3a94b5268b.png",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "images": [
+              "media/aa18b470bc3a94b5268b.png"
+            ],
+            "attachments": [
+              {
+                "name": "ALIMENTATION DU JRTT.pdf",
+                "file": "media/b698bbb1b172cbae6160.pdf"
+              }
+            ],
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
+          },
+          {
+            "id": "cet",
+            "title": "CET",
+            "category": "Compteur CET",
+            "body": "Les droits acquis dans le cadre du CET sont garantis par l’Association pour la garantie des salaires (AGS) dans les conditions et limites de l’article L. 3253-8 du Code du travail. Cette disposition est d’ordre public.\nTout salarié de statut ouvrier ou employé titulaire d'un contrat à durée indéterminée (à l'issue de sa période d'essai) bénéficie du CET.\nIl permet à chaque salarié qui le désire, d'épargner en fin de période de RTT, soit le 31 décembre d'une année, des jours de repos non pris sur la période de référence.\nLe congé ainsi épargné doit être pris dans une période de 5 ans.",
+            "richText": [
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les droits acquis dans le cadre du CET sont garantis par l’Association pour la garantie des salaires (AGS) dans les conditions et limites de l’article L. 3253-8 du Code du travail.",
+                    "fontSize": 10
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "Cette disposition est d’ordre public",
+                    "color": "#FF0000",
+                    "fontSize": 10
+                  },
+                  {
+                    "text": ".",
+                    "fontSize": 10
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Tout salarié de statut ouvrier ou employé titulaire d'un contrat à durée indéterminée (à l'issue de sa période d'essai) bénéficie du CET.",
+                    "bold": true,
+                    "fontSize": 10
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Il permet à chaque salarié qui le désire, d'épargner en fin de période de RTT, soit le 31 décembre d'une année, des jours de repos non pris sur la période de référence.",
+                    "bold": true,
+                    "fontSize": 10
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Le congé ainsi épargné doit être pris dans une période de 5 ans.",
+                    "bold": true,
+                    "fontSize": 10
+                  }
+                ]
+              }
+            ],
+            "image": "media/606f488958982536d7c2.jpg",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "images": [
+              "media/606f488958982536d7c2.jpg"
+            ],
+            "attachments": [
+              {
+                "name": "ALIMENTATION DU CET.pdf",
+                "file": "media/ed7efb2845afdd81cb57.pdf"
+              }
+            ],
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
+          },
+          {
+            "id": "conges-payes",
+            "title": "Congés Payés",
+            "category": "Compeurs CP",
+            "body": "Période de prise de congés payés : La période de prise des CP va du 1er Juin au 31 mai. \nLa période de prise des congés d'été commence le 1er juin et se termine le 31 octobre avec maximum de 4 semaines de congés sur cette période.\nPour des raisons d'organisation, pendant les mois de juin, juillet et août, les salariés doivent prendre au minimum 2 semaines de congés en continu et au maximum 3 semaines de congés.\nDes dérogations peuvent être demandées pour des motifs légitimes à exposer dans un courrier et après approbation du Responsable de Service concerné et du Responsable RH.\nLes manageurs établissent le planning en tenant compte des incompatibilités de prises de congés payés simultanés.\nLes congés payés doivent faire l'objet d'une demande préalable et sont soumis à l’accord du responsable hiérarchique.\nLes demandes de congés payés doivent contenir au moins 2 choix avec des dates de début espacées de 2 semaines.\nPour résoudre les problèmes de blocage, l'ordre des congés sera déterminé d'après les critères successifs suivants :\n-\tMaintient en poste des compétences minimum nécessaires pour le bon fonctionnement des ateliers de production.\n-\tLes salariés ayant remis leur demande de congés dans les délais.\n-\tLes salariés n’ayant pas eu leur 1er choix pour l'été précédent. \n-\tPossibilités du conjoint salarié Bel.\nAnticipation de prise de congés payés :\nLa prise anticipée de CP est possible sous deux conditions :\n-\tQue le salarié et hiérarchie soient tous les deux d'accord. \n-\tQue cela reste dans la limite des droits acquis par le salarié.\nDemande de jours ponctuels :\n-\tLes demandes doivent intervenir au plus tard le jeudi de la semaine précédente.\n-\tLes réponses doivent être données le lendemain.\nDemande de semaines de repos :\n-\tLes demandes doivent intervenir au plus tard 3 semaines à l'avance. \n-\tLes réponses doivent être données la semaine suivante.",
+            "richText": [
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Période de prise de congés payés : La période de prise des CP va du 1er Juin au 31 mai. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "La période de prise des congés d'été commence le 1er juin et se termine le 31 octobre avec maximum de 4 semaines de congés sur cette période."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Pour des raisons d'organisation, pendant les mois de juin, juillet et août, les salariés doivent prendre au minimum 2 semaines de congés en continu et au maximum 3 semaines de congés."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Des dérogations peuvent être demandées pour des motifs légitimes à exposer dans un courrier et après approbation du Responsable de Service concerné et du Responsable RH."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les manageurs établissent le planning en tenant compte des incompatibilités de prises de congés payés simultanés."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les congés payés doivent faire l'objet d'une demande préalable et sont soumis à l’accord du responsable hiérarchique."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les demandes de congés payés doivent contenir au moins 2 choix avec des dates de début espacées de 2 semaines."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Pour résoudre les problèmes de blocage, l'ordre des congés sera déterminé d'après les critères successifs suivants :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tMaintient en poste des compétences minimum nécessaires pour le bon fonctionnement des ateliers de production."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes salariés ayant remis leur demande de congés dans les délais."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes salariés n’ayant pas eu leur 1er choix pour l'été précédent. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tPossibilités du conjoint salarié Bel."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Anticipation de prise de congés payés :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "La prise anticipée de CP est possible sous deux conditions :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tQue le salarié et hiérarchie soient tous les deux d'accord. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tQue cela reste dans la limite des droits acquis par le salarié."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Demande de jours ponctuels :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes demandes doivent intervenir au plus tard le jeudi de la semaine précédente."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes réponses doivent être données le lendemain."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Demande de semaines de repos :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes demandes doivent intervenir au plus tard 3 semaines à l'avance. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "-\tLes réponses doivent être données la semaine suivante."
+                  }
+                ]
+              }
+            ],
+            "image": "media/aa18b470bc3a94b5268b.png",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "images": [
+              "media/aa18b470bc3a94b5268b.png"
+            ],
+            "attachments": [],
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
+          }
+        ],
+        "categories": [
+          "Compeurs CP",
+          "Compeurs RCL",
+          "Compeurs RCR",
+          "Compteur CET",
+          "Compteurs RTT"
+        ],
+        "image": "",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Les principaux dispositifs et avantages accessibles aux salariés BEL."
+              }
+            ]
+          }
+        ],
+        "imageSize": "medium",
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": ""
+      },
+      "news": {
+        "title": "Mouvement et Grève",
+        "description": "Rester informé des nouveautés chez BEL",
+        "introduction": "La grève est une cessation collective et concertée d'activité en vue d'appuyer des revendications professionnelles. C'est un droit d'arrêter son travail pour faire pression afin d'obtenir des droits ou de les faire respecter : \nC'est un droit de désobéir, un droit à la révolte, un droit à la résistance reconnu par la Constitution. La grève est un droit constitutionnel (garantie par la constitution), c'est un droit individuel qui s'exerce collectivement.",
+        "icon": "news",
+        "items": [
+          {
+            "id": "appel-a-la-greve",
+            "title": "APPEL A LA GREVE",
+            "category": "TRACTS CGT BEL",
+            "body": "",
+            "richText": [],
+            "image": "media/85f281e6a6afa8931baf.png",
+            "images": [
+              "media/85f281e6a6afa8931baf.png"
+            ],
+            "attachments": [
+              {
+                "name": "Grève CGTBEL NAO 2026.pdf",
+                "file": "media/ac861a4d7732fda4769a.pdf"
+              }
+            ],
+            "imageSize": "medium",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
+          }
+        ],
+        "categories": [
+          "TRACTS CGT BEL"
+        ],
+        "image": "media/dba11403d1377a069204.jpg",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "La grève est une cessation collective et concertée d'activité en vue d'appuyer des revendications professionnelles. C'est un droit d'arrêter son travail pour faire pression afin d'obtenir des droits ou de les faire respecter : ",
+                "fontSize": 12
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "C'est un droit de désobéir, un droit à la révolte, un droit à la résistance reconnu par la Constitution. La grève est un droit constitutionnel (garantie par la constitution), c'est un droit individuel qui s'exerce collectivement.",
+                "fontSize": 12
+              }
+            ]
+          }
+        ],
+        "imageSize": "medium",
+        "visible": "oui",
+        "imageWidth": 485,
+        "imageHeight": 194,
+        "imageAlign": "center",
+        "imageLink": ""
+      },
+      "faq": {
+        "title": "Questions fréquentes",
+        "description": "Trouvez des réponses à vos questions",
+        "introduction": "Des réponses rapides aux questions les plus courantes.",
+        "icon": "help",
+        "items": [],
+        "categories": [],
+        "image": "",
+        "introductionRichText": [],
+        "imageSize": "medium",
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": ""
+      },
+      "contacts": {
+        "title": "Contacts CGT BEL",
+        "description": "Les bons contacts à portée de main",
+        "introduction": "Vos élus CGT BEL sont à votre service",
+        "icon": "phone",
+        "items": [
+          {
+            "id": "e-mail-syndicat-cgt-bel",
+            "title": "E-Mail Syndicat CGT BEL",
+            "category": "E-Mail",
+            "body": "Contacter la CGT BEL\nTu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?\nUtilise cette adresse e-mail pour contacter le syndicat CGT BEL :  syndicatscgtbel@gmail.com\nLa CGT BEL est là pour t’écouter, t’informer et t’accompagner.\nTon message reste confidentiel.\nIndique dans ton e-mail :\nTon nom et prénom\nTon site\nTon service\nLe sujet de ta demande\nLes documents utiles si tu en as\nLa CGT BEL te répondra dès que possible.\nUn doute, une difficulté, une injustice au travail ?\nÉcris-nous.",
+            "richText": [
+              {
+                "type": "heading",
+                "spans": [
+                  {
+                    "text": "Contacter la CGT BEL",
+                    "bold": true,
+                    "underline": true,
+                    "color": "#0000FF"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Tu as une question sur tes droits, ton salaire, tes horaires, tes congés, ta santé au travail ou tes conditions de travail ?"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "spans": [
+                  {
+                    "text": "Utilise cette adresse e-mail pour contacter le syndicat CGT BEL :  "
+                  },
+                  {
+                    "text": "syndicatscgtbel@gmail.com",
+                    "bold": true,
+                    "color": "#0000FF",
+                    "fontSize": 14,
+                    "link": "mailto:syndicatscgtbel@gmail.com"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "La CGT BEL est là pour t’écouter, t’informer et t’accompagner."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ton message reste confidentiel."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Indique dans ton e-mail :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ton nom et prénom"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ton site"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ton service"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Le sujet de ta demande"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les documents utiles si tu en as"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "La CGT BEL te répondra dès que possible.",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Un doute, une difficulté, une injustice au travail ?",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Écris-nous.",
+                    "bold": true
+                  }
+                ]
+              }
+            ],
+            "image": "media/a5648ec037e736ea0598.jpg",
+            "imageWidth": 200,
+            "imageHeight": 453,
+            "imageAlign": "left",
+            "imageLink": "",
+            "images": [
+              "media/a5648ec037e736ea0598.jpg"
+            ],
+            "attachments": [],
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
+          }
+        ],
+        "categories": [
+          "E-Mail"
+        ],
+        "image": "",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Vos élus CGT BEL sont à votre service"
+              }
+            ]
+          }
+        ],
+        "imageSize": "medium",
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": ""
+      },
+      "preferences": {
+        "title": "Mes préférences",
+        "description": "Notifications et affichage",
+        "introduction": "Personnalisez la façon dont l’application vous informe.",
+        "icon": "settings",
+        "image": "",
+        "categories": [
+          "Informations"
+        ],
+        "items": [
+          {
+            "id": "accords-suivis",
+            "title": "Accords suivis",
+            "category": "Informations",
+            "body": "Retrouvez ici les informations concernant le suivi des accords.",
+            "image": "",
+            "images": [],
+            "attachments": [],
+            "richText": [],
+            "imageSize": "medium",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
+          },
+          {
+            "id": "affichage",
+            "title": "Affichage",
+            "category": "Informations",
+            "body": "Retrouvez ici les informations concernant l’affichage de l’application.",
+            "image": "",
+            "images": [],
+            "attachments": [],
+            "richText": [],
+            "imageSize": "medium",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
+          }
+        ],
+        "introductionRichText": [],
+        "imageSize": "medium",
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": ""
+      },
+      "privacy": {
+        "title": "Confidentialité",
+        "description": "Comprendre l’utilisation des données",
+        "introduction": "Les mises à jour contiennent uniquement les fiches validées.",
+        "icon": "privacy",
+        "image": "media/eaf44acda2954be4f72c.jpg",
+        "categories": [
+          "Informations"
+        ],
+        "items": [
+          {
+            "id": "aucune-donnee-personnelle-collectee",
+            "title": "Confidentialité : Aucune donnée personnelle collectée",
+            "category": "Informations",
+            "body": "L'application Mes Droits BEL a pour objectif de mettre à disposition des salariés des informations relatives aux accords collectifs, aux droits sociaux, aux avantages et aux dispositifs applicables au sein de l'UES BEL.\n1. Respect de la confidentialité\nLa confidentialité des informations est un principe fondamental de l'application. Les données, documents et informations consultés ou déposés dans l'application sont traités avec le plus grand respect de la vie privée des utilisateurs.\nLes administrateurs s'engagent à :\n- Préserver la confidentialité des informations communiquées ;\n- Ne collecter que les données strictement nécessaires au fonctionnement de l'application ;\n- Ne jamais utiliser les informations à des fins commerciales ;\n- Ne jamais transmettre les données à des tiers non autorisés ;\n- Respecter les obligations légales relatives à la protection des données personnelles.\n2. Documents importés\nLes accords collectifs, avenants, notes de service ou tout autre document importé dans l'application sont utilisés uniquement pour :\n- L'analyse du contenu ;\n- L'extraction des droits applicables aux salariés ;\n- La création de fiches pratiques et d'informations synthétiques.\nLes documents ne sont pas diffusés publiquement sans autorisation lorsqu'ils contiennent des informations confidentielles ou soumises à des restrictions de diffusion.\n3. Données personnelles\nL'application est conçue pour limiter au maximum la collecte de données personnelles.\nLes informations éventuellement enregistrées peuvent inclure :\n- Nom ou pseudonyme utilisateur ;\n- Adresse électronique ;\n- Préférences de consultation ;\n- Favoris enregistrés dans l'application.\nAucune donnée sensible n'est collectée sans information préalable de l'utilisateur.\n4. Accès administrateur\nL'accès administrateur est strictement réservé aux personnes autorisées par l'équipe de gestion de l'application.\nLes administrateurs disposent d'un accès permettant :\n- L'importation d'accords ;\n- La modification des contenus ;\n- La validation des droits extraits ;\n- La publication des informations.\nIls sont soumis à une obligation de discrétion et de confidentialité concernant les informations auxquelles ils ont accès.\n5. Protection des données\nDes mesures techniques et organisationnelles sont mises en œuvre afin de :\n- Protéger les données contre tout accès non autorisé ;\n- Prévenir la perte, l'altération ou la divulgation des informations ;\n- Assurer la traçabilité des actions administrateur ;\n- Garantir l'intégrité des contenus publiés.\n6. Utilisation des informations publiées\nLes informations présentes dans l'application ont un objectif informatif et pédagogique.\nEn cas de différence entre une fiche synthétique et le texte officiel d'un accord collectif, seul le texte signé et en vigueur fait foi.\n7. Engagement des utilisateurs\nChaque utilisateur s'engage à :\n- Respecter la confidentialité des informations auxquelles il accède ;\n- Ne pas diffuser de documents internes sans autorisation ;\n- Utiliser l'application conformément à son objet ;\n- Signaler toute anomalie ou utilisation abusive.\n8. Contact\nPour toute question relative à la confidentialité, à la protection des données ou au contenu publié dans l'application, les utilisateurs peuvent contacter :\nAdministration Mes Droits BEL\nCGT BEL\nAdresse e-mail : syndicatscgtbel@gmail.com",
+            "richText": [
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "L'application Mes Droits BEL a pour objectif de mettre à disposition des salariés des informations relatives aux accords collectifs, aux droits sociaux, aux avantages et aux dispositifs applicables au sein de l'UES BEL."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "1. Respect de la confidentialité",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "La confidentialité des informations est un principe fondamental de l'application. Les données, documents et informations consultés ou déposés dans l'application sont traités avec le plus grand respect de la vie privée des utilisateurs."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les administrateurs s'engagent à :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Préserver la confidentialité des informations communiquées ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Ne collecter que les données strictement nécessaires au fonctionnement de l'application ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Ne jamais utiliser les informations à des fins commerciales ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Ne jamais transmettre les données à des tiers non autorisés ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Respecter les obligations légales relatives à la protection des données personnelles."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "2. Documents importés",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les accords collectifs, avenants, notes de service ou tout autre document importé dans l'application sont utilisés uniquement pour :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- L'analyse du contenu ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- L'extraction des droits applicables aux salariés ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- La création de fiches pratiques et d'informations synthétiques."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les documents ne sont pas diffusés publiquement sans autorisation lorsqu'ils contiennent des informations confidentielles ou soumises à des restrictions de diffusion."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "3. Données personnelles",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "L'application est conçue pour limiter au maximum la collecte de données personnelles."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les informations éventuellement enregistrées peuvent inclure :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Nom ou pseudonyme utilisateur ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Adresse électronique ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Préférences de consultation ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Favoris enregistrés dans l'application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Aucune donnée sensible n'est collectée sans information préalable de l'utilisateur."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "4. Accès administrateur",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "L'accès administrateur est strictement réservé aux personnes autorisées par l'équipe de gestion de l'application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les administrateurs disposent d'un accès permettant :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- L'importation d'accords ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- La modification des contenus ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- La validation des droits extraits ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- La publication des informations."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Ils sont soumis à une obligation de discrétion et de confidentialité concernant les informations auxquelles ils ont accès."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "5. Protection des données",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Des mesures techniques et organisationnelles sont mises en œuvre afin de :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Protéger les données contre tout accès non autorisé ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Prévenir la perte, l'altération ou la divulgation des informations ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Assurer la traçabilité des actions administrateur ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Garantir l'intégrité des contenus publiés."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "6. Utilisation des informations publiées",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Les informations présentes dans l'application ont un objectif informatif et pédagogique."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "En cas de différence entre une fiche synthétique et le texte officiel d'un accord collectif, seul le texte signé et en vigueur fait foi."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "7. Engagement des utilisateurs",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Chaque utilisateur s'engage à :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Respecter la confidentialité des informations auxquelles il accède ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Ne pas diffuser de documents internes sans autorisation ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Utiliser l'application conformément à son objet ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "- Signaler toute anomalie ou utilisation abusive."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "8. Contact",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Pour toute question relative à la confidentialité, à la protection des données ou au contenu publié dans l'application, les utilisateurs peuvent contacter :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Administration Mes Droits BEL"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "CGT BEL"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "spans": [
+                  {
+                    "text": "Adresse e-mail : syndicatscgtbel@gmail.com"
+                  }
+                ]
+              }
+            ],
+            "image": "media/1db27c0439a814b16fc0.jpg",
+            "images": [
+              "media/1db27c0439a814b16fc0.jpg"
+            ],
+            "attachments": [],
+            "imageSize": "medium",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
+          }
+        ],
+        "introductionRichText": [
+          {
+            "type": "heading",
+            "spans": [
+              {
+                "text": "Les mises à jour contiennent uniquement les fiches validées.",
+                "bold": true
+              }
+            ]
+          }
+        ],
+        "imageSize": "medium",
+        "visible": "oui",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": ""
+      },
+      "nao": {
+        "title": "NAO",
+        "description": "La Négociation Annuelle Obligatoire (NAO) est inscrite dans le Code du travail pour favoriser, chaque année, le dialogue entre les salariés et l'employeur dans les entreprises",
+        "introduction": "Les Négociations Obligatoires (NAO)\nLes Négociations Annuelles Obligatoires (NAO) sont régies par l’article L2242-1 du code du travail\nDans les entreprises où sont constituées une ou plusieurs sections syndicales d’organisations représentatives, l’employeur engage : Chaque année, une négociation sur la rémunération, le temps de travail et le partage de la valeur ajoutée dans l’entreprise.",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Les Négociations Obligatoires (NAO)",
+                "bold": true,
+                "fontSize": 12
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Les Négociations Annuelles Obligatoires (NAO) sont régies par l’article L2242-1 du code du travail",
+                "fontSize": 12
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Dans les entreprises où sont constituées une ou plusieurs sections syndicales d’organisations représentatives, l’employeur engage : Chaque année, une négociation sur la rémunération, le temps de travail et le partage de la valeur ajoutée dans l’entreprise",
+                "fontSize": 12
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "icon": "news",
+        "image": "",
+        "imageSize": "medium",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "",
+        "visible": "oui",
+        "categories": [
+          "NAO 2025",
+          "NAO 2026",
+          "NAO 2027"
+        ],
+        "items": []
+      },
+      "taux-horaires": {
+        "title": "TAUX HORAIRES",
+        "description": "Le taux horaire correspond au montant de rémunération versé pour une heure de travail",
+        "introduction": "Votre taux horaire correspond au montant que vous percevez pour une heure de travail effectuée. Ceci étant, il est important de souligner que le taux horaire ne prend pas en compte: Les primes perçues.",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "Votre taux horaire correspond au montant que vous percevez pour une heure de travail effectuée. Ceci étant, il est important de souligner que le taux horaire ne prend pas en compte: Les primes perçues.",
+                "bold": true,
+                "fontSize": 11
+              }
+            ]
+          }
+        ],
+        "icon": "info",
+        "image": "",
+        "imageSize": "medium",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "",
+        "visible": "oui",
+        "categories": [
+          "SMIC 2026",
+          "TAUX HORAIRES 2026"
+        ],
+        "items": [
+          {
+            "id": "taux-horaires-2026",
+            "title": "TAUX HORAIRES 2026",
+            "category": "TAUX HORAIRES 2026",
+            "body": "",
+            "richText": [],
+            "image": "",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS",
+              "LONS-LE-SAUNIER"
+            ],
+            "beneficiaryCategories": [
+              "OUVRIER/EMPLOYÉ"
+            ],
+            "images": [],
+            "attachments": [
+              {
+                "name": "Taux horaires Bel Lons 2026.pdf",
+                "file": "media/0a75f76f019001b9b8c9.pdf"
+              }
+            ],
+            "imageSize": "medium"
+          }
+        ]
+      },
+      "grille-d-anciennete": {
+        "title": "GRILLE D'ANCIENNETE",
+        "description": "La prime d'ancienneté est un complément de salaire versé par l'employeur en fonction de l'ancienneté des salariés.",
+        "introduction": "La prime d’ancienneté est versée au bout de 3 ans de présence dans l’entreprise. Elle représente un pourcentage du salaire minima conventionnel suivant son échelon et son ancienneté. Elle varie de 2% ( 3ans d’ancienneté) à 15% (15 ans et plus d’ancienneté) du minima conventionnel.",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "La prime d’ancienneté est versée au bout de 3 ans de présence dans l’entreprise. Elle représente un pourcentage du salaire minima conventionnel suivant son échelon et son ancienneté. Elle varie de 2% ( 3ans d’ancienneté) à 15% (15 ans et plus d’ancienneté) du minima conventionnel."
+              }
+            ]
+          }
+        ],
+        "icon": "info",
+        "image": "",
+        "imageSize": "medium",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "",
+        "visible": "oui",
+        "categories": [],
+        "items": []
+      },
+      "epargne-salariale": {
+        "title": "EPARGNE SALARIALE",
+        "description": "Ensemble de dispositifs permettant d'associer les salariés aux résultats et/ou aux performances de leur entreprise.",
+        "introduction": "L'épargne salariale consiste en un ensemble de dispositifs (la participation, l'intéressement, les plans d'épargne salariale) dont l'objectif est d'associer les salariés aux résultats et aux performances de leur entreprise et de favoriser l'épargne collective et le développement des investissements des entreprises.",
+        "introductionRichText": [
+          {
+            "type": "paragraph",
+            "spans": [
+              {
+                "text": "L'épargne salariale consiste en un ensemble de dispositifs (la participation, l'intéressement, les plans d'épargne salariale) dont l'objectif est d'associer les salariés aux résultats et aux performances de leur entreprise et de favoriser l'épargne collective et le développement des investissements des entreprises."
+              }
+            ]
+          }
+        ],
+        "icon": "info",
+        "image": "",
+        "imageSize": "medium",
+        "imageWidth": 190,
+        "imageHeight": 125,
+        "imageAlign": "center",
+        "imageLink": "",
+        "visible": "oui",
+        "categories": [
+          "Intéressement",
+          "Participation",
+          "Plan Epargne"
+        ],
+        "items": [
+          {
+            "id": "compte-rendu-accord-2026-2028",
+            "title": "Compte-Rendu Accord 2026-2028",
+            "category": "Participation",
+            "body": "",
+            "richText": [],
+            "image": "",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "images": [],
+            "attachments": [
+              {
+                "name": "Information_CGT_Participation_ BEL_Final.pdf",
+                "file": "media/286187f9687ca384b3ce.pdf"
+              }
+            ],
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
+          },
+          {
+            "id": "compte-rendu-reunion-accord-2026-2028",
+            "title": "Compte-rendu Réunion Accord 2026-2028",
+            "category": "Intéressement",
+            "body": "",
+            "richText": [],
+            "image": "",
+            "imageWidth": 190,
+            "imageHeight": 125,
+            "imageAlign": "center",
+            "imageLink": "",
+            "images": [],
+            "attachments": [
+              {
+                "name": "Information_CGT_interessement_ BEL_Final.pdf",
+                "file": "media/ddad2209e7f0b74ea5c3.pdf"
+              }
+            ],
+            "imageSize": "medium",
+            "establishments": [
+              "TOUS LES ÉTABLISSEMENTS"
+            ],
+            "beneficiaryCategories": [
+              "TOUTES CATÉGORIES"
+            ]
+          }
+        ]
+      }
+    },
+    "agreementCategories": [
+      "KELIO",
+      "PeopleDoc",
+      "SWILE",
+      "WeHR"
+    ],
+    "app": {
+      "welcome": {
+        "title": "Mes Droits",
+        "titleAccent": "BEL",
+        "subtitle": "Avantages, accords et droits des salariés",
+        "buttonLabel": "Entrer",
+        "logoImage": "media/5a511ed05a8f19151c2c.png",
+        "heroImage": "media/7c8b314e5407ce0bce59.jpg"
+      },
+      "home": {
+        "greeting": "Bonjour",
+        "title": "Mes Droits",
+        "titleAccent": "BEL",
+        "notificationTitle": "Bienvenue dans Mes Droits BEL",
+        "notificationText": "Les nouveaux fichiers apparaîtront ici dès leur publication.",
+        "searchPlaceholder": "Rechercher une application BEL, un droit...",
+        "constructionTitle": "Application mise à jour automatiquement à l'ouverture de l'application CGT BEL",
+        "constructionText": "Les fichiers seront ajoutés progressivement pour extraire vos droits au fil du temps."
+      },
+      "rights": {
+        "title": "Mes droits",
+        "introduction": "Les droits validés et publiés depuis l’outil de gestion.",
+        "emptyTitle": "Aucun droit publié",
+        "emptyText": "Aucune fiche de droit n’a encore été publiée."
+      },
+      "agreements": {
+        "title": "Applications BEL",
+        "searchPlaceholder": "Rechercher dans les applications BEL",
+        "emptyText": "Aucune application ne correspond à ces critères.",
+        "infoTitle": "Les applications ou les sites Bel apparaîtront ici",
+        "infoText": "les applications BEL seront affichés dans cette zone."
+      },
+      "modules": {
+        "showRights": "oui",
+        "showAgreements": "oui",
+        "showFavorites": "oui",
+        "showProfile": "oui",
+        "showContacts": "oui",
+        "showConstruction": "non"
+      },
+      "navigation": {
+        "homeLabel": "Accueil",
+        "rightsLabel": "Mes droits BEL",
+        "agreementsLabel": "Mes applications BEL",
+        "favoritesLabel": "Mes Favoris",
+        "profileLabel": "Mon Profil",
+        "contactsLabel": "Contacts CGT BEL"
+      },
+      "icons": {
+        "homeIcon": "home",
+        "rightsIcon": "shield",
+        "agreementsIcon": "agreements",
+        "favoritesIcon": "star",
+        "profileIcon": "profile",
+        "contactsIcon": "phone",
+        "notificationIcon": "notification",
+        "searchIcon": "search",
+        "informationIcon": "info",
+        "constructionIcon": "construction"
+      }
+    }
+  },
+  "changes": [
+    {
+      "id": "b1ceff4b1ec92151",
+      "type": "page",
+      "action": "updated",
+      "title": "TAUX HORAIRES",
+      "publishedAt": "2026-07-15T22:22:28+00:00",
+      "section": "Rubriques",
+      "description": "Le taux horaire correspond au montant de rémunération versé pour une heure de travail"
+    }
+  ],
+  "appVersions": {
+    "android": {
+      "versionCode": 164,
+      "versionName": "1.27.29",
+      "storeUrl": "https://github.com/SYNDICATCGTBEL/mesdroitsbel-updates-/releases/download/v1.27.29/MES_DROITS_BEL_SALARIE-1.27.29.apk",
+      "releaseNotes": "Ajout du module Questions CSE, nouveaux rôles élus, améliorations de sécurité et corrections de stabilité."
+    },
+    "windows": {
+      "version": "1.27.26",
+      "storeUrl": "https://apps.microsoft.com/detail/9MXDG9JXJ9NH"
+    }
+  }
+}
