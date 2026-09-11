@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2f121cbc51a3247633c1",
-  "publishedAt": "2026-07-15T22:22:28+00:00",
+  "version": "c8f16bc78aecd86c8d50",
+  "publishedAt": "2026-09-10T22:08:18+00:00",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -11,6 +11,8 @@
       "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
       "summary": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
       "benefit": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
+      "cgtOpinion": "",
+      "cgtOpinionRichText": [],
       "richText": [
         {
           "type": "paragraph",
@@ -59,6 +61,426 @@
           ],
           "beneficiaryCategories": [
             "TOUTES CATÉGORIES"
+          ],
+          "effectiveDate": "",
+          "endDate": ""
+        }
+      ]
+    },
+    {
+      "id": "44bf06b62f0da697",
+      "relatedGroupId": "cd10461e9f62c845",
+      "theme": "Autre",
+      "subtheme": "",
+      "title": "Entretien de mi-année à la demande du salarié",
+      "summary": "e. Développer la culture du feedback\n\nAfin de développer l’ensemble des salariés et de les aider dans le cadre de leur parcours de carrière, l’entreprise souhaite continuer à développer la culture du feedback. Il s’agit de savoir donner et recevoir: des retours positifs, des conseils, des recommandations et des axes de progrès sur des faits ou des comportements de manière neutre, bienveillante et constructive dans le but de faire progresser son interlocuteur. Le feedback permet d’encourager l’échange, l'écoute active, l'empathie et la communication transparente. Il contribue à améliorer sa propre performance, la connaissance de soi et de l’autre. En effet, le feedback: - Est un signe de reconnaissance; - Est source d’engagement et de motivation; - Augmente la confiance entre les salariés; - Optimise la performance individuelle et collective; - Favorise le développement professionnel. Dans ce cadre, l’entreprise a notamment mis en place la formation « Management essentials » auprès des managers, en cours de déploiement sur tout le périmètre du présent accord, qui traite en partie du sujet des feedback. En parallèle, il est demandé aux managers de réaliser des entretiens de mi-année (« Mid-year ») avec leur salarié niveau CTAM. Cet entretien a pour objectif de faire le point notamment sur la réalisation des priorités de l’année afin, au besoin, de les ajuster, compléter ou annuler et de s’assurer de la cohérence des ressources du salarié avec ses priorités. Cela peut également être l’occasion de faire le point sur le plan de développement individuel des salariés. Il est rappelé que tout salarié a la possibilité de solliciter un entretien de mi -année auprès de son manager. En complément, le groupe Bel souhaite recourir régulièrement aux enquêtes de perception auprès des salariés pour développer la culture du feedback.",
+      "benefit": "e. Développer la culture du feedback\n\nAfin de développer l’ensemble des salariés et de les aider dans le cadre de leur parcours de carrière, l’entreprise souhaite continuer à développer la culture du feedback. Il s’agit de savoir donner et recevoir: des retours positifs, des conseils, des recommandations et des axes de progrès sur des faits ou des comportements de manière neutre, bienveillante et constructive dans le but de faire progresser son interlocuteur. Le feedback permet d’encourager l’échange, l'écoute active, l'empathie et la communication transparente. Il contribue à améliorer sa propre performance, la connaissance de soi et de l’autre. En effet, le feedback: - Est un signe de reconnaissance; - Est source d’engagement et de motivation; - Augmente la confiance entre les salariés; - Optimise la performance individuelle et collective; - Favorise le développement professionnel. Dans ce cadre, l’entreprise a notamment mis en place la formation « Management essentials » auprès des managers, en cours de déploiement sur tout le périmètre du présent accord, qui traite en partie du sujet des feedback. En parallèle, il est demandé aux managers de réaliser des entretiens de mi-année (« Mid-year ») avec leur salarié niveau CTAM. Cet entretien a pour objectif de faire le point notamment sur la réalisation des priorités de l’année afin, au besoin, de les ajuster, compléter ou annuler et de s’assurer de la cohérence des ressources du salarié avec ses priorités. Cela peut également être l’occasion de faire le point sur le plan de développement individuel des salariés. Il est rappelé que tout salarié a la possibilité de solliciter un entretien de mi -année auprès de son manager. En complément, le groupe Bel souhaite recourir régulièrement aux enquêtes de perception auprès des salariés pour développer la culture du feedback.",
+      "cgtOpinion": "",
+      "cgtOpinionRichText": [],
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "TOUTES CATÉGORIES"
+      ],
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ],
+      "conditions": [],
+      "procedure": [
+        "Il est rappelé que tout salarié a la possibilité de solliciter un entretien de mi -année auprès de son manager."
+      ],
+      "deadlines": [],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "2025.09.22 Accord GEPP Diversité 2025 2028",
+          "page": "",
+          "section": "e. Développer la culture du feedback",
+          "quote": "En parallèle, il est demandé aux managers de réaliser des entretiens de mi-année (« Mid-year ») avec leur collaborateur niveau CTAM . Cet entretien a pour objectif de faire le point notamment sur la réalisation des priorités de l’année afin, au besoin, de les ajuster, compléter ou annuler et de s’assurer de la cohérence des ressources du collaborateur avec ses priorités. Cela peut également être l’occasion de faire le point sur le plan de développement individuel des collaborateurs. Il est rappelé que tout collaborateur a la possibilité de solliciter un entretien de mi -année auprès de son manager. En complément, le groupe Bel souhaite recourir régulièrement aux enquêtes de perception auprès des collaborateurs pour développer la culture du feedback.",
+          "agreementStatus": "actif",
+          "scope": "TOUS LES ÉTABLISSEMENTS - TOUTES CATÉGORIES",
+          "establishments": [
+            "TOUS LES ÉTABLISSEMENTS"
+          ],
+          "beneficiaryCategories": [
+            "TOUTES CATÉGORIES"
+          ],
+          "effectiveDate": "2025",
+          "endDate": "2028"
+        }
+      ]
+    },
+    {
+      "id": "ca9a249163872124",
+      "relatedGroupId": "ef8aa19a9195da52",
+      "theme": "Autre",
+      "subtheme": "",
+      "title": "A. L'ORGANISATION DES TROIS CONSULTATIONS REGULIERES",
+      "summary": "L'organisation des trois consultations régulières \nLe CSE central exerce les attributions qui concernent la marche générale de l'entreprise et qui excèdent les limites des pouvoirs des chefs d'établissement dans ce cadre, il sera seul consulté lors des trois consultations régulières suivantes :\n- La consultation biennale sur les orientations stratégiques, avec information annuelle, \n- La consultation annuelle sur la situation économique et financière de l'UES Bel, \n- La consultation biennale sur la politique sociale, les conditions de travail et l'emploi avec information annuelle.  Seul le CSE central pourra, dans le cadre de ces consultations, procéder à la désignation d'un expert pris en charge par l'UES Bel dans les conditions prévues par la loi. \nLes CSE d'établissement seront tous informés de l'avis rendu par le CSE central sur chacune de ces consultations.",
+      "benefit": "L'organisation des trois consultations régulières \nLe CSE central exerce les attributions qui concernent la marche générale de l'entreprise et qui excèdent les limites des pouvoirs des chefs d'établissement dans ce cadre, il sera seul consulté lors des trois consultations régulières suivantes :\n- La consultation biennale sur les orientations stratégiques, avec information annuelle, \n- La consultation annuelle sur la situation économique et financière de l'UES Bel, \n- La consultation biennale sur la politique sociale, les conditions de travail et l'emploi avec information annuelle.  Seul le CSE central pourra, dans le cadre de ces consultations, procéder à la désignation d'un expert pris en charge par l'UES Bel dans les conditions prévues par la loi. \nLes CSE d'établissement seront tous informés de l'avis rendu par le CSE central sur chacune de ces consultations.",
+      "cgtOpinion": "",
+      "cgtOpinionRichText": [],
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "conditions": [],
+      "procedure": [],
+      "deadlines": [],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "2022 10 28 accord dialogue social",
+          "page": "",
+          "section": "A. L'organisation des trois consultations rï¿½guliï¿½res",
+          "quote": "Seul le CSE central pourra, dans le cadre de ces consultations, procï¿½der ï¿½ la dï¿½signation d'un expert pris en charge par l'UES Bel dans les conditions prï¿½vues par la loi.",
+          "agreementStatus": "actif",
+          "scope": "['TOUS LES ÉTABLISSEMENTS'] - ['TOUTES CATÉGORIES']",
+          "establishments": [
+            "['TOUS LES ÉTABLISSEMENTS']"
+          ],
+          "beneficiaryCategories": [
+            "['TOUTES CATÉGORIES']"
+          ],
+          "effectiveDate": "",
+          "endDate": ""
+        }
+      ]
+    },
+    {
+      "id": "d3955a2d6a4484b9",
+      "relatedGroupId": "2d43b5e1e44d6ae9",
+      "theme": "Droit syndical",
+      "subtheme": "",
+      "title": "MATERIEL FOURNI AU DELEGUE SYNDICAL CENTRAL",
+      "summary": "En tant que salarié, vous pouvez bénéficier de ce droit : afin de faciliter les échanges avec ses interlocuteurs, et de faciliter l'équilibre entre sa vie personnelle et professionnelle, chaque délégué syndical représentatif au niveau de l'UES peut bénéficier, à sa demande, d'un téléphone portable dont le forfait téléphonique sera pris en charge par la Direction.",
+      "benefit": "En tant que salarié, vous pouvez bénéficier de ce droit : afin de faciliter les échanges avec ses interlocuteurs, et de faciliter l'équilibre entre sa vie personnelle et professionnelle, chaque délégué syndical représentatif au niveau de l'UES peut bénéficier, à sa demande, d'un téléphone portable dont le forfait téléphonique sera pris en charge par la Direction.",
+      "cgtOpinion": "",
+      "cgtOpinionRichText": [],
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "conditions": [],
+      "procedure": [],
+      "deadlines": [],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "2022 10 28 accord dialogue social",
+          "page": "",
+          "section": "c. Matï¿½riel fourni au dï¿½lï¿½guï¿½ syndical central",
+          "quote": "Afin de faciliter les ï¿½changes avec ses interlocuteurs, et de faciliter l'ï¿½quilibre entre sa vie personnelle et professionnelle, chaque dï¿½lï¿½guï¿½ syndical reprï¿½sentatif au niveau de l'UES pourra bï¿½nï¿½ficier, ï¿½ sa demande, d'un tï¿½lï¿½phone portable dont le forfait tï¿½lï¿½phonique sera pris en charge par la Direction.",
+          "agreementStatus": "actif",
+          "scope": "['TOUS LES ÉTABLISSEMENTS'] - ['TOUTES CATÉGORIES']",
+          "establishments": [
+            "['TOUS LES ÉTABLISSEMENTS']"
+          ],
+          "beneficiaryCategories": [
+            "['TOUTES CATÉGORIES']"
+          ],
+          "effectiveDate": "",
+          "endDate": ""
+        }
+      ]
+    },
+    {
+      "id": "43d8103dacf9b4f7",
+      "relatedGroupId": "199481a00e22f116",
+      "theme": "Emploi et carrière",
+      "subtheme": "",
+      "title": "Bilan de fin de période d'essai",
+      "summary": "a. Le bilan de fin de période d’essai\n\nUn bilan de fin de période d’essai est mis en place pour tous les salariés embauchés en CDI dans l’entreprise. \nCe bilan sera réalisé à l’occasion d’un entretien entre le salarié et son responsable hiérarchique avant le terme de la période d’essai. \nCe bilan a notamment pour objectif d’identifier les compétences d’ores et déjà détenues par le salarié ainsi que les compétences fondamentales restant éventuellement à acquérir ou à perfectionner. \nLe fruit de cet échange sera consigné dans un document ad hoc qui sera signé du salarié et de son responsable hiérarchique. \nUn exemplaire sera transmis au service RH et un exemplaire reviendra à l’intéressé.",
+      "benefit": "a. Le bilan de fin de période d’essai\n\nUn bilan de fin de période d’essai est mis en place pour tous les salariés embauchés en CDI dans l’entreprise. \nCe bilan sera réalisé à l’occasion d’un entretien entre le salarié et son responsable hiérarchique avant le terme de la période d’essai. \nCe bilan a notamment pour objectif d’identifier les compétences d’ores et déjà détenues par le salarié ainsi que les compétences fondamentales restant éventuellement à acquérir ou à perfectionner. \nLe fruit de cet échange sera consigné dans un document ad hoc qui sera signé du salarié et de son responsable hiérarchique. \nUn exemplaire sera transmis au service RH et un exemplaire reviendra à l’intéressé.",
+      "cgtOpinion": "",
+      "cgtOpinionRichText": [],
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "TOUTES CATÉGORIES"
+      ],
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ],
+      "conditions": [],
+      "procedure": [
+        "Un exemplaire sera transmis au service RH et un exemplaire reviendra à l’intéressé."
+      ],
+      "deadlines": [
+        "Ce bilan sera réalisé à l’occasion d’un entretien entre le salarié et son responsable hiérarchique avant le terme de la période d’essai."
+      ],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "2025.09.22 Accord GEPP Diversité 2025 2028",
+          "page": "",
+          "section": "a. Le bilan de fin de période d’essai",
+          "quote": "Un bilan de fin de période d’essai est mis en place pour tous les salariés embauchés en CDI dans l’entreprise. Ce bilan sera réalisé à l’occasion d’un entretien entre le collaborateur et son responsable hiérarchique avant le terme de la période d’essai. Ce bilan a notamment pour objectif d’identifier les compétences d’ores et déjà détenues par le collaborateur ainsi que les compétences fondamentales restant éventuellement à acquérir ou à perfectionner. Le fruit de cet échange sera consigné dans un document ad hoc qui sera signé du collaborateur et de son responsable hiérarchique. Un exemplaire sera transmis au service RH et un exemplaire reviendra à l’intéressé.",
+          "agreementStatus": "actif",
+          "scope": "TOUS LES ÉTABLISSEMENTS - TOUTES CATÉGORIES",
+          "establishments": [
+            "TOUS LES ÉTABLISSEMENTS"
+          ],
+          "beneficiaryCategories": [
+            "TOUTES CATÉGORIES"
+          ],
+          "effectiveDate": "2025",
+          "endDate": "2028"
+        }
+      ]
+    },
+    {
+      "id": "b6ba6b2ed559e8c0",
+      "relatedGroupId": "a941f1b8375fd266",
+      "theme": "Emploi et carrière",
+      "subtheme": "",
+      "title": "Situation du salarié durant la MVS",
+      "summary": "En tant que salarié, vous pouvez bénéficier de ce droit : situation du salarié durant la MVS \nLa mobilité volontaire sécurisée s’exécute dans les conditions suivantes : \n- Suspension du contrat de travail ainsi que tous les droits qui y sont attachés ; \n- Prise en compte de 50 % la période de mobilité volontaire sécurisée dans le calcul de l’ancienneté ; \n- Respect des conditions de non-concurrence et de loyauté inhérentes au contrat de travail par le salarié dans l’activité exercée. \nLa mobilité volontaire sécurisée est ouverte aux salariés âgés de 45 ans et plus, sous réserve d’avoir une ancienneté minimale de 5 ans au sein du Groupe Bel sur accord de la Direction. \nUn volume maximum de 10 (dix) mobilités volontaires sécurisées en simultané sur toute la France est défini. Déclenchement de la MVS vous éligible souhaitant partir en mobilité volontaire sécurisée devra adresser sa demande par écrit à son référent Ressources Humaines, en justifiant son projet professionnel. \nArticle V.4. : Mobilité volontaire sécurisée (MVS) : \nLa mobilité volontaire sécurisée a vocation à permettre au salarié d’exercer une nouvelle activité (dans une autre entreprise ou à son compte) tout en gardant la possibilité de revenir chez Bel au terme de cette expérience.",
+      "benefit": "En tant que salarié, vous pouvez bénéficier de ce droit : situation du salarié durant la MVS \nLa mobilité volontaire sécurisée s’exécute dans les conditions suivantes : \n- Suspension du contrat de travail ainsi que tous les droits qui y sont attachés ; \n- Prise en compte de 50 % la période de mobilité volontaire sécurisée dans le calcul de l’ancienneté ; \n- Respect des conditions de non-concurrence et de loyauté inhérentes au contrat de travail par le salarié dans l’activité exercée. \nLa mobilité volontaire sécurisée est ouverte aux salariés âgés de 45 ans et plus, sous réserve d’avoir une ancienneté minimale de 5 ans au sein du Groupe Bel sur accord de la Direction. \nUn volume maximum de 10 (dix) mobilités volontaires sécurisées en simultané sur toute la France est défini. Déclenchement de la MVS vous éligible souhaitant partir en mobilité volontaire sécurisée devra adresser sa demande par écrit à son référent Ressources Humaines, en justifiant son projet professionnel. \nArticle V.4. : Mobilité volontaire sécurisée (MVS) : \nLa mobilité volontaire sécurisée a vocation à permettre au salarié d’exercer une nouvelle activité (dans une autre entreprise ou à son compte) tout en gardant la possibilité de revenir chez Bel au terme de cette expérience.",
+      "cgtOpinion": "",
+      "cgtOpinionRichText": [],
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "TOUTES CATÉGORIES"
+      ],
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ],
+      "conditions": [
+        "La mobilité volontaire sécurisée s’exécute dans les conditions suivantes :",
+        "Suspension du contrat de travail ainsi que tous les droits qui y sont attachés ;",
+        "Prise en compte de 50 % la période de mobilité volontaire sécurisée dans le calcul de l’ancienneté ;",
+        "Respect des conditions de non-concurrence et de loyauté inhérentes au contrat de travail par le salarié dans l’activité exercée."
+      ],
+      "procedure": [],
+      "deadlines": [],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "2025.09.22 Accord GEPP Diversité 2025 2028",
+          "page": "",
+          "section": "d. Situation du salarié durant la MVS",
+          "quote": "La mobilité volontaire sécurisée s’exécute dans les conditions suivantes : - Suspension du contrat de travail ainsi que tous les droits qui y sont attachés ; - Prise en compte de 50 % la période de mobilité volontaire sécurisée dans le calcul de l’ancienneté ; - Respect des conditions de non-concurrence et de loyauté inhérentes au contrat de travail par le collaborateur dans l’activité exercée.",
+          "agreementStatus": "actif",
+          "scope": "TOUS LES ÉTABLISSEMENTS - TOUTES CATÉGORIES",
+          "establishments": [
+            "TOUS LES ÉTABLISSEMENTS"
+          ],
+          "beneficiaryCategories": [
+            "TOUTES CATÉGORIES"
+          ],
+          "effectiveDate": "2025",
+          "endDate": "2028"
+        }
+      ]
+    },
+    {
+      "id": "55cb1f1dc73863c6",
+      "relatedGroupId": "1e7b2c642427f347",
+      "theme": "Formation",
+      "subtheme": "",
+      "title": "FORMATION A LA SANTE, SECURITE ET CONDITIONS DE TRAVAIL",
+      "summary": "A. Formation économique\n\nSi vous êtes membre titulaire du CSE et élu pour la première fois, vous pouvez participer à un stage de formation à l'économie de 5 jours maximum imputé sur le Congé de formation économique social, syndical et environnementale (CFESSE) de chacun. Le financement de cette formation, ainsi que les frais associés, est assuré par le CSE. L'entreprise assure uniquement le maintien de votre salaire. Vous choisissez librement l'organisme de formation parmi ceux figurant sur la liste ministérielle en vigueur.\n\nB. Formation à la santé, sécurité et conditions de travail\n\nSi vous êtes membre titulaire ou suppléant du CSE, vous bénéficiez de la formation nécessaire à l'exercice de leurs missions en matière de santé, de sécurité et de conditions de travail. Les formations sont dispensées soit par un organisme figurant sur une liste arrêtée par l'autorité administrative, soit par un des organismes de formation rattachés aux organisations syndicales, soit par des instituts spécialisés. La formation dure 5 jours lors de votre premier mandat et 3 jours en cas de renouvellement. Vous pouvez renouveler cette formation après 4 ans de mandat, consécutifs ou non. Vous devez en faire la demande au moins 30 jours avant le début de la formation. L'employeur prend en charge le coût de la formation et les frais associés. Le temps consacré à la formation est du temps de travail rémunéré. Ce temps n'est pas déduit de vos heures de délégation.\n\nc. Formation interne de prise de mandat des nouveaux élus\n\nSi vous prenez un premier mandat en tant qu'élu ou mandaté, titulaire ou suppléant, la Direction prévoit un temps d'échange. Si vous êtes nouvel élu ou si vous en faites la demande, une sensibilisation aux outils numériques nécessaires à votre mandat est prévue.",
+      "benefit": "A. Formation économique\n\nSi vous êtes membre titulaire du CSE et élu pour la première fois, vous pouvez participer à un stage de formation à l'économie de 5 jours maximum imputé sur le Congé de formation économique social, syndical et environnementale (CFESSE) de chacun. Le financement de cette formation, ainsi que les frais associés, est assuré par le CSE. L'entreprise assure uniquement le maintien de votre salaire. Vous choisissez librement l'organisme de formation parmi ceux figurant sur la liste ministérielle en vigueur.\n\nB. Formation à la santé, sécurité et conditions de travail\n\nSi vous êtes membre titulaire ou suppléant du CSE, vous bénéficiez de la formation nécessaire à l'exercice de leurs missions en matière de santé, de sécurité et de conditions de travail. Les formations sont dispensées soit par un organisme figurant sur une liste arrêtée par l'autorité administrative, soit par un des organismes de formation rattachés aux organisations syndicales, soit par des instituts spécialisés. La formation dure 5 jours lors de votre premier mandat et 3 jours en cas de renouvellement. Vous pouvez renouveler cette formation après 4 ans de mandat, consécutifs ou non. Vous devez en faire la demande au moins 30 jours avant le début de la formation. L'employeur prend en charge le coût de la formation et les frais associés. Le temps consacré à la formation est du temps de travail rémunéré. Ce temps n'est pas déduit de vos heures de délégation.\n\nc. Formation interne de prise de mandat des nouveaux élus\n\nSi vous prenez un premier mandat en tant qu'élu ou mandaté, titulaire ou suppléant, la Direction prévoit un temps d'échange. Si vous êtes nouvel élu ou si vous en faites la demande, une sensibilisation aux outils numériques nécessaires à votre mandat est prévue.",
+      "cgtOpinion": "",
+      "cgtOpinionRichText": [],
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "conditions": [],
+      "procedure": [],
+      "deadlines": [
+        "Elle peut ï¿½tre renouvelï¿½e lorsque les reprï¿½sentants ont exercï¿½ leur mandat pendant 4 ans, consï¿½cutifs ou non.",
+        "Il appartient ï¿½ l'ï¿½lu d'en faire la demande au moins 30 jours avant le dï¿½but de la formation."
+      ],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "2022 10 28 accord dialogue social",
+          "page": "",
+          "section": "B. Formation ï¿½ la santï¿½, sï¿½curitï¿½ et conditions de travail",
+          "quote": "Elle peut ï¿½tre renouvelï¿½e lorsque les reprï¿½sentants ont exercï¿½ leur mandat pendant 4 ans, consï¿½cutifs ou non. Il appartient ï¿½ l'ï¿½lu d'en faire la demande au moins 30 jours avant le dï¿½but de la formation. Le coï¿½t de la formation ainsi que les coï¿½ts associï¿½s sont pris en charge par l'employeur.",
+          "agreementStatus": "actif",
+          "scope": "['TOUS LES ÉTABLISSEMENTS'] - ['TOUTES CATÉGORIES']",
+          "establishments": [
+            "['TOUS LES ÉTABLISSEMENTS']"
+          ],
+          "beneficiaryCategories": [
+            "['TOUTES CATÉGORIES']"
+          ],
+          "effectiveDate": "",
+          "endDate": ""
+        }
+      ]
+    },
+    {
+      "id": "f82a513565e6aa3a",
+      "relatedGroupId": "cf3fc80d7bb7ff0e",
+      "theme": "Salaires et primes",
+      "subtheme": "",
+      "title": "REMBOURSEMENT DE FRAIS LORS DES DEPLACEMENTS A SURESNES",
+      "summary": "Remboursement de frais lors des déplacements à Suresnes \nLe Restaurant Interentreprises (RIE) du siège sera accessible aux représentants du personnel, aux membres des commissions et aux mandatés lors leurs déplacements au siège. \nPour les représentants du personnel des établissements de Lons et Dole, si le salarié est encore dans le train à 21h (ou entre 2 gares), le diner du soir, pris dans le train, sera pris en charge sur la base du montant des remboursements de frais professionnels de restauration définis par l'entreprise pour tout salarié Bel. \nSi les représentants (hors élus ou mandatés du siège) ne souhaitent pas déjeuner audit RIE, elles pourront déjeuner dans le lieu de leur choix et bénéficieront alors d'une prise en charge limitée au montant de remboursements de frais professionnels de restauration définis par l'UES pour tout salarié Bel.  Néanmoins en cas de réunion en central au siège ou sur un autre site, les représentants du personnel rattachés au site considérés pourront engager des frais professionnels de repas (déjeuner ou dîner) dans la limite de 2 par an.",
+      "benefit": "Remboursement de frais lors des déplacements à Suresnes \nLe Restaurant Interentreprises (RIE) du siège sera accessible aux représentants du personnel, aux membres des commissions et aux mandatés lors leurs déplacements au siège. \nPour les représentants du personnel des établissements de Lons et Dole, si le salarié est encore dans le train à 21h (ou entre 2 gares), le diner du soir, pris dans le train, sera pris en charge sur la base du montant des remboursements de frais professionnels de restauration définis par l'entreprise pour tout salarié Bel. \nSi les représentants (hors élus ou mandatés du siège) ne souhaitent pas déjeuner audit RIE, elles pourront déjeuner dans le lieu de leur choix et bénéficieront alors d'une prise en charge limitée au montant de remboursements de frais professionnels de restauration définis par l'UES pour tout salarié Bel.  Néanmoins en cas de réunion en central au siège ou sur un autre site, les représentants du personnel rattachés au site considérés pourront engager des frais professionnels de repas (déjeuner ou dîner) dans la limite de 2 par an.",
+      "cgtOpinion": "",
+      "cgtOpinionRichText": [],
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "conditions": [
+        "Si les reprï¿½sentants (hors ï¿½lus ou mandatï¿½s du siï¿½ge) ne souhaitent pas dï¿½jeuner audit RIE, elles pourront dï¿½jeuner dans le lieu de leur choix et bï¿½nï¿½ficieront alors d'une prise en charge limi tï¿½e au montant de remboursements de frais professionnels de restauration dï¿½finis par l'UES pour tout salarié Bel.",
+        "Dans tous les cas, conformï¿½ment aux rï¿½gles URSSAF, aucune prime de panier ne sera octroyï¿½e si le dï¿½jeuner est pris en charge ou remboursï¿½.",
+        "Pour les reprï¿½sentants du personnel des ï¿½tablissements de Lons et Dole, si le salarié est encore dans le train ï¿½ 21h (ou entre 2 gares), le diner du soir, pris dans le train, sera pris en charge sur la base du montant des remboursements de frais professionnels de restauration dï¿½finis par l'entreprise pour tout salarié Bel."
+      ],
+      "procedure": [],
+      "deadlines": [],
+      "exceptions": [
+        "Nï¿½anmoins en cas de rï¿½union en central au siï¿½ge ou sur un autre site, les reprï¿½sentants du personnel rattachï¿½s au site considï¿½rï¿½s pourront engager des frais professionnels de repas (dï¿½jeuner ou dï¿½ner) dans la limite de 2 par an."
+      ],
+      "sources": [
+        {
+          "agreement": "2022 10 28 accord dialogue social",
+          "page": "",
+          "section": "D. Remboursement de frais lors des dï¿½placements ï¿½ Suresnes",
+          "quote": "Si les reprï¿½sentants (hors ï¿½lus ou mandatï¿½s du siï¿½ge) ne souhaitent pas dï¿½jeuner audit RIE, elles pourront dï¿½jeuner dans le lieu de leur choix et bï¿½nï¿½ficieront alors d'une prise en charge limi tï¿½e au montant de remboursements de frais professionnels de restauration dï¿½finis par l'UES pour tout collaborateur Bel. Nï¿½anmoins en cas de rï¿½union en central au siï¿½ge ou sur un autre site, les reprï¿½sentants du personnel rattachï¿½s au site considï¿½rï¿½s pourront engager des frais professionnels de repas (dï¿½jeuner ou dï¿½ner) dans la limite de 2 par an. Dans tous les cas, conformï¿½ment aux rï¿½gles URSSAF, aucune prime de panier ne sera octroyï¿½e si le dï¿½jeuner est pris en charge ou remboursï¿½. Pour les reprï¿½sentants du personnel des ï¿½tablissements de Lons et Dole, si le collaborateur est encore dans le train ï¿½ 21h (ou entre 2 gares), le diner du soir, pris dans le train, sera pris en charge sur la base du montant des remboursements de frais professionnels de restauration dï¿½finis par l'entreprise pour tout collaborateur Bel. Lorsque la rï¿½union programmï¿½e par la Direction dï¿½bute avant 10h, ou se termine aprï¿½s 17h, le reprï¿½sentant du personnel, le membre d'une commission ou le mandatï¿½ pourra bï¿½nï¿½ficier d'une chambre d'hï¿½tel prise en charge par l'UES Bel.",
+          "agreementStatus": "actif",
+          "scope": "['TOUS LES ÉTABLISSEMENTS'] - ['TOUTES CATÉGORIES']",
+          "establishments": [
+            "['TOUS LES ÉTABLISSEMENTS']"
+          ],
+          "beneficiaryCategories": [
+            "['TOUTES CATÉGORIES']"
+          ],
+          "effectiveDate": "",
+          "endDate": ""
+        }
+      ]
+    },
+    {
+      "id": "9ef9bcea832e489a",
+      "relatedGroupId": "72b3ff983753a440",
+      "theme": "Santé",
+      "subtheme": "",
+      "title": "Fonctionnement des commissions",
+      "summary": "En tant que salarié, vous pouvez bénéficier de ce droit : le CSE central peut demander qu'une ou plusieurs de ces réunions soient organisées à des occasions particulières entrant dans ces thématiques.\nAfin d'assurer le suivi et la bonne application au sein des trois sociétés de l'UES des dispositions mises en place relatives à la gestion des hommes, la commission Diversité et GEPP préalablement existante est requalifiée en tant que commission spécifique du CSE central. \nSes missions et thématiques traitées sont précisées par l’accord relatif à la valorisation des compétences et de la diversité du 27 août 2021 ou tout accord ultérieur traitant des thématiques considérées. \nLa Commission se réunira 1 fois par an.",
+      "benefit": "En tant que salarié, vous pouvez bénéficier de ce droit : le CSE central peut demander qu'une ou plusieurs de ces réunions soient organisées à des occasions particulières entrant dans ces thématiques.\nAfin d'assurer le suivi et la bonne application au sein des trois sociétés de l'UES des dispositions mises en place relatives à la gestion des hommes, la commission Diversité et GEPP préalablement existante est requalifiée en tant que commission spécifique du CSE central. \nSes missions et thématiques traitées sont précisées par l’accord relatif à la valorisation des compétences et de la diversité du 27 août 2021 ou tout accord ultérieur traitant des thématiques considérées. \nLa Commission se réunira 1 fois par an.",
+      "cgtOpinion": "",
+      "cgtOpinionRichText": [],
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "conditions": [],
+      "procedure": [],
+      "deadlines": [],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "2022 10 28 accord dialogue social",
+          "page": "",
+          "section": "D. Fonctionnement des commissions",
+          "quote": "La Commission se rï¿½unira 1 fois par an. Le CSE central pourra demander qu'une ou plusieurs de ces rï¿½unions soient organisï¿½es ï¿½ des occasions particuliï¿½res entrant dans ces thï¿½matiques. ## ARTICLE 3. LA COMMISSION FRAIS DE SANTE ET PREVOYANCE La commission Frais de santï¿½ et prï¿½voyance aura pour rï¿½le de piloter les rï¿½gimes de frais de santï¿½ et prï¿½voyance, notamment : - en examinant les comptes de rï¿½sultats du contrat frais de santï¿½; - Examiner les comptes de rï¿½sultats incapacitï¿½ de travail- invaliditï¿½ et dï¿½cï¿½s de l'annï¿½e N-1. Elle ï¿½mettra le cas ï¿½chï¿½ant des prï¿½conisations sur les garanties et les cotisations. La Commission se rï¿½unira 2 fois par an en prï¿½sence du courtier de l'entreprise, ï¿½tant ï¿½tablit que l'une des deux rï¿½unions traitera exclusivement des frais de santï¿½. Le CSE central pourra demander qu'une ou plusieurs de ces rï¿½unions soient organisï¿½es ï¿½ des occasions particuliï¿½res entrant dans ces thï¿½matiques. ## ARTICLE 4. LA COMMISSION EPARGNE SALARIALE La commission Epargne salariale aura pour rï¿½le principal d'ï¿½tudier et de suivre l'application des dispositifs Intï¿½ressement, Participation et PERCOL. Elle s'appuiera notamment sur le gestionnaire pour la bonne gestion des fonds communs de placement d'entreprise. La Commission se rï¿½unira 1 fois par an en prï¿½sence du courtier de l'entreprise. Le CSE central pourra demander qu'une ou plusieurs de ces rï¿½unions soient organisï¿½es ï¿½ des occasions particuliï¿½res entrant dans ces thï¿½matiques. ## ARTICLE 5. LA COMMISSION HANDICAP La commission Handicap aura pour rï¿½le de travailler sur la poursuite de l'engagement de l'entreprise dans le domaine du handicap en termes de pilotage, communication interne et externe, recrutement, maintien dans l'emploi et collaboration avec le secteur protï¿½gï¿½. La Commission se rï¿½unira 2 fois par an. Le CSE central pourra demander qu'une ou plusieurs de ces rï¿½unions soient organisï¿½es ï¿½ des occasions particuliï¿½res entrant dans ces thï¿½matiques.",
+          "agreementStatus": "actif",
+          "scope": "['TOUS LES ÉTABLISSEMENTS'] - ['TOUTES CATÉGORIES']",
+          "establishments": [
+            "['TOUS LES ÉTABLISSEMENTS']"
+          ],
+          "beneficiaryCategories": [
+            "['TOUTES CATÉGORIES']"
           ],
           "effectiveDate": "",
           "endDate": ""
@@ -1688,25 +2110,124 @@
   },
   "changes": [
     {
-      "id": "b1ceff4b1ec92151",
-      "type": "page",
-      "action": "updated",
-      "title": "TAUX HORAIRES",
-      "publishedAt": "2026-07-15T22:22:28+00:00",
-      "section": "Rubriques",
-      "description": "Le taux horaire correspond au montant de rémunération versé pour une heure de travail"
-    }
-  ],
-  "appVersions": {
-    "android": {
-      "versionCode": 164,
-      "versionName": "1.27.29",
-      "storeUrl": "https://play.google.com/store/apps/details?id=fr.syndicatcgtbel.mesdroitsbel.salarie",
-      "releaseNotes": "Ajout du module Questions CSE, nouveaux rôles élus, améliorations de sécurité et corrections de stabilité."
+      "id": "f556b717023a29a6",
+      "type": "right",
+      "action": "added",
+      "title": "Entretien de mi-année à la demande du salarié",
+      "publishedAt": "2026-09-10T22:08:18+00:00",
+      "section": "Autre",
+      "description": "e. Développer la culture du feedback Afin de développer l’ensemble des salariés et de les aider dans le cadre de leur parcours de carrièr...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
     },
-    "windows": {
-      "version": "1.27.26",
-      "storeUrl": "https://apps.microsoft.com/detail/9MXDG9JXJ9NH"
+    {
+      "id": "a902e18892e7a660",
+      "type": "right",
+      "action": "added",
+      "title": "A. L'ORGANISATION DES TROIS CONSULTATIONS REGULIERES",
+      "publishedAt": "2026-09-10T22:08:18+00:00",
+      "section": "Autre",
+      "description": "L'organisation des trois consultations régulières Le CSE central exerce les attributions qui concernent la marche générale de l'entrepris...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "fc02a3f49ed3ba73",
+      "type": "right",
+      "action": "added",
+      "title": "MATERIEL FOURNI AU DELEGUE SYNDICAL CENTRAL",
+      "publishedAt": "2026-09-10T22:08:18+00:00",
+      "section": "Droit syndical",
+      "description": "En tant que salarié, vous pouvez bénéficier de ce droit : afin de faciliter les échanges avec ses interlocuteurs, et de faciliter l'équil...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "1fa11b34e87c520a",
+      "type": "right",
+      "action": "added",
+      "title": "Bilan de fin de période d'essai",
+      "publishedAt": "2026-09-10T22:08:18+00:00",
+      "section": "Emploi et carrière",
+      "description": "a. Le bilan de fin de période d’essai Un bilan de fin de période d’essai est mis en place pour tous les salariés embauchés en CDI dans l’...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "58bc3fcc74918e9b",
+      "type": "right",
+      "action": "added",
+      "title": "Situation du salarié durant la MVS",
+      "publishedAt": "2026-09-10T22:08:18+00:00",
+      "section": "Emploi et carrière",
+      "description": "En tant que salarié, vous pouvez bénéficier de ce droit : situation du salarié durant la MVS La mobilité volontaire sécurisée s’exécute d...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "2574659a82c571f5",
+      "type": "right",
+      "action": "added",
+      "title": "FORMATION A LA SANTE, SECURITE ET CONDITIONS DE TRAVAIL",
+      "publishedAt": "2026-09-10T22:08:18+00:00",
+      "section": "Formation",
+      "description": "A. Formation économique Si vous êtes membre titulaire du CSE et élu pour la première fois, vous pouvez participer à un stage de formation...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "063fb79a7ba3879d",
+      "type": "right",
+      "action": "added",
+      "title": "REMBOURSEMENT DE FRAIS LORS DES DEPLACEMENTS A SURESNES",
+      "publishedAt": "2026-09-10T22:08:18+00:00",
+      "section": "Salaires et primes",
+      "description": "Remboursement de frais lors des déplacements à Suresnes Le Restaurant Interentreprises (RIE) du siège sera accessible aux représentants d...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "949154169578017a",
+      "type": "right",
+      "action": "added",
+      "title": "Fonctionnement des commissions",
+      "publishedAt": "2026-09-10T22:08:18+00:00",
+      "section": "Santé",
+      "description": "En tant que salarié, vous pouvez bénéficier de ce droit : le CSE central peut demander qu'une ou plusieurs de ces réunions soient organis...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
     }
-  }
+  ]
 }
