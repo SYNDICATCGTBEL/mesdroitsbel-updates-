@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "409187354b63dc632e97",
-  "publishedAt": "2026-09-12T14:45:00",
+  "version": "b04d9d831633c69d0df2",
+  "publishedAt": "2026-09-12T14:51:40",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -839,6 +839,66 @@
       ],
       "audience": "employees",
       "audienceLabel": "Salariés",
+      "cspCategories": [
+        "all"
+      ],
+      "cspLabels": [
+        "Tous CSP"
+      ]
+    },
+    {
+      "id": "6b8d166766282606",
+      "relatedGroupId": "600a632c403f30d3",
+      "theme": "Temps de travail",
+      "subtheme": "",
+      "title": "TEMPS DE DEPLACEMENT POUR SE RENDRE AUX REUNIONS NATIONALES AU SIEGE",
+      "summary": "Si la Direction organise une réunion au siège social et que ce temps n'est pas déjà couvert par votre temps de délégation, tout le temps de déplacement pour y aller est considéré comme du temps de travail effectif. Ce temps de trajet est calculé en déduisant votre trajet habituel aller-retour domicile-travail ainsi que le temps de déjeuner (fixé forfaitairement à une heure). En tout état de cause, vous bénéficierez d'une rémunération au minimum équivalente à une journée de travail (calculée sur la base de la moyenne journalière).\n\nEn revanche, si vous décidez d'arriver au siège avant l'heure de la réunion ou de repartir plus tard, et que ce temps excédentaire n'est pas lié aux contraintes de transport, ce temps doit être décompté de vos heures de délégation.\n\nDe même, si vous ou les autres représentants décidez d'organiser des réunions préparatoires qui ne sont pas planifiées avec la Direction, le temps passé à ces réunions devra également être décompté de votre crédit d'heures de délégation.",
+      "benefit": "Si la Direction organise une réunion au siège social et que ce temps n'est pas déjà couvert par votre temps de délégation, tout le temps de déplacement pour y aller est considéré comme du temps de travail effectif. Ce temps de trajet est calculé en déduisant votre trajet habituel aller-retour domicile-travail ainsi que le temps de déjeuner (fixé forfaitairement à une heure). En tout état de cause, vous bénéficierez d'une rémunération au minimum équivalente à une journée de travail (calculée sur la base de la moyenne journalière).\n\nEn revanche, si vous décidez d'arriver au siège avant l'heure de la réunion ou de repartir plus tard, et que ce temps excédentaire n'est pas lié aux contraintes de transport, ce temps doit être décompté de vos heures de délégation.\n\nDe même, si vous ou les autres représentants décidez d'organiser des réunions préparatoires qui ne sont pas planifiées avec la Direction, le temps passé à ces réunions devra également être décompté de votre crédit d'heures de délégation.",
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "conditions": [
+        "Si le représentant du personnel, le membre d'une commission ou le mandaté souhaite, pour des raisons qui lui sont propres et non liées aux contraintes de transport, arriver bien avant la réunion, ou repartir plus tard du siège, ce temps excédentaire devra être pris sur ses heures de délégation."
+      ],
+      "procedure": [],
+      "deadlines": [],
+      "exceptions": [
+        "Sauf impossibilité de prendre le train (ex : grève généralisée), l es représentants du personnel bénéficiant d’une prise en charge de carte Liberté SNCF ne pourront solliciter le bénéfice d’indemnités kilométrique pour les déplacements aux réunions en central (excepté pour le trajet du domicile jusqu’à la gare SNCF pour permettant de prendre le train) ."
+      ],
+      "sources": [
+        {
+          "agreement": "2022 10 28 accord dialogue social",
+          "page": "20-21",
+          "section": "A. Temps de déplacement pour se rendre aux réunions nationales au siège",
+          "quote": "A. Temps de déplacement pour se rendre aux réunions nationales au siège\n\nDans le cadre de réunions initiées par la Direction et non imputables sur le temps de délégation, est considéré comme du temps de travail effectif, l'ensemble du temps de trajet pour se rendre au siège, déduction faite du temps de trajet habituel AR domicile - lieu de travail du représentant ainsi que du temps de déjeuner défini forfaitairement à une heure.\n\nA minima, il sera rémunéré une journée de travail sur la base de l'attendu journalier.\n\nSi le représentant du personnel, le membre d'une commission ou le mandaté souhaite, pour des raisons qui lui sont propres et non liées aux contraintes de transport, arriver bien avant la réunion, ou repartir plus tard du siège, ce temps excédentaire devra être pris sur ses heures de délégation.\n\nDe la même façon, dans le cas où les représentants du personnel, les membres des commissions ou les mandatés souhaiteraient organiser des réunions préparatoires autres que celles définies en accord avec la Direction, le temps passé à ces dernières doit être décompté de leur crédit d'heures de délégation. Chaque représentant du personnel, membre d'une commission centrale ou mandaté en central pourra souscrire à une carte Liberté SNCF sous réserve de sa rentabilité, appréciée par le site. Conformément à toute dépense de nature professionnelle, une demande est préalablement fai te auprès du service Ressources Humaines. La prise en charge est possible uniquement à partir de 8 déplacements AR sur l’année civile (sur la base des déplacements des 12 derniers mois et des prévisions des déplacements à venir) . Sauf impossibilité de prendre le train (ex : grève généralisée), l es représentants du personnel bénéficiant d’une prise en charge de carte Liberté SNCF ne pourront solliciter le bénéfice d’indemnités kilométrique pour les déplacements aux réunions en central (excepté pour le trajet du domicile jusqu’à la gare SNCF pour permettant de prendre le train) . Les DSC sont de droit éligibles la carte Liberté SNCF. Tout élu intéressé pourra par ailleurs bénéficier à sa demande d'une carte d'affaire.\n\nLa composition des délégations aux réunions de négociation reflète les valeurs véhiculées par les organisations syndicales.\n\nAinsi, afin de favoriser l'équité, les organisations syndicales conviennent d'assurer au maximum la mixité des sites représentés, et la parité hommes/ femmes au sein de leurs délégations.\n\nDans ce cadre-là, les délégations syndicales s'engagen t conserver la même composition de délégation pour les différentes réunions successives.",
+          "agreementStatus": "actif",
+          "scope": "['TOUS LES ÉTABLISSEMENTS'] - ['TOUTES CATÉGORIES']",
+          "establishments": [
+            "['TOUS LES ÉTABLISSEMENTS']"
+          ],
+          "beneficiaryCategories": [
+            "['TOUTES CATÉGORIES']"
+          ],
+          "effectiveDate": "",
+          "endDate": ""
+        }
+      ],
+      "audience": "representatives",
+      "audienceLabel": "Élus / mandatés",
       "cspCategories": [
         "all"
       ],
@@ -2469,11 +2529,11 @@
   },
   "changes": [
     {
-      "id": "965012da3cb9d625",
+      "id": "848b2af1a1a3747a",
       "type": "right",
       "action": "updated",
       "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Temps de travail",
       "description": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
       "establishments": [
@@ -2484,11 +2544,11 @@
       ]
     },
     {
-      "id": "bac1ac9a721f3f7d",
+      "id": "93cc13f552781e96",
       "type": "right",
       "action": "updated",
       "title": "Entretien de mi-année à la demande du salarié",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Autre",
       "description": "e. Développer la culture du feedback L'entreprise souhaite développer une culture du feedback afin de soutenir votre parcours de carrière...",
       "establishments": [
@@ -2499,11 +2559,11 @@
       ]
     },
     {
-      "id": "f8da5532214444ac",
+      "id": "21339d6f6f3c0ed2",
       "type": "right",
       "action": "updated",
       "title": "Entretien professionnel tous les deux ans",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Autre",
       "description": "b. L’entretien professionnel Vous avez droit à un entretien professionnel. Il s'agit d'un moment d'échange structuré avec votre responsab...",
       "establishments": [
@@ -2514,11 +2574,11 @@
       ]
     },
     {
-      "id": "91fa60fc909ac9a7",
+      "id": "a06d02343eed7a13",
       "type": "right",
       "action": "updated",
       "title": "A. L'ORGANISATION DES TROIS CONSULTATIONS REGULIERES",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Autre",
       "description": "L'organisation des trois consultations régulières Le CSE central exerce les attributions qui concernent la marche générale de l'entrepris...",
       "establishments": [
@@ -2529,11 +2589,11 @@
       ]
     },
     {
-      "id": "24f75387d1d4c159",
+      "id": "204c91123a5b68d6",
       "type": "right",
       "action": "updated",
       "title": "MATERIEL FOURNI AU DELEGUE SYNDICAL CENTRAL",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Droit syndical",
       "description": "Ce droit s'adresse spécifiquement aux délégués syndicaux représentatifs au niveau de l'UES. Si vous êtes dans cette fonction, vous pouvez...",
       "establishments": [
@@ -2544,11 +2604,11 @@
       ]
     },
     {
-      "id": "d8cc5749580b8687",
+      "id": "ba3464e7b60f1e25",
       "type": "right",
       "action": "updated",
       "title": "Bilan de fin de période d'essai",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Emploi et carrière",
       "description": "a. Le bilan de fin de période d’essai Un bilan de fin de période d’essai est mis en place pour tous les salariés embauchés en CDI dans l’...",
       "establishments": [
@@ -2559,11 +2619,11 @@
       ]
     },
     {
-      "id": "ae2129b6d3f6ddba",
+      "id": "827cb83311f0fd18",
       "type": "right",
       "action": "updated",
       "title": "Classement au niveau supérieur et compensation en cas de polyvalence verticale",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Emploi et carrière",
       "description": "a. Polyvalence verticale Si vous êtes amené à occuper temporairement un poste de niveau supérieur à votre niveau habituel (on appelle cel...",
       "establishments": [
@@ -2574,11 +2634,11 @@
       ]
     },
     {
-      "id": "b003992fcb30fddb",
+      "id": "2e1940845203767a",
       "type": "right",
       "action": "updated",
       "title": "Conditions d’éligibilité",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Emploi et carrière",
       "description": "La Mobilité Volontaire Sécurisée (MVS) est une possibilité qui vous permet d'explorer une nouvelle activité, que ce soit dans une autre e...",
       "establishments": [
@@ -2589,11 +2649,11 @@
       ]
     },
     {
-      "id": "db9a02db659b463b",
+      "id": "a2b0fbf567ac885c",
       "type": "right",
       "action": "updated",
       "title": "Retour du salarié",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Emploi et carrière",
       "description": "d. Situation du salarié durant la MVS Lorsque vous effectuez la mobilité volontaire sécurisée (MVS), voici ce qui change pour votre contr...",
       "establishments": [
@@ -2604,11 +2664,11 @@
       ]
     },
     {
-      "id": "963c607ea8cd015a",
+      "id": "56114ddf44aca4a6",
       "type": "right",
       "action": "updated",
       "title": "Situation du salarié durant la MVS",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Emploi et carrière",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : situation du salarié durant la MVS La mobilité volontaire sécurisée s’exécute d...",
       "establishments": [
@@ -2619,11 +2679,11 @@
       ]
     },
     {
-      "id": "77eb97bcdd6fc5f1",
+      "id": "4c674c9aa40c3876",
       "type": "right",
       "action": "updated",
       "title": "Avance sur l'allocation de fin de carrière",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Fin de carrière",
       "description": "Vous trouverez ici les conditions que vous devez respecter pour bénéficier du temps partiel sénior et du temps partiel sénior handicapé (...",
       "establishments": [
@@ -2634,11 +2694,11 @@
       ]
     },
     {
-      "id": "9b55278af02b1e76",
+      "id": "d046d7b19c8388ef",
       "type": "right",
       "action": "updated",
       "title": "FORMATION A LA SANTE, SECURITE ET CONDITIONS DE TRAVAIL",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Formation",
       "description": "A. Formation économique Si vous êtes membre titulaire du CSE et élu pour la première fois, vous pouvez participer à un stage de formation...",
       "establishments": [
@@ -2649,11 +2709,11 @@
       ]
     },
     {
-      "id": "01162ca13fc0724f",
+      "id": "06eb452b623eb907",
       "type": "right",
       "action": "updated",
       "title": "REMBOURSEMENT DE FRAIS LORS DES DEPLACEMENTS A SURESNES",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Salaires et primes",
       "description": "Remboursement de frais lors des déplacements à Suresnes Le Restaurant Interentreprises (RIE) du siège sera accessible aux représentants d...",
       "establishments": [
@@ -2664,13 +2724,28 @@
       ]
     },
     {
-      "id": "7d4559308316eaa7",
+      "id": "ba65ee09a1db406e",
       "type": "right",
       "action": "updated",
       "title": "Fonctionnement des commissions",
-      "publishedAt": "2026-09-12T12:44:59+00:00",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
       "section": "Santé",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : le CSE central peut demander qu'une ou plusieurs de ces réunions soient organis...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "9d9743abea152245",
+      "type": "right",
+      "action": "updated",
+      "title": "TEMPS DE DEPLACEMENT POUR SE RENDRE AUX REUNIONS NATIONALES AU SIEGE",
+      "publishedAt": "2026-09-12T12:51:39+00:00",
+      "section": "Temps de travail",
+      "description": "Si la Direction organise une réunion au siège social et que ce temps n'est pas déjà couvert par votre temps de délégation, tout le temps ...",
       "establishments": [
         "['TOUS LES ÉTABLISSEMENTS']"
       ],
