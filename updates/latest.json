@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "18a973c642e1e1a2c083",
-  "publishedAt": "2026-09-12T23:30:57",
+  "version": "6d1c5217988d0195afb9",
+  "publishedAt": "2026-09-13T01:05:48",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -810,6 +810,127 @@
       ]
     },
     {
+      "id": "c3e8659230528be7",
+      "relatedGroupId": "b1263a00915d2e90",
+      "theme": "Formation",
+      "subtheme": "",
+      "title": "FORMATION ECONOMIQUE",
+      "summary": "En tant que salarié, vous pouvez bénéficier de ce droit : formation économique Conformément aux dispositions de l'article L.2315 -63 du Code du travail, chaque membre titulaire du CSE élu pour la première fois a la possibilité de participer à un stage de formation à l'économie de 5 jours maximum imputé sur le Congé de formation économique social, syndical et environnemental e (CFESSE) de chacun. De son côté l'entreprise assure uniquement le maintien du salaire de chaque stagiaire. Le financement de cette formation, ainsi que les frais associés, est assuré par le CSE . A. L'organismes formateur est choisi librement par chaque stagiaire parmi ceux présents sur la liste ministérielle en vigueur au moment du choix de l'organisme.",
+      "benefit": "En tant que salarié, vous pouvez bénéficier de ce droit : formation économique Conformément aux dispositions de l'article L.2315 -63 du Code du travail, chaque membre titulaire du CSE élu pour la première fois a la possibilité de participer à un stage de formation à l'économie de 5 jours maximum imputé sur le Congé de formation économique social, syndical et environnemental e (CFESSE) de chacun. De son côté l'entreprise assure uniquement le maintien du salaire de chaque stagiaire. Le financement de cette formation, ainsi que les frais associés, est assuré par le CSE . A. L'organismes formateur est choisi librement par chaque stagiaire parmi ceux présents sur la liste ministérielle en vigueur au moment du choix de l'organisme.",
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ],
+      "conditions": [],
+      "procedure": [],
+      "deadlines": [
+        "Conformément aux dispositions de l'article L.2315 -63 du Code du travail, chaque membre titulaire du CSE élu pour la première fois a la possibilité de participer à un stage de formation à l'économie de 5 jours maximum imputé sur le Congé de formation économique social, syndical et environnemental e (CFESSE) de chacun."
+      ],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "2022 10 28 accord dialogue social",
+          "page": "27",
+          "section": "A. Formation économique",
+          "quote": "A. Formation économique\n\nConformément aux dispositions de l'article L.2315 -63 du Code du travail, chaque membre titulaire du CSE élu pour la première fois a la possibilité de participer à un stage de formation à l'économie de 5 jours maximum imputé sur le Congé de formation économique social, syndical et environnemental e (CFESSE) de chacun.\n\nLe financement de cette formation, ainsi que les frais associés, est assuré par le CSE . De son côté l'entreprise assure uniquement le maintien du salaire de chaque stagiaire.\n\nL'organismes formateur est choisi librement par chaque stagiaire parmi ceux présents sur la liste ministérielle en vigueur au moment du choix de l'organisme.",
+          "agreementStatus": "actif",
+          "scope": "['TOUS LES ÉTABLISSEMENTS'] - ['TOUTES CATÉGORIES']",
+          "establishments": [
+            "['TOUS LES ÉTABLISSEMENTS']"
+          ],
+          "beneficiaryCategories": [
+            "['TOUTES CATÉGORIES']"
+          ],
+          "effectiveDate": "",
+          "endDate": ""
+        }
+      ],
+      "audience": "employees",
+      "audienceLabel": "Salariés",
+      "cspCategories": [
+        "all"
+      ],
+      "cspLabels": [
+        "Tous CSP"
+      ]
+    },
+    {
+      "id": "ca6d56f9903f6272",
+      "relatedGroupId": "cfbf42cb0c2a44c9",
+      "theme": "Retraite",
+      "subtheme": "",
+      "title": "Formations numériques organisées sur le temps de travail",
+      "summary": "L'entreprise prépare actuellement un plan de formation pour tous les salariés qui ne sont pas habitués aux outils numériques internes. Le déploiement de ces formations est prévu pour l'année 2026.\n\nL'objectif est de s'assurer que tout le monde ait les connaissances nécessaires sur les nouveaux outils informatiques, pour que vous soyez prêts en cas de développement de l'informatisation sur les sites industriels.\n\nVous bénéficierez de modules de formation adaptés, ainsi que de guides détaillés et de tutoriels pour l'utilisation des différents outils. De plus, ces formations se dérouleront pendant votre temps de travail.\n\nL'employeur va mettre en place une méthode de déploiement pour garantir que l'utilisation des nouveaux outils soit efficace et que vous puissiez tous en maîtriser l'usage.",
+      "benefit": "L'entreprise prépare actuellement un plan de formation pour tous les salariés qui ne sont pas habitués aux outils numériques internes. Le déploiement de ces formations est prévu pour l'année 2026.\n\nL'objectif est de s'assurer que tout le monde ait les connaissances nécessaires sur les nouveaux outils informatiques, pour que vous soyez prêts en cas de développement de l'informatisation sur les sites industriels.\n\nVous bénéficierez de modules de formation adaptés, ainsi que de guides détaillés et de tutoriels pour l'utilisation des différents outils. De plus, ces formations se dérouleront pendant votre temps de travail.\n\nL'employeur va mettre en place une méthode de déploiement pour garantir que l'utilisation des nouveaux outils soit efficace et que vous puissiez tous en maîtriser l'usage.",
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [
+        "OUVRIER/EMPLOYÉ"
+      ],
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "OUVRIER/EMPLOYÉ"
+      ],
+      "conditions": [
+        "Ainsi, le Groupe s’engage à reconduire la journée d’absence rémunérée pour effectuer le « Bilan Prévention » de la sécurité sociale à destination des salariés âgés de 55 ans et plus.",
+        "Le Groupe s’engage également, au sein de chaque établissement, à mettre en œuvre au moins une journée de permanence d’information-retraite collective tous les 2 ans, pour les salariés 55 ans et plus, selon les capacités d’accueil et sous réserve que la population concernée soit suffisamment conséquente."
+      ],
+      "procedure": [],
+      "deadlines": [
+        "Ce bilan leur permet d’effectuer tous les 5 ans un examen de prévention sans avoir à poser de journée de congé.",
+        "Chaque année, la Direction communiquera auprès des salariés concernés sur leur éligibilité au dispositif via leur coffre-fort électronique.",
+        "Le Groupe s’engage également, au sein de chaque établissement, à mettre en œuvre au moins une journée de permanence d’information-retraite collective tous les 2 ans, pour les salariés 55 ans et plus, selon les capacités d’accueil et sous réserve que la population concernée soit suffisamment conséquente."
+      ],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "2025.09.22 Accord GEPP Diversité 2025 2028",
+          "page": "22",
+          "section": "f. Objectivation des comportements gagnants",
+          "quote": "• Formation des collaborateurs « non connectés » à l’utilisation des outils numériques internes\n\nUn plan d’actions visant à former l’ensemble des collaborateurs dit s « non connectés » à l’utilisation des outils numériques interne est en cours de réflexion pour un déploiement au cours de l’année 2026.\n\nL’objectif est de cibler les besoins réels pour envisager des modules d’appropriation adéquats et pertinents pour l’ensemble des collaborateurs, afin qu’ils puissent tous être préparés au développement de l’informatisation sur les sites industriels.\n\nUn pas à pas et un tutoriel pour l’utilisation des différents outils pourront notamment être mis à la disposition des collaborateurs.\n\nCes formations seront organisées sur le temps de travail. Un process commun de déploiement des nouveaux outils digitaux utilisés dans l’entreprise sera travaillé et mis en place afin de garantir l’efficience du déploiement, son appropriation par les collaborateurs ainsi que la connaissance et la maîtrise dans le temps de l’outil.",
+          "agreementStatus": "actif",
+          "scope": "TOUS LES ÉTABLISSEMENTS - TOUTES CATÉGORIES",
+          "establishments": [
+            "TOUS LES ÉTABLISSEMENTS"
+          ],
+          "beneficiaryCategories": [
+            "TOUTES CATÉGORIES"
+          ],
+          "effectiveDate": "2025",
+          "endDate": "2028"
+        }
+      ],
+      "audience": "employees",
+      "audienceLabel": "Salariés",
+      "cspCategories": [
+        "all"
+      ],
+      "cspLabels": [
+        "Tous CSP"
+      ]
+    },
+    {
       "id": "f82a513565e6aa3a",
       "relatedGroupId": "cf3fc80d7bb7ff0e",
       "theme": "Salaires et primes",
@@ -1085,6 +1206,60 @@
           ],
           "beneficiaryCategories": [
             "['TOUTES CATÉGORIES']"
+          ],
+          "effectiveDate": "",
+          "endDate": ""
+        }
+      ],
+      "audience": "representatives",
+      "audienceLabel": "Élus / mandatés",
+      "cspCategories": [
+        "all"
+      ],
+      "cspLabels": [
+        "Tous CSP"
+      ]
+    },
+    {
+      "id": "b271657a49497228",
+      "relatedGroupId": "ebe33bfed4da47ec",
+      "theme": "Autre",
+      "subtheme": "",
+      "title": "MISE EN PLACE D'UN CSE CENTRAL ET DE CSE D'ETABLISSEMENT",
+      "summary": "Ce texte explique la structure de votre représentation au sein de l'entreprise. Il est mis en place un Comité Social et Économique (CSE) central, ainsi que des CSE spécifiques pour plusieurs établissements.\n\nCes CSE sont organisés pour représenter tous les salariés et couvrent les sites suivants : \n*   Le CSE d'établissement d'Evron ;\n*   Le CSE d'établissement de Sablé sur Sarthe ;\n*   Le CSE d'établissement de Dole ;\n*   Le CSE d'établissement de Lons Le Saunier (qui représente également la MVQR) ;\n*   Le CSE d'établissement de Vendôme la Ferté Bernard ;\n*   Le CSE d'établissement de Pacy ;\n*   Le CSE d'établissement de Mayenne ;\n*   Le CSE d'établissement du Siège social ;\n*   Le CSE d'établissement des Forces de vente.\n\nConcernant l'organisation et la composition de ces CSE (le nombre de sièges, leur répartition entre les collèges et les différents établissements), ces règles sont détaillées dans un protocole d'accord préélectoral négocié séparément de ce document.\n\nEnfin, pour les délégués syndicaux, l'accord précise que leur zone d'action (leur périmètre) correspond par principe aux établissements distincts cités plus haut.",
+      "benefit": "Ce texte explique la structure de votre représentation au sein de l'entreprise. Il est mis en place un Comité Social et Économique (CSE) central, ainsi que des CSE spécifiques pour plusieurs établissements.\n\nCes CSE sont organisés pour représenter tous les salariés et couvrent les sites suivants : \n*   Le CSE d'établissement d'Evron ;\n*   Le CSE d'établissement de Sablé sur Sarthe ;\n*   Le CSE d'établissement de Dole ;\n*   Le CSE d'établissement de Lons Le Saunier (qui représente également la MVQR) ;\n*   Le CSE d'établissement de Vendôme la Ferté Bernard ;\n*   Le CSE d'établissement de Pacy ;\n*   Le CSE d'établissement de Mayenne ;\n*   Le CSE d'établissement du Siège social ;\n*   Le CSE d'établissement des Forces de vente.\n\nConcernant l'organisation et la composition de ces CSE (le nombre de sièges, leur répartition entre les collèges et les différents établissements), ces règles sont détaillées dans un protocole d'accord préélectoral négocié séparément de ce document.\n\nEnfin, pour les délégués syndicaux, l'accord précise que leur zone d'action (leur périmètre) correspond par principe aux établissements distincts cités plus haut.",
+      "richText": [],
+      "images": [],
+      "imageSize": "medium",
+      "imageWidth": 190,
+      "imageHeight": 125,
+      "imageAlign": "center",
+      "imageLink": "",
+      "attachments": [],
+      "beneficiaries": [],
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ],
+      "conditions": [],
+      "procedure": [],
+      "deadlines": [],
+      "exceptions": [],
+      "sources": [
+        {
+          "agreement": "2022 10 28 accord dialogue social",
+          "page": "5",
+          "section": "Preambule",
+          "quote": "ARTICLE 1. MISE EN PLACE D'UN CSE CENTRAL ET DE CSE D'ETABLISSEMENT\n\nAfin de permettre une représentation du personnel efficace et tenant compte des intérêts des salariés, les Parties conviennent\nque l'UES sera composée d'un CSE central et des 9 CSE d'établissement suivants :\n\n- Le CSE d'établissement d'Evron ;\n- Le CSE d'établissement de Sablé sur Sarthe ;\n- Le CSE d'établissement de Dole ;\n- Le CSE d'établissement de Lons Le Saunier, représentant également la MVQR ;\n- Le CSE d'établissement de Vendôme la Ferté Bernard ;\n- Le CSE d'établissement de Pacy ;\n- Le CSE d'établissement de Mayenne ;\n- Le CSE d'établissement du Siège social ;\n- Le CSE d'établissement Forces de vente.\n\nLes Parties rappellent que le nombre et la composition des collèges, la répartition des sièges entre les collèges ainsi que la répartition des sièges entre les différents établissements et les différents collèges sont fixés par le protocole d'accord préélectoral négocié en parallèle du présent accord.\n\nPar ailleurs, les parties réaffirment que le périmètre de désignation du délégué syndical d'établissement correspond par principe au périmètre des établissements distincts cités ci -dessus.",
+          "agreementStatus": "actif",
+          "scope": "TOUS LES ÉTABLISSEMENTS - TOUTES CATÉGORIES",
+          "establishments": [
+            "TOUS LES ÉTABLISSEMENTS"
+          ],
+          "beneficiaryCategories": [
+            "TOUTES CATÉGORIES"
           ],
           "effectiveDate": "",
           "endDate": ""
@@ -2722,11 +2897,11 @@
   },
   "changes": [
     {
-      "id": "314cafec30f4c6d7",
+      "id": "fc2dab5e636f3dae",
       "type": "right",
       "action": "updated",
       "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Temps de travail",
       "description": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
       "establishments": [
@@ -2737,11 +2912,11 @@
       ]
     },
     {
-      "id": "755e33e72cb4350f",
+      "id": "d820449774a74d51",
       "type": "right",
       "action": "updated",
       "title": "Entretien de mi-année à la demande du salarié",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Autre",
       "description": "e. Développer la culture du feedback L'entreprise souhaite développer une culture du feedback afin de soutenir votre parcours de carrière...",
       "establishments": [
@@ -2752,11 +2927,11 @@
       ]
     },
     {
-      "id": "50480c13da88b2cb",
+      "id": "a6f6d2f0653c1c42",
       "type": "right",
       "action": "updated",
       "title": "Entretien professionnel tous les deux ans",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Autre",
       "description": "b. L’entretien professionnel Vous avez droit à un entretien professionnel. Il s'agit d'un moment d'échange structuré avec votre responsab...",
       "establishments": [
@@ -2767,11 +2942,11 @@
       ]
     },
     {
-      "id": "3a6748519dcb6622",
+      "id": "e8e8af45126cdc1e",
       "type": "right",
       "action": "updated",
       "title": "A. L'ORGANISATION DES TROIS CONSULTATIONS REGULIERES",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Autre",
       "description": "L'organisation des trois consultations régulières Le CSE central exerce les attributions qui concernent la marche générale de l'entrepris...",
       "establishments": [
@@ -2782,11 +2957,11 @@
       ]
     },
     {
-      "id": "89ac451c44cad312",
+      "id": "71013000f2f13066",
       "type": "right",
       "action": "updated",
       "title": "MATERIEL FOURNI AU DELEGUE SYNDICAL CENTRAL",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Droit syndical",
       "description": "Ce droit s'adresse spécifiquement aux délégués syndicaux représentatifs au niveau de l'UES. Si vous êtes dans cette fonction, vous pouvez...",
       "establishments": [
@@ -2797,11 +2972,11 @@
       ]
     },
     {
-      "id": "6c733453d339e0d8",
+      "id": "52567d18d274b88f",
       "type": "right",
       "action": "updated",
       "title": "Bilan de fin de période d'essai",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Emploi et carrière",
       "description": "a. Le bilan de fin de période d’essai Un bilan de fin de période d’essai est mis en place pour tous les salariés embauchés en CDI dans l’...",
       "establishments": [
@@ -2812,11 +2987,11 @@
       ]
     },
     {
-      "id": "659870264b638fd6",
+      "id": "af5283e66023a251",
       "type": "right",
       "action": "updated",
       "title": "Classement au niveau supérieur et compensation en cas de polyvalence verticale",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Emploi et carrière",
       "description": "a. Polyvalence verticale Si vous êtes amené à occuper temporairement un poste de niveau supérieur à votre niveau habituel (on appelle cel...",
       "establishments": [
@@ -2827,11 +3002,11 @@
       ]
     },
     {
-      "id": "4acbffec02123c9b",
+      "id": "b5c5787e8f975571",
       "type": "right",
       "action": "updated",
       "title": "Conditions d’éligibilité",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Emploi et carrière",
       "description": "La Mobilité Volontaire Sécurisée (MVS) est une possibilité qui vous permet d'explorer une nouvelle activité, que ce soit dans une autre e...",
       "establishments": [
@@ -2842,11 +3017,11 @@
       ]
     },
     {
-      "id": "9b4f6093024abc0e",
+      "id": "c88bf5b74751015b",
       "type": "right",
       "action": "updated",
       "title": "Retour du salarié",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Emploi et carrière",
       "description": "d. Situation du salarié durant la MVS Lorsque vous effectuez la mobilité volontaire sécurisée (MVS), voici ce qui change pour votre contr...",
       "establishments": [
@@ -2857,11 +3032,11 @@
       ]
     },
     {
-      "id": "cc8142bd6d22e54b",
+      "id": "8ce21df44e258931",
       "type": "right",
       "action": "updated",
       "title": "Situation du salarié durant la MVS",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Emploi et carrière",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : situation du salarié durant la MVS La mobilité volontaire sécurisée s’exécute d...",
       "establishments": [
@@ -2872,11 +3047,11 @@
       ]
     },
     {
-      "id": "e7630becde3d5108",
+      "id": "1d44f8c56b629ffd",
       "type": "right",
       "action": "updated",
       "title": "Avance sur l'allocation de fin de carrière",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Fin de carrière",
       "description": "Vous trouverez ici les conditions que vous devez respecter pour bénéficier du temps partiel sénior et du temps partiel sénior handicapé (...",
       "establishments": [
@@ -2887,11 +3062,11 @@
       ]
     },
     {
-      "id": "318c8a6853ea7770",
+      "id": "4cf4c58da7e8a277",
       "type": "right",
       "action": "updated",
       "title": "Prime de cooptation",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Fin de carrière",
       "description": "A titre d’exemple, un salarié travaillant à 50 % percevra 50 % de sa rémunération au sein du groupe, et 50 % de sa future pension retrait...",
       "establishments": [
@@ -2902,11 +3077,11 @@
       ]
     },
     {
-      "id": "f56b147bd4ebe09b",
+      "id": "9d95e1b6be41bd80",
       "type": "right",
       "action": "updated",
       "title": "FORMATION A LA SANTE, SECURITE ET CONDITIONS DE TRAVAIL",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Formation",
       "description": "A. Formation économique Si vous êtes membre titulaire du CSE et élu pour la première fois, vous pouvez participer à un stage de formation...",
       "establishments": [
@@ -2917,11 +3092,41 @@
       ]
     },
     {
-      "id": "ab45d6f077dac4eb",
+      "id": "6f508ad3ae3ac642",
+      "type": "right",
+      "action": "updated",
+      "title": "FORMATION ECONOMIQUE",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
+      "section": "Formation",
+      "description": "En tant que salarié, vous pouvez bénéficier de ce droit : formation économique Conformément aux dispositions de l'article L.2315 -63 du C...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "279ac427d705191c",
+      "type": "right",
+      "action": "updated",
+      "title": "Formations numériques organisées sur le temps de travail",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
+      "section": "Retraite",
+      "description": "L'entreprise prépare actuellement un plan de formation pour tous les salariés qui ne sont pas habitués aux outils numériques internes. Le...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "OUVRIER/EMPLOYÉ"
+      ]
+    },
+    {
+      "id": "9783eed8cab552e4",
       "type": "right",
       "action": "updated",
       "title": "REMBOURSEMENT DE FRAIS LORS DES DEPLACEMENTS A SURESNES",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Salaires et primes",
       "description": "Remboursement de frais lors des déplacements à Suresnes Le Restaurant Interentreprises (RIE) du siège sera accessible aux représentants d...",
       "establishments": [
@@ -2932,11 +3137,11 @@
       ]
     },
     {
-      "id": "4964b701b2406142",
+      "id": "529e5427a5fd9bb8",
       "type": "right",
       "action": "updated",
       "title": "Fonctionnement des commissions",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Santé",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : le CSE central peut demander qu'une ou plusieurs de ces réunions soient organis...",
       "establishments": [
@@ -2947,11 +3152,11 @@
       ]
     },
     {
-      "id": "5da8c9de54015b62",
+      "id": "2507f14e6e53736a",
       "type": "right",
       "action": "updated",
       "title": "Entretien de fin de mandat et préparation du retour à l'activité des salariés mandatés",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Temps de travail",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : entretien de fin de mandat et préparation du retour à l'activité des salariés m...",
       "establishments": [
@@ -2962,11 +3167,11 @@
       ]
     },
     {
-      "id": "d65ea35820d81535",
+      "id": "5e000f18aa6b662a",
       "type": "right",
       "action": "updated",
       "title": "TEMPS DE DEPLACEMENT POUR SE RENDRE AUX REUNIONS NATIONALES AU SIEGE",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Temps de travail",
       "description": "Si la Direction organise une réunion au siège social et que ce temps n'est pas déjà couvert par votre temps de délégation, tout le temps ...",
       "establishments": [
@@ -2977,11 +3182,11 @@
       ]
     },
     {
-      "id": "129272ccee869f32",
+      "id": "b5b3388d0597a6f6",
       "type": "right",
       "action": "updated",
       "title": "TRAITEMENT DU TEMPS PASSE EN COMMISSION",
-      "publishedAt": "2026-09-12T21:30:56+00:00",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
       "section": "Temps de travail",
       "description": "Le temps de déplacement, pour la participation aux réunions organisées par la Direction, n'est pas décompté des heures de délégation et s...",
       "establishments": [
@@ -2989,6 +3194,21 @@
       ],
       "beneficiaryCategories": [
         "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "e7ce07b22759173a",
+      "type": "right",
+      "action": "updated",
+      "title": "MISE EN PLACE D'UN CSE CENTRAL ET DE CSE D'ETABLISSEMENT",
+      "publishedAt": "2026-09-12T23:05:46+00:00",
+      "section": "Autre",
+      "description": "Ce texte explique la structure de votre représentation au sein de l'entreprise. Il est mis en place un Comité Social et Économique (CSE) ...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
       ]
     }
   ]
