@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "c20b65a8e76f9c7632b4",
-  "publishedAt": "2026-09-11T16:52:51",
+  "publishedAt": "2026-09-12T12:19:38",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -2365,11 +2365,11 @@
   },
   "changes": [
     {
-      "id": "2d00932f26fe9264",
+      "id": "ac20fa8fe83b2802",
       "type": "right",
       "action": "updated",
       "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Temps de travail",
       "description": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
       "establishments": [
@@ -2380,11 +2380,11 @@
       ]
     },
     {
-      "id": "37d9124d5333b3fd",
+      "id": "c8602f5970aecb60",
       "type": "right",
       "action": "updated",
       "title": "Entretien de mi-année à la demande du salarié",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Autre",
       "description": "e. Développer la culture du feedback L'entreprise souhaite développer une culture du feedback afin de soutenir votre parcours de carrière...",
       "establishments": [
@@ -2395,11 +2395,11 @@
       ]
     },
     {
-      "id": "ca5c45d787923c0a",
+      "id": "3547c2e588f31955",
       "type": "right",
       "action": "updated",
       "title": "Entretien professionnel tous les deux ans",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Autre",
       "description": "b. L’entretien professionnel Vous avez droit à un entretien professionnel. Il s'agit d'un moment d'échange structuré avec votre responsab...",
       "establishments": [
@@ -2410,11 +2410,11 @@
       ]
     },
     {
-      "id": "8ccb567d71783d55",
+      "id": "de944b47a5a51751",
       "type": "right",
       "action": "updated",
       "title": "A. L'ORGANISATION DES TROIS CONSULTATIONS REGULIERES",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Autre",
       "description": "L'organisation des trois consultations régulières Le CSE central exerce les attributions qui concernent la marche générale de l'entrepris...",
       "establishments": [
@@ -2425,11 +2425,11 @@
       ]
     },
     {
-      "id": "465a3a887f53279f",
+      "id": "de2e1cc81979d3a0",
       "type": "right",
       "action": "updated",
       "title": "MATERIEL FOURNI AU DELEGUE SYNDICAL CENTRAL",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Droit syndical",
       "description": "Ce droit s'adresse spécifiquement aux délégués syndicaux représentatifs au niveau de l'UES. Si vous êtes dans cette fonction, vous pouvez...",
       "establishments": [
@@ -2440,11 +2440,11 @@
       ]
     },
     {
-      "id": "251bb3152e620ad9",
+      "id": "6bb706391e4672c9",
       "type": "right",
       "action": "updated",
       "title": "Bilan de fin de période d'essai",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Emploi et carrière",
       "description": "a. Le bilan de fin de période d’essai Un bilan de fin de période d’essai est mis en place pour tous les salariés embauchés en CDI dans l’...",
       "establishments": [
@@ -2455,11 +2455,11 @@
       ]
     },
     {
-      "id": "c4d440a1c10c8673",
+      "id": "bb8c28a4fb755929",
       "type": "right",
       "action": "updated",
       "title": "Classement au niveau supérieur et compensation en cas de polyvalence verticale",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Emploi et carrière",
       "description": "a. Polyvalence verticale Si vous êtes amené à occuper temporairement un poste de niveau supérieur à votre niveau habituel (on appelle cel...",
       "establishments": [
@@ -2470,11 +2470,11 @@
       ]
     },
     {
-      "id": "4ee97f0b932f2b5e",
+      "id": "8c73a5a86654ce21",
       "type": "right",
       "action": "updated",
       "title": "Conditions d’éligibilité",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Emploi et carrière",
       "description": "La Mobilité Volontaire Sécurisée (MVS) est une possibilité qui vous permet d'explorer une nouvelle activité, que ce soit dans une autre e...",
       "establishments": [
@@ -2485,11 +2485,11 @@
       ]
     },
     {
-      "id": "0a9f6b20ca05fb00",
+      "id": "c7f7b3273afbc663",
       "type": "right",
       "action": "updated",
       "title": "Situation du salarié durant la MVS",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Emploi et carrière",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : situation du salarié durant la MVS La mobilité volontaire sécurisée s’exécute d...",
       "establishments": [
@@ -2500,11 +2500,11 @@
       ]
     },
     {
-      "id": "dccb1893cd96a69e",
+      "id": "effc48409b303c25",
       "type": "right",
       "action": "updated",
       "title": "FORMATION A LA SANTE, SECURITE ET CONDITIONS DE TRAVAIL",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Formation",
       "description": "A. Formation économique Si vous êtes membre titulaire du CSE et élu pour la première fois, vous pouvez participer à un stage de formation...",
       "establishments": [
@@ -2515,11 +2515,11 @@
       ]
     },
     {
-      "id": "7b12223f51a74703",
+      "id": "23c6cbf04d9b8c07",
       "type": "right",
       "action": "updated",
       "title": "REMBOURSEMENT DE FRAIS LORS DES DEPLACEMENTS A SURESNES",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Salaires et primes",
       "description": "Remboursement de frais lors des déplacements à Suresnes Le Restaurant Interentreprises (RIE) du siège sera accessible aux représentants d...",
       "establishments": [
@@ -2530,11 +2530,11 @@
       ]
     },
     {
-      "id": "938b63315eb905ca",
+      "id": "6e01e9bd9c82819b",
       "type": "right",
       "action": "updated",
       "title": "Fonctionnement des commissions",
-      "publishedAt": "2026-09-11T14:52:50+00:00",
+      "publishedAt": "2026-09-12T10:19:38+00:00",
       "section": "Santé",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : le CSE central peut demander qu'une ou plusieurs de ces réunions soient organis...",
       "establishments": [
