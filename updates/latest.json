@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "88bcaff8666361979c76",
-  "publishedAt": "2026-10-15T23:08:58",
+  "version": "427e99c55a1253b4167f",
+  "publishedAt": "2026-10-15T23:10:13",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -1896,12 +1896,14 @@
             "body": "Depuis l'application SWILE :\n\n- Cliquez sur Me connecter\n- Cliquez sur Mot de passe oublié ?\n- Renseignez l'adresse mail rattachée à votre compte Swile\n\nVous recevrez un email intitulé Réinitialisez votre mot de passe dans votre boîte mail :\n- Cliquez sur Je réinitialise\n- Renseignez votre nouveau mot de passe Swile",
             "summary": "Vous n'avez plus accès à votre compte Swile ?",
             "order": 2,
-            "images": [],
-            "image": "",
+            "images": [
+              "media/b42fa90d95eaea4ae6d5.png"
+            ],
+            "image": "media/b42fa90d95eaea4ae6d5.png",
             "attachments": [],
             "imageSize": "medium",
-            "imageWidth": 190,
-            "imageHeight": 125,
+            "imageWidth": 250,
+            "imageHeight": 250,
             "imageAlign": "center",
             "imageLink": "",
             "establishments": [
@@ -2947,11 +2949,341 @@
   },
   "changes": [
     {
-      "id": "c7342006e157aade",
+      "id": "094d882235737efa",
+      "type": "right",
+      "action": "updated",
+      "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Temps de travail",
+      "description": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "d674a0bd22fb5ab0",
+      "type": "right",
+      "action": "updated",
+      "title": "Entretien de mi-année à la demande du salarié",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Autre",
+      "description": "e. Développer la culture du feedback L'entreprise souhaite développer une culture du feedback afin de soutenir votre parcours de carrière...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "a71c60a69ea8297c",
+      "type": "right",
+      "action": "updated",
+      "title": "Entretien professionnel tous les deux ans",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Autre",
+      "description": "b. L’entretien professionnel Vous avez droit à un entretien professionnel. Il s'agit d'un moment d'échange structuré avec votre responsab...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "e3892e5e2f033778",
+      "type": "right",
+      "action": "updated",
+      "title": "A. L'ORGANISATION DES TROIS CONSULTATIONS REGULIERES",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Autre",
+      "description": "L'organisation des trois consultations régulières Le CSE central exerce les attributions qui concernent la marche générale de l'entrepris...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "1f689799ddf49e04",
+      "type": "right",
+      "action": "updated",
+      "title": "MATERIEL FOURNI AU DELEGUE SYNDICAL CENTRAL",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Droit syndical",
+      "description": "Ce droit s'adresse spécifiquement aux délégués syndicaux représentatifs au niveau de l'UES. Si vous êtes dans cette fonction, vous pouvez...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "ffdcc97a2c3787dd",
+      "type": "right",
+      "action": "updated",
+      "title": "Bilan de fin de période d'essai",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Emploi et carrière",
+      "description": "a. Le bilan de fin de période d’essai Un bilan de fin de période d’essai est mis en place pour tous les salariés embauchés en CDI dans l’...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "cc1a90bbc8a0e29d",
+      "type": "right",
+      "action": "updated",
+      "title": "Classement au niveau supérieur et compensation en cas de polyvalence verticale",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Emploi et carrière",
+      "description": "a. Polyvalence verticale Si vous êtes amené à occuper temporairement un poste de niveau supérieur à votre niveau habituel (on appelle cel...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "OUVRIER/EMPLOYÉ"
+      ]
+    },
+    {
+      "id": "e180901e3034de82",
+      "type": "right",
+      "action": "updated",
+      "title": "Conditions d’éligibilité",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Emploi et carrière",
+      "description": "La Mobilité Volontaire Sécurisée (MVS) est une possibilité qui vous permet d'explorer une nouvelle activité, que ce soit dans une autre e...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "5353bf9f1baa11bd",
+      "type": "right",
+      "action": "updated",
+      "title": "Retour du salarié",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Emploi et carrière",
+      "description": "d. Situation du salarié durant la MVS Lorsque vous effectuez la mobilité volontaire sécurisée (MVS), voici ce qui change pour votre contr...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "26678f335196b256",
+      "type": "right",
+      "action": "updated",
+      "title": "Situation du salarié durant la MVS",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Emploi et carrière",
+      "description": "En tant que salarié, vous pouvez bénéficier de ce droit : situation du salarié durant la MVS La mobilité volontaire sécurisée s’exécute d...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "2ebc3b12f7f71e19",
+      "type": "right",
+      "action": "updated",
+      "title": "Avance sur l'allocation de fin de carrière",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Fin de carrière",
+      "description": "Vous trouverez ici les conditions que vous devez respecter pour bénéficier du temps partiel sénior et du temps partiel sénior handicapé (...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "b2508fa5617e55e7",
+      "type": "right",
+      "action": "updated",
+      "title": "Prime de cooptation",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Fin de carrière",
+      "description": "A titre d’exemple, un salarié travaillant à 50 % percevra 50 % de sa rémunération au sein du groupe, et 50 % de sa future pension retrait...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "0d127ed52b5fcf5f",
+      "type": "right",
+      "action": "updated",
+      "title": "FORMATION A LA SANTE, SECURITE ET CONDITIONS DE TRAVAIL",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Formation",
+      "description": "A. Formation économique Si vous êtes membre titulaire du CSE et élu pour la première fois, vous pouvez participer à un stage de formation...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "ff758bacf5c7969f",
+      "type": "right",
+      "action": "updated",
+      "title": "FORMATION ECONOMIQUE",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Formation",
+      "description": "En tant que salarié, vous pouvez bénéficier de ce droit : formation économique Conformément aux dispositions de l'article L.2315 -63 du C...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "a434f9a49bb18d97",
+      "type": "right",
+      "action": "updated",
+      "title": "Formations numériques organisées sur le temps de travail",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Retraite",
+      "description": "L'entreprise prépare actuellement un plan de formation pour tous les salariés qui ne sont pas habitués aux outils numériques internes. Le...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "OUVRIER/EMPLOYÉ"
+      ]
+    },
+    {
+      "id": "5bcbaaf3b9baf355",
+      "type": "right",
+      "action": "updated",
+      "title": "REMBOURSEMENT DE FRAIS LORS DES DEPLACEMENTS A SURESNES",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Salaires et primes",
+      "description": "Remboursement de frais lors des déplacements à Suresnes Le Restaurant Interentreprises (RIE) du siège sera accessible aux représentants d...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "7d093738c56f0200",
+      "type": "right",
+      "action": "updated",
+      "title": "Fonctionnement des commissions",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Santé",
+      "description": "En tant que salarié, vous pouvez bénéficier de ce droit : le CSE central peut demander qu'une ou plusieurs de ces réunions soient organis...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "7395377cc3ec13fb",
+      "type": "right",
+      "action": "updated",
+      "title": "Entretien de fin de mandat et préparation du retour à l'activité des salariés mandatés",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Temps de travail",
+      "description": "En tant que salarié, vous pouvez bénéficier de ce droit : entretien de fin de mandat et préparation du retour à l'activité des salariés m...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "a39dc4efe341f8f1",
+      "type": "right",
+      "action": "updated",
+      "title": "TEMPS DE DEPLACEMENT POUR SE RENDRE AUX REUNIONS NATIONALES AU SIEGE",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Temps de travail",
+      "description": "Si la Direction organise une réunion au siège social et que ce temps n'est pas déjà couvert par votre temps de délégation, tout le temps ...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "99b4a33aa30a25bf",
+      "type": "right",
+      "action": "updated",
+      "title": "TRAITEMENT DU TEMPS PASSE EN COMMISSION",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Temps de travail",
+      "description": "Le temps de déplacement, pour la participation aux réunions organisées par la Direction, n'est pas décompté des heures de délégation et s...",
+      "establishments": [
+        "['TOUS LES ÉTABLISSEMENTS']"
+      ],
+      "beneficiaryCategories": [
+        "['TOUTES CATÉGORIES']"
+      ]
+    },
+    {
+      "id": "2f2ce589282f70e9",
+      "type": "right",
+      "action": "updated",
+      "title": "MISE EN PLACE D'UN CSE CENTRAL ET DE CSE D'ETABLISSEMENT",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Autre",
+      "description": "Ce texte explique la structure de votre représentation au sein de l'entreprise. Il est mis en place un Comité Social et Économique (CSE) ...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "1b4cc995b2e2cb41",
+      "type": "right",
+      "action": "updated",
+      "title": "ARTICLE 2. LE CSE CENTRAL",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
+      "section": "Autre",
+      "description": "Les détails concernant le CSE Central vous seront communiqués dès qu'ils seront disponibles. A. Périmètre et rôle du CSE central Le CSE c...",
+      "establishments": [
+        "TOUS LES ÉTABLISSEMENTS"
+      ],
+      "beneficiaryCategories": [
+        "TOUTES CATÉGORIES"
+      ]
+    },
+    {
+      "id": "cdad2c1fa5495cbb",
       "type": "content",
-      "action": "added",
+      "action": "updated",
       "title": "Comment modifier mon mot de passe SWILE ?",
-      "publishedAt": "2026-10-15T21:08:57+00:00",
+      "publishedAt": "2026-10-15T21:10:13+00:00",
       "section": "Application",
       "description": "Depuis l'application SWILE : - Cliquez sur Me connecter - Cliquez sur Mot de passe oublié ? - Renseignez l'adresse mail rattachée à votre...",
       "establishments": [
