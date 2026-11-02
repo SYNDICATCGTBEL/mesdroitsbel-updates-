@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "8ce252f0ff8faaa153c4",
-  "publishedAt": "2026-11-02T22:38:37",
+  "version": "7f130fd336742fa91286",
+  "publishedAt": "2026-11-02T22:38:43",
   "rights": [
     {
       "id": "6cba49ce1a2c3b1c",
@@ -2161,7 +2161,7 @@
         ],
         "introductionRichText": [],
         "imageSize": "medium",
-        "visible": "non",
+        "visible": "oui",
         "imageWidth": 190,
         "imageHeight": 125,
         "imageAlign": "center",
@@ -2949,11 +2949,11 @@
   },
   "changes": [
     {
-      "id": "e864da45afbfcb3e",
+      "id": "a01b8aa9f811ff51",
       "type": "right",
       "action": "updated",
       "title": "DUREE DU TRAVAIL ET TEMPS DE REPOS",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Temps de travail",
       "description": "Pour information, voici ci-dessous un fichier récapitulatif sur la durée du travail et les temps de repos",
       "establishments": [
@@ -2964,11 +2964,11 @@
       ]
     },
     {
-      "id": "aeced9ef06e272e7",
+      "id": "c7250cadab051d97",
       "type": "right",
       "action": "updated",
       "title": "Entretien de mi-année à la demande du salarié",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Autre",
       "description": "e. Développer la culture du feedback L'entreprise souhaite développer une culture du feedback afin de soutenir votre parcours de carrière...",
       "establishments": [
@@ -2979,11 +2979,11 @@
       ]
     },
     {
-      "id": "ee582da7db9ca96f",
+      "id": "af3aaf2a12c7b0eb",
       "type": "right",
       "action": "updated",
       "title": "Entretien professionnel tous les deux ans",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Autre",
       "description": "b. L’entretien professionnel Vous avez droit à un entretien professionnel. Il s'agit d'un moment d'échange structuré avec votre responsab...",
       "establishments": [
@@ -2994,11 +2994,11 @@
       ]
     },
     {
-      "id": "e6815d2bf881828f",
+      "id": "d94870e3ffa57a14",
       "type": "right",
       "action": "updated",
       "title": "A. L'ORGANISATION DES TROIS CONSULTATIONS REGULIERES",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Autre",
       "description": "L'organisation des trois consultations régulières Le CSE central exerce les attributions qui concernent la marche générale de l'entrepris...",
       "establishments": [
@@ -3009,11 +3009,11 @@
       ]
     },
     {
-      "id": "30355c02fd3033fb",
+      "id": "48476c8147fdc50f",
       "type": "right",
       "action": "updated",
       "title": "MATERIEL FOURNI AU DELEGUE SYNDICAL CENTRAL",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Droit syndical",
       "description": "Ce droit s'adresse spécifiquement aux délégués syndicaux représentatifs au niveau de l'UES. Si vous êtes dans cette fonction, vous pouvez...",
       "establishments": [
@@ -3024,11 +3024,11 @@
       ]
     },
     {
-      "id": "1baffa5e05f9636a",
+      "id": "41f835218040e46a",
       "type": "right",
       "action": "updated",
       "title": "Bilan de fin de période d'essai",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Emploi et carrière",
       "description": "a. Le bilan de fin de période d’essai Un bilan de fin de période d’essai est mis en place pour tous les salariés embauchés en CDI dans l’...",
       "establishments": [
@@ -3039,11 +3039,11 @@
       ]
     },
     {
-      "id": "d90fc0d5f56dfd90",
+      "id": "1df6165433da97fd",
       "type": "right",
       "action": "updated",
       "title": "Classement au niveau supérieur et compensation en cas de polyvalence verticale",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Emploi et carrière",
       "description": "a. Polyvalence verticale Si vous êtes amené à occuper temporairement un poste de niveau supérieur à votre niveau habituel (on appelle cel...",
       "establishments": [
@@ -3054,11 +3054,11 @@
       ]
     },
     {
-      "id": "8fad9eb5cf2af4f8",
+      "id": "20f3cf19e2885cfc",
       "type": "right",
       "action": "updated",
       "title": "Conditions d’éligibilité",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Emploi et carrière",
       "description": "La Mobilité Volontaire Sécurisée (MVS) est une possibilité qui vous permet d'explorer une nouvelle activité, que ce soit dans une autre e...",
       "establishments": [
@@ -3069,11 +3069,11 @@
       ]
     },
     {
-      "id": "28598c48ebc417c1",
+      "id": "454165bb084a2de6",
       "type": "right",
       "action": "updated",
       "title": "Retour du salarié",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Emploi et carrière",
       "description": "d. Situation du salarié durant la MVS Lorsque vous effectuez la mobilité volontaire sécurisée (MVS), voici ce qui change pour votre contr...",
       "establishments": [
@@ -3084,11 +3084,11 @@
       ]
     },
     {
-      "id": "815bfeb120dbce36",
+      "id": "25184e79e13a7111",
       "type": "right",
       "action": "updated",
       "title": "Situation du salarié durant la MVS",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Emploi et carrière",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : situation du salarié durant la MVS La mobilité volontaire sécurisée s’exécute d...",
       "establishments": [
@@ -3099,11 +3099,11 @@
       ]
     },
     {
-      "id": "2c65093d7bc9d738",
+      "id": "c694e385e90e31ac",
       "type": "right",
       "action": "updated",
       "title": "Avance sur l'allocation de fin de carrière",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Fin de carrière",
       "description": "Vous trouverez ici les conditions que vous devez respecter pour bénéficier du temps partiel sénior et du temps partiel sénior handicapé (...",
       "establishments": [
@@ -3114,11 +3114,11 @@
       ]
     },
     {
-      "id": "343ff744afb19f31",
+      "id": "7b223ef0db4e4f96",
       "type": "right",
       "action": "updated",
       "title": "Prime de cooptation",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Fin de carrière",
       "description": "A titre d’exemple, un salarié travaillant à 50 % percevra 50 % de sa rémunération au sein du groupe, et 50 % de sa future pension retrait...",
       "establishments": [
@@ -3129,11 +3129,11 @@
       ]
     },
     {
-      "id": "367c1b12d96d627c",
+      "id": "3591d532e7fe2865",
       "type": "right",
       "action": "updated",
       "title": "FORMATION A LA SANTE, SECURITE ET CONDITIONS DE TRAVAIL",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Formation",
       "description": "A. Formation économique Si vous êtes membre titulaire du CSE et élu pour la première fois, vous pouvez participer à un stage de formation...",
       "establishments": [
@@ -3144,11 +3144,11 @@
       ]
     },
     {
-      "id": "647fa537ecddcd0a",
+      "id": "97c86ff6c994f849",
       "type": "right",
       "action": "updated",
       "title": "FORMATION ECONOMIQUE",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Formation",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : formation économique Conformément aux dispositions de l'article L.2315 -63 du C...",
       "establishments": [
@@ -3159,11 +3159,11 @@
       ]
     },
     {
-      "id": "959303c7ad930044",
+      "id": "ad7c788b7d24d69c",
       "type": "right",
       "action": "updated",
       "title": "Formations numériques organisées sur le temps de travail",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Retraite",
       "description": "L'entreprise prépare actuellement un plan de formation pour tous les salariés qui ne sont pas habitués aux outils numériques internes. Le...",
       "establishments": [
@@ -3174,11 +3174,11 @@
       ]
     },
     {
-      "id": "203a1ef614619647",
+      "id": "61b8f10f7d1a8bc8",
       "type": "right",
       "action": "updated",
       "title": "REMBOURSEMENT DE FRAIS LORS DES DEPLACEMENTS A SURESNES",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Salaires et primes",
       "description": "Remboursement de frais lors des déplacements à Suresnes Le Restaurant Interentreprises (RIE) du siège sera accessible aux représentants d...",
       "establishments": [
@@ -3189,11 +3189,11 @@
       ]
     },
     {
-      "id": "ba9e27e670426fac",
+      "id": "921b3f7e9b77d098",
       "type": "right",
       "action": "updated",
       "title": "Fonctionnement des commissions",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Santé",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : le CSE central peut demander qu'une ou plusieurs de ces réunions soient organis...",
       "establishments": [
@@ -3204,11 +3204,11 @@
       ]
     },
     {
-      "id": "d55811d61f4e8c31",
+      "id": "878cf2feb3a1dbbc",
       "type": "right",
       "action": "updated",
       "title": "Entretien de fin de mandat et préparation du retour à l'activité des salariés mandatés",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Temps de travail",
       "description": "En tant que salarié, vous pouvez bénéficier de ce droit : entretien de fin de mandat et préparation du retour à l'activité des salariés m...",
       "establishments": [
@@ -3219,11 +3219,11 @@
       ]
     },
     {
-      "id": "2e7f6f800cc41ab9",
+      "id": "4107f9f8c1cc6906",
       "type": "right",
       "action": "updated",
       "title": "TEMPS DE DEPLACEMENT POUR SE RENDRE AUX REUNIONS NATIONALES AU SIEGE",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Temps de travail",
       "description": "Si la Direction organise une réunion au siège social et que ce temps n'est pas déjà couvert par votre temps de délégation, tout le temps ...",
       "establishments": [
@@ -3234,11 +3234,11 @@
       ]
     },
     {
-      "id": "4329c5f2c03b739a",
+      "id": "7bb89e906a6a9c1d",
       "type": "right",
       "action": "updated",
       "title": "TRAITEMENT DU TEMPS PASSE EN COMMISSION",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Temps de travail",
       "description": "Le temps de déplacement, pour la participation aux réunions organisées par la Direction, n'est pas décompté des heures de délégation et s...",
       "establishments": [
@@ -3249,11 +3249,11 @@
       ]
     },
     {
-      "id": "7229250f8228e950",
+      "id": "a04ee3310f01898a",
       "type": "right",
       "action": "updated",
       "title": "MISE EN PLACE D'UN CSE CENTRAL ET DE CSE D'ETABLISSEMENT",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Autre",
       "description": "Ce texte explique la structure de votre représentation au sein de l'entreprise. Il est mis en place un Comité Social et Économique (CSE) ...",
       "establishments": [
@@ -3264,11 +3264,11 @@
       ]
     },
     {
-      "id": "c970254343aaf4f1",
+      "id": "c7a3fd7088dd10a6",
       "type": "right",
       "action": "updated",
       "title": "ARTICLE 2. LE CSE CENTRAL",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
       "section": "Autre",
       "description": "Les détails concernant le CSE Central vous seront communiqués dès qu'ils seront disponibles. A. Périmètre et rôle du CSE central Le CSE c...",
       "establishments": [
@@ -3279,13 +3279,13 @@
       ]
     },
     {
-      "id": "97de205a279a74cd",
-      "type": "app",
+      "id": "7840a59b4f3702c4",
+      "type": "page",
       "action": "updated",
-      "title": "Paramètres de l'application",
-      "publishedAt": "2026-11-02T21:38:36+00:00",
-      "section": "Accueil et navigation",
-      "description": "Les textes, modules ou intitulés de l'application ont été modifiés."
+      "title": "Mes préférences",
+      "publishedAt": "2026-11-02T21:38:42+00:00",
+      "section": "Rubriques",
+      "description": "Notifications et affichage"
     }
   ]
 }
